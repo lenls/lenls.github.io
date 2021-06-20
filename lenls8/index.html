@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="Shift-JIS"?>
+<xsl:stylesheet version="1.0"
+	xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="xml" encoding="Shift-JIS"/>
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja">
+	<head>
+      <meta HTTP-EQUIV="Content-Type" CONTENT="text/html;charset=shift-jis" />
+  	  <title>
+LENLS8 (Logic and Engineering of Natural Language Semantics 8)
+  	  </title>
+	  <link rel="stylesheet" type="text/css" />
+	  <style>
+      <xsl:comment>
+body {		color: black;
+		font-size:16px;
+		font-family:Century;}
+A:link {	color: gray;}
+A:visited {	color: gray;}
+A:active {	color: #FF0066;}
+td {		color:black;
+		font-size:16px;}
+h1 {		color: #191970;
+		font-size: 30px;}
+h2 {		color: white;
+		font-weight: bold;
+		font-size: 18px;
+		background-image: url(http://www.is.ocha.ac.jp/~bekki/lenls/bar.gif);
+		background-repeat: no-repeat;
+		background-position: left bottom;
+  		}
+h3 {		color: CC3399;
+		font-size: 16px;
+		}
+h4 {		color: CC66CC;
+		font-size: 14px;
+		}
+.name {		font-size:24px;
+		text-align: center;}
+.organization {	font-size:18px;
+		text-align: right;}
+.title {	font-size:20px;}
+.email {	text-align: right;}
+.abstract { border-style: dashed;
+			border-width: thin;}
+.tab {}
+.c1 {		background: #e0ffff;}
+.c2 {		background: #e6e6fa;}
+    </xsl:comment>
+    </style>  
+	</head>
+	<body bgcolor="#66cdaa" text="black">
+      <center>
+      <table border="0" cellspacing="10" cellpadding="10" width="750">
+	  <tr>
+		<td bgcolor="#87cddb" valign="top" width="150">
+        <p><table border="0" cellspacing="0" cellpadding="0">
+           <tr>
+             <td align="center">
+             <img src="lambda.gif" width="142" height="197" />
+             </td>
+           </tr>
+	</table>
+        </p>
+        <br />
+          <table border="0" cellspacing="5" cellpadding="5">
+            <tr><td class="c1"><a href="#topics">Aim and Topics</a></td></tr>
+            <tr><td class="c2"><a href="#submissions">Submission</a></td></tr>
+            <tr><td class="c1"><a href="#seletedpapers">Selected Papers</a></td></tr>
+            <tr><td class="c2"><a href="#dates">Important Dates</a></td></tr>
+            <tr><td class="c1"><a href="#registration">Registration</a></td></tr>
+            <tr><td class="c2"><a href="#program">Program</a></td></tr>
+            <tr><td class="c1"><a href="#tutorial">Tutorial Lecture</a></td></tr>
+            <tr><td class="c2"><a href="#committee">Organizing Committee</a></td></tr>
+            <tr><td class="c1"><a href="#contact">Contact</a></td></tr>
+            <tr><td class="c2">
+              <table><tr><td>LENLS archives</td></tr>
+              <table><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;LENLS1</td></tr>
+              <table><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="archives/LENLS2005.html">LENLS2</a></td></tr>
+              <table><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="archives/LENLS2006.html">LENLS3</a></td></tr>
+              <table><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="archives/LENLS2007.html">LENLS4</a></td></tr>
+              <table><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="archives/LENLS2008.html">LENLS5</a></td></tr>
+              <table><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="lenls6/index.html">LENLS6</a></td></tr>
+              <table><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="lenls7/index.html">LENLS7</a></td></tr>
+              </td></tr></table>
+		</table>
+        </td>
+
+        <td bgcolor="white" valign="top">
+<h1>Logic and Engineering of Natural Language Semantics 8 (LENLS8)</h1>
+
+<table border="0" cellspacing="0" cellpadding="0" >
+<tr><td>
+  Workshop Site: <a href="http://www.sunport-hall.jp//shisetu/access.htm">Sunport Hall Takamatsu</a>, Takamatsu</td>
+<tr><td>2-1, Sunport, Takamatsu-shi, Kagawa-ken, Japan
+<span id="map">[<a href="http://maps.google.co.jp/maps?q=760-0019%20%E9%A6%99%E5%B7%9D%E7%9C%8C%E9%AB%98%E6%9D%BE%E5%B8%82%E3%82%B5%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%882%E7%95%AA1%E5%8F%B7&um=1&ie=UTF-8&sa=N&hl=ja&tab=wl">google map</a>]</span>
+<center>
+<table border="0" cellspacing="0" cellpadding="0" >
+<tr><td>Information/Registration：</td><td>5th Floor</td></tr>
+<tr><td>Conference Rooms：</td><td>5th and 6th Floor</td></tr>
+</table>
+</center>
+<br />
+  </td></tr>
+<tr><td>
+  Dates: December 1-2, 2011
+  </td></tr>
+<tr><td>
+Chair: 
+  <ul>
+  <li>Alastair Butler (JST/Tohoku University) </li>
+  </ul>
+  </td></tr>
+<tr><td>
+Invited Speakers: 
+  <ul>
+<li>Frank Veltman (University of Amsterdam)</li>
+<li>Kentaro Inui (Tohoku University) </li>
+  </ul>
+  </td></tr>
+  <tr><td>
+  Information on Takamatsu: 
+  <ul>
+  <li><a href="http://www.takamatsu.or.jp/eng/">http://www.takamatsu.or.jp/eng/</a></li>
+  <li><a href="http://www.city.takamatsu.kagawa.jp/english/access/">http://www.city.takamatsu.kagawa.jp/english/access/</a></li>
+  <li><a href="http://www.my-kagawa.jp/eg/">http://www.my-kagawa.jp/eg/</a></li>
+  </ul>
+  </td></tr>
+</table>
+
+<a name="topics" />
+<h2>Aim and Topics</h2>
+<p>
+LENLS is an annual international workshop focusing on formal 
+semantics and pragmatics. It will be held as one of workshops of   
+<a href="http://www.ai-gakkai.or.jp/jsai-isai/2011/">JSAI isAI 2011</a>, sponsored by <a href="http://www.ai-gakkai.or.jp/jsai/english.html">The Japan Society for Artificial Intelligence (JSAI)</a>. 
+</p>
+
+<p>
+We invite submissions to this year's workshop on topics in formal 
+semantics and pragmatics, and related fields, including but in no 
+way limited to the following: 
+<ul>
+<li>Dynamic syntax/semantics/pragmatics of natural language</li>
+<li>Categorical/topological/coalgebraic approaches for natural language syntax/semantics/pragmatics</li>
+<li>Logic and its relation to natural language and linguistic reasoning (especially dynamic logics)</li>
+<li>Type-theoretic approaches to natural language</li>
+<li>Formal Philosophy of language</li>
+<li>Formal pragmatics (especially game- and utility-theoretic approaches)</li>
+<li>Substructural expansion of Lambek Lambda Calculi</li>
+<li>Many-valued/Fuzzy and other non-classical logics and natural  language</li>
+</ul>
+
+<p>This year we especially welcome submissions connected to the theme of "Where is dynamic semantics now?". Flavours of dynamic semantics (world updating, assignment changing, etc.) have been broadly applied to solve problems in linguistics (notably anything related to anaphora) and philosophy (e.g., foundational issues of context, the role of variables) and have prompted the development of a diverse range of frameworks with replicable formal results.  However in recent years direct appeals to the dynamic metaphor have been wanning, as has the explicit development of novel systems, or even refinements to or mergings of older systems. Has dynamic semantics been so successful in solving its problems that all that remains for discussion are implementational differences among established parameters, or have debates simply shifted to new issues? Either way now seems an apt time to take stock and question where the decades of research have taken us and where we might hope this legacy to send us in the future.</p>
+
+<p>On the 3rd December, there will also be <a href="#tutorial">special tutorial lectures</a> at the workshop venue by Frank Veltman (University of Amsterdam) and Eric McCready (Aoyama Gakuin University).</p>
+
+<a name="submissions" />
+<h2>Submissions:</h2>
+
+<p>Abstracts (4-6 pages, including figures, bibliography, possible apendices) must be submitted electronically in PDF format at:</p>
+
+<p>
+	<a href="https://www.easychair.org/conferences/?conf=lenls8">
+	https://www.easychair.org/conferences/?conf=lenls8
+	</a>
+</p>
+
+<p>
+When his/her abstract is accepted, the author is expected to submit a full paper (10-14 pages) before the workshop.  The proceedings of the workshop will be available at the conference site for registered persons.
+</p>
+
+<a name="selectedpapers" />
+<h2>Selected Papers</h2>
+
+<table>
+<tr>
+<td>
+We also plan to publish a selection of the accepted/invited papers as a portion of a volume "JSAI-isAI2011 selected papers", which will be published from `Lecture Notes in Artificial Intelligence' series (Springer Verlag). 
+</td>
+<td><a href="http://www.springer.com/lncs" target="blank"><img src="./cda_displayimage.jpg"></a></td>
+</tr>
+</table>
+
+<a name="dates" />
+<h2>Important dates:</h2>
+
+<table border="0" cellspacing="4" cellpadding="0" >
+<tr><td>Abstract submission deadline (extended)</td><td>:</td><td><s>September 15, 2011</s></td></tr>
+<tr><td>Notification of acceptance </td><td>:</td><td><s>October 10, 2011</s></td></tr>
+<tr><td>Deadline for camera-ready copy </td><td>:</td><td><s>October 28, 2011</s></td></tr>
+<tr><td>Deadline for onsite registration </td><td>:</td><td><s>November 24, 2011</s></td></tr>
+<tr><td>LENLS8 </td><td>:</td><td><s>December 1-2, 2011</s></td></tr>
+<tr><td>Tutorial Lectures </td><td>:</td><td><s>December 3, 2011</s></td></tr>
+</table>
+<br/>
+
+<a name="registration" />
+<h2>Registration:</h2>
+
+  <p>The proceedings of the workshop will be available at the        
+  conference site for registered persons.  Please follow the link 
+  below and register yourself until 24th November 2011.<BR>
+  </p>
+
+  <a href="http://www.ai-gakkai.or.jp/jsai-isai/2011/index.html#registration">
+  http://www.ai-gakkai.or.jp/jsai-isai/2011/index.html#registration
+  </a>
+
+<a name="program"/><h2>Program</h2>
+<h3>December 1st (Thu), 2011</h3>
+09:00-10:00&nbsp;Reception<br/>
+10:00-10:10&nbsp;Opening Remarks<br/>
+10:10-11:40&nbsp;Session 1<ul>
+  <li>Yoshiki Mori</li>
+    "Back To the Future, Back From the Future &#8212; To and Fro For the Counterfactual Future In the Past &#8212;"
+  
+  <li>Yurie Hara, Shigeto Kawahara and Yuli Feng</li>
+    "Emphatic Stress as Epistemic Conflict: A case study of Mandarin Chinese"
+  
+  <li>Chungmin Lee</li>
+    "Dynamic Perspective Shifts in Evidentials: Evidence from Korean"
+  
+  </ul>
+11:40-13:00&nbsp;Lunch<br/>
+13:00-15:00&nbsp;Session 2<ul>
+  <li>Mauricio Hernandes</li>
+    "Players who don't know how to play. An Haskell implementation of unawareness."
+  
+  <li>Oleg Prosorov</li>
+    "A Sheaf-Theoretic Framework for Dynamic Semantics"
+  
+  <li>Margot Colinet and Gre'goire Winterstein</li>
+    "Linking probabilistic accounts: polarity items and discourse markers"
+  
+  <li>Hiroko Ozaki and Daisuke Bekki</li>
+    "Extractability as Deduction Theorem in Subdirectional Combinatory Logic"
+  
+  </ul>
+15:00-15:30&nbsp;Coffee break<br/>
+15:30-16:30&nbsp;Session 3<ul>
+  <li>Gre'goire Winterstein</li>
+    "Ludics and Presupposition Projection"
+  
+  <li>Nicholas Asher and Jason Quinley</li>
+    "Begging Questions, Getting Answers and Basic Cooperativity"
+  
+  </ul>
+16:30-17:30&nbsp;Invited Talk 1<ul>
+  <li>Frank Veltman (University of Amsterdam)</li>
+    "Or else, what?"
+  
+  </ul>
+
+
+<h3>December 2nd (Fri), 2011</h3>
+08:30-09:00&nbsp;Reception<br/>
+09:00-10:30&nbsp;Session 4<ul>
+  <li>Yo Sato and Wai Lok Tam</li>
+    "Underspecified types and the semantic bootstrapping of common nouns and adjectives: a simulation with a robot's sensory data "
+  
+  <li>David Yoshikazu Oshima</li>
+    "The Japanese particle yo in declaratives:         Relevance, priority, and blaming"
+  
+  <li>Katsuhiko Yabushita</li>
+    "Japanese NPI Dare-mo as Unrestricted Universal Quantifier"
+  
+  </ul>
+10:30-11:00&nbsp;Coffee break<br/>
+11:00-12:00&nbsp;Session 5<ul>
+  <li>J.-R. Hayashishita and Daisuke Bekki</li>
+    "Conjoined nominal expressions in Japanese:         Interpretation through monad"
+  
+  <li>Christina Unger</li>
+    "Dynamic semantics as monadic computation"
+  
+  </ul>
+12:00-14:00&nbsp;Lunch<br/>
+14:00-15:00&nbsp;Session 6<ul>
+  <li>Satoru Suzuki</li>
+    "Measurement-Theoretic Foundations of Gradable-Predicate Logic"
+  
+  <li>Alastar Butler and Kei Yoshimoto</li>
+    "Towards a self-selective and self-healing evaluation"
+  
+  </ul>
+15:00-15:30&nbsp;Coffee break<br/>
+  
+15:30-16:30&nbsp;Invited Talk 2<ul>
+  <li>Kentaro Inui (Tohoku University)</li>
+    "Toward Deep Processing of Language in the Era of Large-scale 
+       Knowledge Resources:  Time for Formal Semantics to Meet NLP Again"
+  </ul>
+
+18:00-&nbsp;Dinner<br/>
+
+<!--h4>Alternates</h4><ul>
+  <li>Eric Mccready</li>
+    "Trust in Evidential Testimony"
+  
+</ul-->
+
+<a name="tutorial" />
+<h2>Tutorial Lectures</h2>
+
+<h3>December 3rd (Sat), 2011</h3>
+
+<h4>Lecturer</h4>
+Frank Veltman (University of Amsterdam)<br />
+Eric McCready (Aoyama Gakuin University) 
+
+<h4>Location</h4>
+  "Sunport Hall Takamatsu", 
+  Takamatsu 2-1, Sunport, Takamatsu-shi, Kagawa-ken, Japan<br /><br />
+
+<h4>Time Table</h4>
+ 10:00-12:00 Session 1: Tutorial lecture by Eric McCready
+ <ul></ul>
+ 
+ <b>Title: "Theories of Evidentiality"</b> <a href="paper/evidLenls.pdf">[PDF]</a>
+ 
+ <ul></ul>
+
+Abstract: Evidentiality has been an increasingly popular research area in formal 
+semantics and pragmatics. In this talk, I introduce several influential recent 
+theories of evidentials and (some of) the phenomena that they have been used to 
+analyze. I also discuss the suitability of theories of evidence found in the 
+epistemological and philosophy of science literature for the foundations of the 
+theory of evidentiality and indicate what I take to be the characteristics required for such a theory.
+ <ul></ul>
+ 
+ <ul></ul>
+
+ 12:00-13:30 Lunch
+ <ul></ul>
+
+ 13:30-17:30 Session 2: Tutorial lecture by Frank Veltman
+ <ul></ul>
+ 
+ <b>Title: "Counterfactuals"</b>
+ <ul></ul>
+
+<!--Abstract: In this talk I will present the theory of imperatives that I have developed in the past five years and apply it to a numbe
+r of problems involving disjunction. In particular I will use it to analyse pseudo-imperatives and a variant of the Miners Paradox. -->
+ <ul></ul>
+
+<a name="committee" />
+<h2>Organizing/Program Committee:</h2>
+<ul>
+<li>Alastair Butler (Chair)</li>
+<li>Daisuke Bekki</li>
+<li>Eric McCready</li>
+<li>Yoshiki Mori</li>
+<li>Yasuo Nakayama</li>
+<li>Katsuhiko Yabushita</li>
+<li>Tomoyuki Yamada</li>
+<li>Shunsuke Yatabe</li>
+<li>Kei Yoshimoto</li>
+</ul>
+
+<a name="contact" />
+<h2>Contact:</h2>
+
+lenls8 [[at]] easychair.org
+

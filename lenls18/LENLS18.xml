@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE workshop>
+<workshop month="11月" place="東京">
+
+<summary>
+  <title>CALL FOR PAPERS</title>
+  <FstLine>the Seventeenth International Workshop of</FstLine>
+  <SndLine>Logic and Engineering of</SndLine>
+  <TrdLine>Natural Language Semantics 18</TrdLine>
+  <short>LENLS18</short>
+  <!--site>
+    <name>XXX Bunkyo School Building in University of Tsukuba, Tokyo Campus</name>
+    <address></address>
+    <url></url>
+    <tel></tel>
+  </site-->
+  <conferencedate>November 13-15, 2021</conferencedate>
+  <email>lenls18[[at]]easychair.org</email>
+  <website>http://www.is.ocha.ac.jp/~bekki/lenls/</website>
+  <isbn></isbn>
+
+  <invitedspeaker name="" affiliation="TBA" />
+</summary>
+
+<description><p>LENLS is an annual international workshop on formal syntax, 
+semantics and pragmatics. It will be held **online** as one of the workshops of 
+<host url="https://www.ai-gakkai.or.jp/isai/">the JSAI International Symposia on AI (JSAI-isAI2021)</host>
+sponsored by the Japan Society for Artificial Intelligence (JSAI).</p></description>
+
+<call>
+We invite submissions to this year's workshop on topics in formal
+syntax, semantics and pragmatics, and related fields, including but in no way
+limited to the following:
+</call><topics>
+<topic>Formal syntax, semantics and pragmatics of natural language</topic>
+<topic>Model-theoretic and/or proof-theoretic semantics of natural language</topic>
+<topic>Computational Semantics</topic>
+<topic>Game-theoretic/Bayesian approaches to pragmatics</topic>
+<topic>Nonclassical Logic and its relation to natural language (especially Substructural/Fuzzy/Categorical/Topological logics)</topic>
+<topic>Formal Philosophy of language</topic>
+<topic>Scientific methodology and/or experimental design for linguistics</topic>
+</topics>
+
+<submission>
+Abstracts (anonymous, up to 2 pages, including figures and references, A4 size, with 12 point font) must be submitted electronically 
+in PDF format at:
+
+<url>https://easychair.org/conferences/?conf=lenls18</url>
+
+When the abstract is accepted, the author is expected to submit an extended abstract or a full paper (up to 14 pages) before the workshop. The online proceedings of the workshop will be available online.
+</submission><selectedpaper />
+
+<importantdates>
+<importantdate name="Abstract submission deadline"     date="August 30, 2021" />
+<importantdate name="Notification of acceptance"       date="September 30, 2021" />
+<!--importantdate name="Deadline for camera-ready copy"   date="mid-October, 2021"  /-->
+<!--importantdate name="Deadline for early registration" date="October 31, 2021" /-->
+<importantdate name="LENLS18"                          date="November 15-17, 2021" />
+</importantdates><!--registration /--><!--program--><!--tutorial/--><!--sponsor/-->
+
+<code>
+<cp>All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.</cp>
+<ct>The Quick Version</ct>
+<cp>Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organisers.</cp>
+<ct>The Less Quick Version</ct>
+<cp>Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.</cp>
+<cp>Participants asked to stop any harassing behavior are expected to comply immediately.</cp>
+<cp>If a participant engages in harassing behavior, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.</cp>
+<cp>If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the following member of conference staff immediately: Elin McCready / Daisuke Bekki</cp>
+<cp>Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.</cp>
+<cp>We expect participants to follow these rules at conference and workshop venues and conference-related social events.</cp>
+</code>
+
+<organizers>
+  <organizer name="Elin McCready"       affiliation="Aoyama Gakuin University"          role="cochair" />
+  <organizer name="Daisuke Bekki"       affiliation="Ochanomizu University"             role="cochair" />
+  <organizer name="Patrick D Elliott"   affiliation="Massachusetts Institute of Technology" />
+  <organizer name="Naoya Fujikawa"      affiliation="University of Tokyo" />
+  <organizer name="Koji Mineshima"      affiliation="Keio University"                   role="cochair" />
+  <organizer name="Alastair Butler"     affiliation="Hirosaki University"               role="chair" />
+  <organizer name="Richard Dietz"       affiliation="University of Tokyo" />
+  <organizer name="Yurie Hara"          affiliation="Hokkaido University" />
+  <organizer name="Robert Henderson"    affiliation="University of Arizona" />
+  <organizer name="Hitomi Hirayama"     affiliation="Kyushu Institute of Technology" />
+  <organizer name="Magdalena Kaufmann"  affiliation="University of Connecticut" />
+  <organizer name="Kristina Liefke"     affiliation="Goethe-Universitat Frankfurt" />
+  <organizer name="Yoshiki Mori"        affiliation="University of Tokyo" />
+  <organizer name="David Y. Oshima"     affiliation="Nagoya University" />
+  <organizer name="Katsuhiko Sano"      affiliation="Hokkaido University" />
+  <organizer name="Osamu Sawada"        affiliation="Kobe University" />
+  <organizer name="Ribeka Tanaka"       affiliation="Ochanomizu University" />
+  <organizer name="Wataru Uegaki"       affiliation="University of Edinburgh" />
+  <organizer name="Katsuhiko Yabushita" affiliation="Naruto University of Education" />
+  <organizer name="Tomoyuki Yamada"     affiliation="Hokkaido University" />
+  <organizer name="Shunsuke Yatabe"     affiliation="Kyoto University" />
+  <organizer name="Kei Yoshimoto"       affiliation="Tohoku University" />
+</organizers>
+</workshop>
+
