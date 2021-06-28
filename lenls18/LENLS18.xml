@@ -8,22 +8,24 @@
   <SndLine>Logic and Engineering of</SndLine>
   <TrdLine>Natural Language Semantics 18</TrdLine>
   <short>LENLS18</short>
+  <site>**Online**</site>
   <!--site>
     <name>XXX Bunkyo School Building in University of Tsukuba, Tokyo Campus</name>
     <address></address>
     <url></url>
     <tel></tel>
   </site-->
-  <conferencedate>November 13-15, 2021</conferencedate>
+  <conferencedate>November 13(Sat), 14(Sun), and 15(Mon), 2021</conferencedate>
   <email>lenls18[[at]]easychair.org</email>
   <website>http://www.is.ocha.ac.jp/~bekki/lenls/</website>
   <isbn></isbn>
 
-  <invitedspeaker name="" affiliation="TBA" />
+  <invitedspeaker name="Maria Aloni" affiliation="University of Amsterdam" />
+  <invitedspeaker name="Michael Wayne Goodman" affiliation="Nanyang Technological University" />
 </summary>
 
-<description><p>LENLS is an annual international workshop on formal syntax, 
-semantics and pragmatics. It will be held **online** as one of the workshops of 
+<description><p>LENLS is an annual international workshop on formal syntax, semantics 
+and pragmatics. It will be held **online** as one of the workshops of 
 <host url="https://www.ai-gakkai.or.jp/isai/">the JSAI International Symposia on AI (JSAI-isAI2021)</host>
 sponsored by the Japan Society for Artificial Intelligence (JSAI).</p></description>
 
@@ -42,8 +44,8 @@ limited to the following:
 </topics>
 
 <submission>
-Abstracts (anonymous, up to 2 pages, including figures and references, A4 size, with 12 point font) must be submitted electronically 
-in PDF format at:
+Abstracts (anonymous, up to 4 pages, including figures and references, 
+A4 size, with 12 point font) must be submitted electronically in PDF format at:
 
 <url>https://easychair.org/conferences/?conf=lenls18</url>
 
@@ -51,11 +53,11 @@ When the abstract is accepted, the author is expected to submit an extended abst
 </submission><selectedpaper />
 
 <importantdates>
-<importantdate name="Abstract submission deadline"     date="August 30, 2021" />
-<importantdate name="Notification of acceptance"       date="September 30, 2021" />
-<!--importantdate name="Deadline for camera-ready copy"   date="mid-October, 2021"  /-->
+<importantdate name="Abstract submission deadline"     date="August 31 (Tue), 2021" />
+<importantdate name="Notification of acceptance"       date="September 27 (Mon), 2021" />
+<importantdate name="Deadline for camera-ready copy"   date="mid-October, 2021"  />
 <!--importantdate name="Deadline for early registration" date="October 31, 2021" /-->
-<importantdate name="LENLS18"                          date="November 15-17, 2021" />
+<importantdate name="LENLS18"                          date="November 13(Sat), 14(Sun), and 15(Mon), 2021" />
 </importantdates><!--registration /--><!--program--><!--tutorial/--><!--sponsor/-->
 
 <code>
@@ -74,7 +76,7 @@ When the abstract is accepted, the author is expected to submit an extended abst
 <organizers>
   <organizer name="Elin McCready"       affiliation="Aoyama Gakuin University"          role="cochair" />
   <organizer name="Daisuke Bekki"       affiliation="Ochanomizu University"             role="cochair" />
-  <organizer name="Patrick D Elliott"   affiliation="Massachusetts Institute of Technology" />
+  <organizer name="Patrick D. Elliott"   affiliation="Massachusetts Institute of Technology" />
   <organizer name="Naoya Fujikawa"      affiliation="University of Tokyo" />
   <organizer name="Koji Mineshima"      affiliation="Keio University"                   role="cochair" />
   <organizer name="Alastair Butler"     affiliation="Hirosaki University"               role="chair" />
@@ -83,12 +85,12 @@ When the abstract is accepted, the author is expected to submit an extended abst
   <organizer name="Robert Henderson"    affiliation="University of Arizona" />
   <organizer name="Hitomi Hirayama"     affiliation="Kyushu Institute of Technology" />
   <organizer name="Magdalena Kaufmann"  affiliation="University of Connecticut" />
-  <organizer name="Kristina Liefke"     affiliation="Goethe-Universitat Frankfurt" />
+  <organizer name="Kristina Liefke"     affiliation="Ruhr University Bochum" />
   <organizer name="Yoshiki Mori"        affiliation="University of Tokyo" />
   <organizer name="David Y. Oshima"     affiliation="Nagoya University" />
   <organizer name="Katsuhiko Sano"      affiliation="Hokkaido University" />
   <organizer name="Osamu Sawada"        affiliation="Kobe University" />
-  <organizer name="Ribeka Tanaka"       affiliation="Ochanomizu University" />
+  <organizer name="Ribeka Tanaka"       affiliation="Kyoto University" />
   <organizer name="Wataru Uegaki"       affiliation="University of Edinburgh" />
   <organizer name="Katsuhiko Yabushita" affiliation="Naruto University of Education" />
   <organizer name="Tomoyuki Yamada"     affiliation="Hokkaido University" />

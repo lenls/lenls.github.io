@@ -14,8 +14,10 @@
                   Logic and Engineering of
              Natural Language Semantics 18 (LENLS18)
 
-Workshop Site : 
-Dates         : November 13-15, 2021
+Workshop Site : 　
+                　
+                
+Dates         : November 13(Sat), 14(Sun), and 15(Mon), 2021
 Contact Person: Alastair Butler (Hirosaki University)
 Contact Email : lenls18[[at]]easychair.org
 Website       : http://www.is.ocha.ac.jp/~bekki/lenls/
@@ -27,10 +29,11 @@ Co-chair: Elin McCready (Aoyama Gakuin University)
           Koji Mineshima (Keio University)
           
 Invited Speakers:
--  (TBA)
+- Maria Aloni (University of Amsterdam)
+- Michael Wayne Goodman (Nanyang Technological University)
 
-LENLS is an annual international workshop on formal syntax, 
-semantics and pragmatics. It will be held **online** as one of the workshops of 
+LENLS is an annual international workshop on formal syntax, semantics 
+and pragmatics. It will be held **online** as one of the workshops of 
 the JSAI International Symposia on AI (JSAI-isAI2021)
 (https://www.ai-gakkai.or.jp/isai/)
 sponsored by the Japan Society for Artificial Intelligence (JSAI).
@@ -53,8 +56,8 @@ limited to the following:
 
 Submissions:
 ============
-Abstracts (anonymous, up to 2 pages, including figures and references, A4 size, with 12 point font) must be submitted electronically 
-in PDF format at:
+Abstracts (anonymous, up to 4 pages, including figures and references, 
+A4 size, with 12 point font) must be submitted electronically in PDF format at:
 
 https://easychair.org/conferences/?conf=lenls18
 
@@ -69,9 +72,10 @@ be published from `Lecture Notes in Artificial Intelligence' series
 
 Important dates:
 ================
-Abstract submission deadline: August 30, 2021
-Notification of acceptance: September 30, 2021
-LENLS18: November 15-17, 2021
+Abstract submission deadline: August 31 (Tue), 2021
+Notification of acceptance: September 27 (Mon), 2021
+Deadline for camera-ready copy: mid-October, 2021
+LENLS18: November 13(Sat), 14(Sun), and 15(Mon), 2021
 
 
 Code of Conduct:
@@ -94,7 +98,7 @@ Workshop Organizers/Program Committee:
 ======================================
   - Elin McCready (Aoyama Gakuin University)
   - Daisuke Bekki (Ochanomizu University)
-  - Patrick D Elliott (Massachusetts Institute of Technology)
+  - Patrick D. Elliott (Massachusetts Institute of Technology)
   - Naoya Fujikawa (University of Tokyo)
   - Koji Mineshima (Keio University)
   - Alastair Butler (Hirosaki University)
@@ -103,12 +107,12 @@ Workshop Organizers/Program Committee:
   - Robert Henderson (University of Arizona)
   - Hitomi Hirayama (Kyushu Institute of Technology)
   - Magdalena Kaufmann (University of Connecticut)
-  - Kristina Liefke (Goethe-Universitat Frankfurt)
+  - Kristina Liefke (Ruhr University Bochum)
   - Yoshiki Mori (University of Tokyo)
   - David Y. Oshima (Nagoya University)
   - Katsuhiko Sano (Hokkaido University)
   - Osamu Sawada (Kobe University)
-  - Ribeka Tanaka (Ochanomizu University)
+  - Ribeka Tanaka (Kyoto University)
   - Wataru Uegaki (University of Edinburgh)
   - Katsuhiko Yabushita (Naruto University of Education)
   - Tomoyuki Yamada (Hokkaido University)
