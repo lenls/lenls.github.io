@@ -31,6 +31,7 @@ Co-chair: Elin McCready (Aoyama Gakuin University)
 Invited Speakers:
 - Maria Aloni (University of Amsterdam)
 - Michael Wayne Goodman (Nanyang Technological University)
+- Atsushi Shimojima (Doshisha University)
 
 LENLS is an annual international workshop on formal syntax, semantics 
 and pragmatics. It will be held **online** as one of the workshops of 
@@ -96,18 +97,18 @@ We expect participants to follow these rules at conference and workshop venues a
 
 Workshop Organizers/Program Committee:
 ======================================
-  - Elin McCready (Aoyama Gakuin University)
   - Daisuke Bekki (Ochanomizu University)
-  - Patrick D. Elliott (Massachusetts Institute of Technology)
-  - Naoya Fujikawa (University of Tokyo)
-  - Koji Mineshima (Keio University)
   - Alastair Butler (Hirosaki University)
   - Richard Dietz (University of Tokyo)
+  - Patrick D. Elliott (Massachusetts Institute of Technology)
+  - Naoya Fujikawa (University of Tokyo)
   - Yurie Hara (Hokkaido University)
   - Robert Henderson (University of Arizona)
   - Hitomi Hirayama (Kyushu Institute of Technology)
   - Magdalena Kaufmann (University of Connecticut)
   - Kristina Liefke (Ruhr University Bochum)
+  - Elin McCready (Aoyama Gakuin University)
+  - Koji Mineshima (Keio University)
   - Yoshiki Mori (University of Tokyo)
   - David Y. Oshima (Nagoya University)
   - Katsuhiko Sano (Hokkaido University)
