@@ -22,6 +22,7 @@
 
   <invitedspeaker name="Maria Aloni" affiliation="University of Amsterdam" />
   <invitedspeaker name="Michael Wayne Goodman" affiliation="Nanyang Technological University" />
+  <invitedspeaker name="Atsushi Shimojima" affiliation="Doshisha University" />
 </summary>
 
 <description><p>LENLS is an annual international workshop on formal syntax, semantics 
@@ -74,18 +75,18 @@ When the abstract is accepted, the author is expected to submit an extended abst
 </code>
 
 <organizers>
-  <organizer name="Elin McCready"       affiliation="Aoyama Gakuin University"          role="cochair" />
   <organizer name="Daisuke Bekki"       affiliation="Ochanomizu University"             role="cochair" />
-  <organizer name="Patrick D. Elliott"   affiliation="Massachusetts Institute of Technology" />
-  <organizer name="Naoya Fujikawa"      affiliation="University of Tokyo" />
-  <organizer name="Koji Mineshima"      affiliation="Keio University"                   role="cochair" />
   <organizer name="Alastair Butler"     affiliation="Hirosaki University"               role="chair" />
   <organizer name="Richard Dietz"       affiliation="University of Tokyo" />
+  <organizer name="Patrick D. Elliott"   affiliation="Massachusetts Institute of Technology" />
+  <organizer name="Naoya Fujikawa"      affiliation="University of Tokyo" />
   <organizer name="Yurie Hara"          affiliation="Hokkaido University" />
   <organizer name="Robert Henderson"    affiliation="University of Arizona" />
   <organizer name="Hitomi Hirayama"     affiliation="Kyushu Institute of Technology" />
   <organizer name="Magdalena Kaufmann"  affiliation="University of Connecticut" />
   <organizer name="Kristina Liefke"     affiliation="Ruhr University Bochum" />
+  <organizer name="Koji Mineshima"      affiliation="Keio University"                   role="cochair" />
+  <organizer name="Elin McCready"       affiliation="Aoyama Gakuin University"          role="cochair" />
   <organizer name="Yoshiki Mori"        affiliation="University of Tokyo" />
   <organizer name="David Y. Oshima"     affiliation="Nagoya University" />
   <organizer name="Katsuhiko Sano"      affiliation="Hokkaido University" />

@@ -24,9 +24,9 @@ Website       : http://www.is.ocha.ac.jp/~bekki/lenls/
 =================================================================
 
 Chair:  Alastair Butler (Hirosaki University)
-Co-chair: Elin McCready (Aoyama Gakuin University)
-          Daisuke Bekki (Ochanomizu University)
+Co-chair: Daisuke Bekki (Ochanomizu University)
           Koji Mineshima (Keio University)
+          Elin McCready (Aoyama Gakuin University)
           
 Invited Speakers:
 - Maria Aloni (University of Amsterdam)
@@ -107,8 +107,8 @@ Workshop Organizers/Program Committee:
   - Hitomi Hirayama (Kyushu Institute of Technology)
   - Magdalena Kaufmann (University of Connecticut)
   - Kristina Liefke (Ruhr University Bochum)
-  - Elin McCready (Aoyama Gakuin University)
   - Koji Mineshima (Keio University)
+  - Elin McCready (Aoyama Gakuin University)
   - Yoshiki Mori (University of Tokyo)
   - David Y. Oshima (Nagoya University)
   - Katsuhiko Sano (Hokkaido University)
