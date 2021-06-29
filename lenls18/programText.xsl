@@ -25,9 +25,14 @@
 <xsl:value-of select="TrdLine" /> (<xsl:value-of select="short" />)
 
 Workshop Site : <xsl:for-each select="//site">
-                <xsl:value-of select="name" />　
-                <xsl:value-of select="address" />　
-                <xsl:value-of select="url" /></xsl:for-each>
+                  <xsl:value-of select="name" />
+                  <xsl:for-each select="address">
+                    　<xsl:value-of select="." />
+                    </xsl:for-each>
+                  <xsl:for-each select="url">
+                    　<xsl:value-of select="." />
+                    </xsl:for-each>
+                  </xsl:for-each>
 Dates         : <xsl:value-of select="conferencedate" />
 Contact Person: <xsl:value-of select="ancestor::workshop/organizers/organizer[@role='chair']/@name" /> (<xsl:value-of select="ancestor::workshop/organizers/organizer[@role='chair']/@affiliation" />)
 Contact Email : <xsl:value-of select="email" />

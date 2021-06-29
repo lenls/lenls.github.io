@@ -8,7 +8,9 @@
   <SndLine>Logic and Engineering of</SndLine>
   <TrdLine>Natural Language Semantics 18</TrdLine>
   <short>LENLS18</short>
-  <site>**Online**</site>
+  <site>
+    <name>**Online**</name>
+  </site>
   <!--site>
     <name>XXX Bunkyo School Building in University of Tsukuba, Tokyo Campus</name>
     <address></address>

@@ -14,9 +14,7 @@
                   Logic and Engineering of
              Natural Language Semantics 18 (LENLS18)
 
-Workshop Site : 　
-                　
-                
+Workshop Site : **Online**
 Dates         : November 13(Sat), 14(Sun), and 15(Mon), 2021
 Contact Person: Alastair Butler (Hirosaki University)
 Contact Email : lenls18[[at]]easychair.org
