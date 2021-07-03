@@ -35,14 +35,15 @@ td {
 		font-family:Arial, Helvetica, sans-serif;
 		}
 h1 {	
-		color: #CC99FF;
+		color: #d2b48c;
 		font-size: 30px;}
 h2 {	
 		color: white;
 		font-weight: bold;
 		font-size: 18px;
 #		background-image: url(http://www.is.ocha.ac.jp/~bekki/lenls/bar.gif);
-		background-image: url(bar.gif);
+#		background-image: url(bar.gif);
+		background-color: #f0e68c;
 		background-repeat: no-repeat;
 		background-position: left bottom;
   		}
@@ -77,7 +78,7 @@ h4 {
 		background: white;
 		}
 .c1 {	
-		background: azure;
+		background: #fffaf0;
 		}
 </xsl:comment>
 </style>  
@@ -86,7 +87,7 @@ h4 {
       <center>
       <table border="0" cellspacing="10" cellpadding="10" width="800">
 	<tr>
-	<td bgcolor="lightskyblue" valign="top" width="150">
+	<td bgcolor="#fffacd" valign="top" width="150">
         <p><table border="0" cellspacing="0" cellpadding="0">
            <tr>
              <td align="center">
@@ -128,6 +129,7 @@ h4 {
               <tr><td>&#x20;&#x20;&#x20;&#x20;<a href="../lenls14/index.html">LENLS14</a></td></tr>
               <tr><td>&#x20;&#x20;&#x20;&#x20;<a href="../lenls15/index.html">LENLS15</a></td></tr>
               <tr><td>&#x20;&#x20;&#x20;&#x20;<a href="../lenls16/index.html">LENLS16</a></td></tr>
+              <tr><td>&#x20;&#x20;&#x20;&#x20;<a href="../lenls17/index.html">LENLS17</a></td></tr>
               </table>
             </td></tr>
 	    </table>
