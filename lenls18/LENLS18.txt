@@ -14,7 +14,7 @@
                   Logic and Engineering of
              Natural Language Semantics 18 (LENLS18)
 
-Workshop Site : **Online**
+Workshop Site : BOTH **Online** and (safety permitting) at **Raiosha in Hiyoshi Campus of Keio University, Yokohama, Kanagawa, Japan**
 Dates         : November 13(Sat), 14(Sun), and 15(Mon), 2021
 Contact Person: Alastair Butler (Hirosaki University)
 Contact Email : lenls18[[at]]easychair.org
@@ -32,10 +32,18 @@ Invited Speakers:
 - Atsushi Shimojima (Doshisha University)
 
 LENLS is an annual international workshop on formal syntax, semantics 
-and pragmatics. It will be held **online** as one of the workshops of 
-the JSAI International Symposia on AI (JSAI-isAI2021)
+and pragmatics. It will be held as one of the workshops of the
+JSAI International Symposia on AI (JSAI-isAI2021)
 (https://www.ai-gakkai.or.jp/isai/)
 sponsored by the Japan Society for Artificial Intelligence (JSAI).
+
+Note that for this year's LENLS we are planning BOTH
+**Online** and **physical presence** options for attendance.
+You can choose to attend the workshop remotely.
+You can also choose (safety permitting) to attend the workshop at the in-person gathering
+at Raiosha in Hiyoshi Campus of Keio University, Yokohama, Kanagawa, Japan.
+
+
 
 
 Aims and Topics:

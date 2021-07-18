@@ -9,7 +9,7 @@
   <TrdLine>Natural Language Semantics 18</TrdLine>
   <short>LENLS18</short>
   <site>
-    <name>**Online**</name>
+    <name>BOTH **Online** and (safety permitting) at **Raiosha in Hiyoshi Campus of Keio University, Yokohama, Kanagawa, Japan**</name>
   </site>
   <!--site>
     <name>XXX Bunkyo School Building in University of Tsukuba, Tokyo Campus</name>
@@ -28,9 +28,17 @@
 </summary>
 
 <description><p>LENLS is an annual international workshop on formal syntax, semantics 
-and pragmatics. It will be held **online** as one of the workshops of 
-<host url="https://www.ai-gakkai.or.jp/isai/">the JSAI International Symposia on AI (JSAI-isAI2021)</host>
-sponsored by the Japan Society for Artificial Intelligence (JSAI).</p></description>
+and pragmatics. It will be held as one of the workshops of the
+<host url="https://www.ai-gakkai.or.jp/isai/">JSAI International Symposia on AI (JSAI-isAI2021)</host>
+sponsored by the Japan Society for Artificial Intelligence (JSAI).</p>
+
+<p>Note that for this year's LENLS we are planning BOTH
+**Online** and **physical presence** options for attendance.
+You can choose to attend the workshop remotely.
+You can also choose (safety permitting) to attend the workshop at the in-person gathering
+at Raiosha in Hiyoshi Campus of Keio University, Yokohama, Kanagawa, Japan.
+</p>
+</description>
 
 <call>
 We invite submissions to this year's workshop on topics in formal

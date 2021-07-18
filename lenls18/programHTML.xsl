@@ -158,7 +158,7 @@ h4 {
 
 <xsl:template match="summary">
 <table border="0" cellspacing="0" cellpadding="0" >
-<tr><td>Workshop Site(s): **Online**</td></tr>
+<tr><td>Workshop Site(s): BOTH **Online** and (safety permitting) at **Raiosha in Hiyoshi Campus of Keio University, Yokohama, Kanagawa, Japan**</td></tr>
 <!--tr><td>
   <table border="0" cellspacing="0" cellpadding="5" >
   <td>
