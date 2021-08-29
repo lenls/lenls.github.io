@@ -1,0 +1,129 @@
+
+（重複して受け取られた場合はご容赦ください）
+
+今年の11月に東京で開催される LENLS18 国際ワークショップの
+ご案内をお送り致します。皆様のご参加をお待ちしております。
+
+戸次大介（お茶の水女子大学）
+
+
+[Apologies for multiple copies]
+=================================================================
+                      CALL FOR PAPERS (Deadline Extended to September 5, 2021)
+
+                  Logic and Engineering of
+             Natural Language Semantics 18 (LENLS18)
+
+Workshop Site : BOTH **Online** and (safety permitting) at **Raiosha in Hiyoshi Campus of Keio University, Yokohama, Kanagawa, Japan**
+Dates         : November 13(Sat), 14(Sun), and 15(Mon), 2021
+Contact Person: Alastair Butler (Hirosaki University)
+Contact Email : lenls18[[at]]easychair.org
+Website       : http://www.is.ocha.ac.jp/~bekki/lenls/
+=================================================================
+
+Chair:  Alastair Butler (Hirosaki University)
+Co-chair: Daisuke Bekki (Ochanomizu University)
+          Koji Mineshima (Keio University)
+          Elin McCready (Aoyama Gakuin University)
+          
+Invited Speakers:
+- Maria Aloni (University of Amsterdam)
+- Michael Wayne Goodman (Nanyang Technological University)
+- Atsushi Shimojima (Doshisha University)
+
+LENLS is an annual international workshop on formal syntax, semantics 
+and pragmatics. It will be held as one of the workshops of the
+JSAI International Symposia on AI (JSAI-isAI2021)
+(https://www.ai-gakkai.or.jp/isai/)
+sponsored by the Japan Society for Artificial Intelligence (JSAI).
+
+Note that for this year's LENLS we are planning BOTH
+**Online** and **physical presence** options for attendance.
+You can choose to attend the workshop remotely.
+You can also choose (safety permitting) to attend the workshop at the in-person gathering
+at Raiosha in Hiyoshi Campus of Keio University, Yokohama, Kanagawa, Japan.
+
+
+
+
+Aims and Topics:
+================
+We invite submissions to this year's workshop on topics in formal
+syntax, semantics and pragmatics, and related fields, including but in no way
+limited to the following:
+
+- Formal syntax, semantics and pragmatics of natural language
+- Model-theoretic and/or proof-theoretic semantics of natural language
+- Computational Semantics
+- Game-theoretic/Bayesian approaches to pragmatics
+- Nonclassical Logic and its relation to natural language (especially Substructural/Fuzzy/Categorical/Topological logics)
+- Formal Philosophy of language
+- Scientific methodology and/or experimental design for linguistics
+
+
+Submissions:
+============
+Abstracts (anonymous, up to 4 pages, including figures and references, 
+A4 size, with 12 point font) must be submitted electronically in PDF format at:
+
+https://easychair.org/conferences/?conf=lenls18
+
+When the abstract is accepted, the author is expected to submit an extended abstract or a full paper (up to 14 pages) before the workshop. The online proceedings of the workshop will be available online.
+
+Selected Papers:
+================
+We also plan to publish a selection of the accepted/invited papers
+as a portion of a volume "JSAI-isAI selected papers", which will  
+be published from `Lecture Notes in Artificial Intelligence' series
+(Springer Verlag). 
+
+Important dates:
+================
+Abstract submission deadline: September 5 (Sun), 2021 (extended)
+Notification of acceptance: September 27 (Mon), 2021
+Deadline for camera-ready copy: mid-October, 2021
+LENLS18: November 13(Sat), 14(Sun), and 15(Mon), 2021
+
+
+Code of Conduct:
+================
+All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
+
+[The Quick Version] 
+Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organisers.
+
+[The Less Quick Version] 
+Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+Participants asked to stop any harassing behavior are expected to comply immediately.
+If a participant engages in harassing behavior, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the following member of conference staff immediately: Elin McCready / Daisuke Bekki
+Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+We expect participants to follow these rules at conference and workshop venues and conference-related social events.
+
+
+Workshop Organizers/Program Committee:
+======================================
+  - Daisuke Bekki (Ochanomizu University)
+  - Alastair Butler (Hirosaki University)
+  - Richard Dietz (University of Tokyo)
+  - Patrick D. Elliott (Massachusetts Institute of Technology)
+  - Naoya Fujikawa (University of Tokyo)
+  - Yurie Hara (Hokkaido University)
+  - Robert Henderson (University of Arizona)
+  - Hitomi Hirayama (Kyushu Institute of Technology)
+  - Magdalena Kaufmann (University of Connecticut)
+  - Kristina Liefke (Ruhr University Bochum)
+  - Koji Mineshima (Keio University)
+  - Elin McCready (Aoyama Gakuin University)
+  - Yoshiki Mori (University of Tokyo)
+  - David Y. Oshima (Nagoya University)
+  - Katsuhiko Sano (Hokkaido University)
+  - Osamu Sawada (Kobe University)
+  - Ribeka Tanaka (Kyoto University)
+  - Wataru Uegaki (University of Edinburgh)
+  - Katsuhiko Yabushita (Naruto University of Education)
+  - Tomoyuki Yamada (Hokkaido University)
+  - Shunsuke Yatabe (Kyoto University)
+  - Kei Yoshimoto (Tohoku University)
+
+
