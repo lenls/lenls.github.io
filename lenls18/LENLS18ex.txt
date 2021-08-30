@@ -2,19 +2,22 @@
 （重複して受け取られた場合はご容赦ください）
 
 今年の11月に東京で開催される LENLS18 国際ワークショップの
-ご案内をお送り致します。皆様のご参加をお待ちしております。
+投稿〆切が9/5日に延長されました。皆様のご参加をお待ちして
+おります。
 
 戸次大介（お茶の水女子大学）
 
 
 [Apologies for multiple copies]
 =================================================================
-                      CALL FOR PAPERS (Deadline Extended to September 5, 2021)
+      CALL FOR PAPERS (Deadline Extended to September 5, 2021)
 
                   Logic and Engineering of
              Natural Language Semantics 18 (LENLS18)
 
-Workshop Site : BOTH **Online** and (safety permitting) at **Raiosha in Hiyoshi Campus of Keio University, Yokohama, Kanagawa, Japan**
+Workshop Site : BOTH **Online** and 
+                (safety permitting) at **Raiosha 
+                in Hiyoshi Campus of Keio University, Yokohama, Kanagawa, Japan**
 Dates         : November 13(Sat), 14(Sun), and 15(Mon), 2021
 Contact Person: Alastair Butler (Hirosaki University)
 Contact Email : lenls18[[at]]easychair.org
@@ -44,8 +47,6 @@ You can also choose (safety permitting) to attend the workshop at the in-person 
 at Raiosha in Hiyoshi Campus of Keio University, Yokohama, Kanagawa, Japan.
 
 
-
-
 Aims and Topics:
 ================
 We invite submissions to this year's workshop on topics in formal
@@ -70,12 +71,14 @@ https://easychair.org/conferences/?conf=lenls18
 
 When the abstract is accepted, the author is expected to submit an extended abstract or a full paper (up to 14 pages) before the workshop. The online proceedings of the workshop will be available online.
 
+
 Selected Papers:
 ================
 We also plan to publish a selection of the accepted/invited papers
 as a portion of a volume "JSAI-isAI selected papers", which will  
 be published from `Lecture Notes in Artificial Intelligence' series
 (Springer Verlag). 
+
 
 Important dates:
 ================
@@ -125,5 +128,3 @@ Workshop Organizers/Program Committee:
   - Tomoyuki Yamada (Hokkaido University)
   - Shunsuke Yatabe (Kyoto University)
   - Kei Yoshimoto (Tohoku University)
-
-
