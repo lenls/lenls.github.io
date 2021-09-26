@@ -8,7 +8,7 @@ Dear [*NAME*],
 
 We intend to produce a set of online proceedings in time for the conference.  You have already received the comments from the reviewers in a previous email.  Please take them carefully into account when preparing your camera-ready paper for the online proceedings. 
 
-To submit your paper (up to 14 pages in length) in PDF format, please log in to the EasyChair, and from the "Submission [*PAPER-ID*]" menu, follow the "Update file" link there.
+To submit your paper (up to 14 pages in length) in PDF format, please log in to EasyChair, and from the "Submission [*PAPER-ID*]" menu, follow the "Update file" link there.
 
 [*CONFERENCE-LINK*]
 
