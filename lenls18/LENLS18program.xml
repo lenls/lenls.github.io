@@ -69,6 +69,84 @@ When the abstract is accepted, the author is expected to submit an extended abst
 </importantdates><!--registration /-->
 
 <program>
+<day date="1st Day: November 13 (Sat)">
+
+<event time="9:50-10:00" name="Opening remark" />
+
+<session time="10:00-11:00" name="Invited talk" chair="">
+  <invitedtalk author="Michael Wayne Goodman" title="(TBA)" number="invited_goodman" pages="" />
+</session>
+
+<session time="11:00-12:30" name="Session" chair="">
+  <talk author="Ahmad Jabbar" title="Choice, disagreement, and automata: enriching the Kaplanian machinery" number="10" pages="" />
+  <talk author="Shintaro Matsuura" title="How to Explain the Mechanism of Metalinguistic Dispute" number="16" pages="" />
+  <talk author="Shuhei Shimamura" title="Relevance as Minimality: A Logical Expressivist Approach" number="17" pages="" />
+</session>
+
+<session time="14:30-16:00" name="Session" chair="">
+  <talk author="Oleg Kiselyov and Haruki Watanabe" title="QNP Textual Entailment with Polynomial Event Semantics" number="8" pages="" />
+  <talk author="Chenchen Song" title="On the semantics of root syntax: challenges and directions" number="31" pages="" />
+  <talk author="Daisuke Bekki" title="A Proof-theoretic Analysis of Weak Crossover" number="2" pages="" />
+</session>
+
+<session time="16:30-18:00" name="Session" chair="">
+  <talk author="Dan Zeman" title="Three Rich-Lexicon Theories of Slurs: A Comparison" number="32" pages="" />
+  <talk author="Kristina Liefke" title="Remembering individuals and remembering scenes" number="4" pages="" />
+  <talk author="Kristina Liefke and Markus Werning" title="Factivity variation in experiential 'remember'-reports" number="5" pages="" />
+</session>
+</day>
+
+<day date="2nd Day: November 14 (Sun)">
+<session time="10:00-11:00" name="Invited talk" chair="">
+  <invitedtalk author="Atsushi Shimojima"     title="(TBA)" number="invited_shimojima" pages="" />
+</session>
+
+<session time="11:00-12:30" name="Session" chair="">
+  <talk author="Muyi Yang" title="Sensitive to future: the case of Japanese nara-conditionals" number="29" pages="" />
+  <talk author="Masaya Taniguchi and Satoshi Tojo" title="Incremental derivations with Q combinator in CCG" number="22" pages="" />
+  <talk author="Satoru Suzuki" title="Generics and Belief Contraction" number="33" pages="" />
+</session>
+
+<session time="14:30-16:00" name="Session" chair="">
+  <talk author="Osamu Sawada" title="Interpretations of sense-based minimizers in Japanese and English: Local and global sense-based measurements" number="13" pages="" />
+  <talk author="David Yoshikazu Oshima" title="The semantics and pragmatics of the Japanese honorific titles san, kun, and chan" number="1" pages="" />
+  <talk author="Eri Tanaka and Kenta Mizutani" title="Presuppositions and Comparison Classes in Japanese hodo-equatives" number="27" pages="" />
+</session>
+
+<session time="16:30-18:00" name="Session" chair="">
+  <talk author="Julian Grove and Jean-Philippe Bernardy" title="Probabilistic compositional semantics, purely" number="23" pages="" />
+  <talk author="Afra Baas and Lasha Abzianidze" title="Mitigating Hypothesis-only Bias in a Natural Language Inference Dataset" number="24" pages="" />
+  <talk author="Fabio De Martin Polo" title="A Cut-free Hypersequent Calculus for Intuitionistic Modal Logic IS5" number="14" pages="" />
+</session>
+</day>
+
+<day date="3rd Day: November 15 (Mon)">
+
+<session time="10:00-11:30" name="Session" chair="">
+  <talk author="Mana Ishida, Hitomi Yanaka and Daisuke Bekki" title="Compositional Semantics for Multiword Expression in Medical Case Retrieval" number="7" pages="" />
+  <talk author="Alastair Butler" title="Parsed corpus development with a quick access interface" number="21" pages="" />
+  <talk author="Makoto Kaneko" title="An analysis of a peculiar PPI licensing in French and Japanese negated purpose clauses in terms of an implicit externalization of the negation due to the non-responsibility" number="15" pages="" />
+</session>
+  
+<session time="13:00-14:30" name="Session" chair="">
+  <talk author="Shun Ihara and Yuta Tatsumi" title="The Duality of Negative Attitudes in Japanese Conditionals" number="18" pages="" />
+  <talk author="Joseph Tabolt" title="Japanese Type-4 Verbs are Individual-level Predicates" number="25" pages="" />
+  <talk author="Chungmin Lee" title="Factivity in Chinese: Viewed from the Altaic Alternation Type" number="34" pages="" />
+</session>
+
+<session time="15:00-17:00" name="Session" chair="">
+  <talk author="Elin Mccready" title="Honorifics, Grounds and Ideologies" number="9" pages="" />
+  <talk author="Liping Tang" title="Cheap talk under partial conflicts: a dynamic analysis of pragmatic meaning" number="6" pages="" />
+  <talk author="Ana Clara Polakof" title="An experimental approach to slurs and swearwords in Rioplatense Spanish" number="3" pages="" />
+</session>
+
+<session time="17:00-18:00" name="Invited talk" chair="">
+  <invitedtalk author="Maria Aloni"           title="(TBA)" number="invited_aloni" pages="" />
+</session>
+
+<event time="18:00-18:15" name="Closing remark" />
+</day>
+
 </program><!--tutorial/--><!--sponsor/-->
 
 <code>
