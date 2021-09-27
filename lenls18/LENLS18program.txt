@@ -169,7 +169,7 @@ Program:
       "An analysis of a peculiar PPI licensing in French and Japanese negated purpose clauses in terms of an implicit externalization of the negation due to the non-responsibility"
 
   
-13:00-14:30:Session
+13:30-15:00:Session
     * Shun Ihara and Yuta Tatsumi
       "The Duality of Negative Attitudes in Japanese Conditionals"
     * Joseph Tabolt
@@ -178,7 +178,7 @@ Program:
       "Factivity in Chinese: Viewed from the Altaic Alternation Type"
 
 
-15:00-17:00:Session
+15:30-17:00:Session
     * Elin Mccready
       "Honorifics, Grounds and Ideologies"
     * Liping Tang
