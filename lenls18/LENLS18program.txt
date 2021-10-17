@@ -148,8 +148,8 @@ Program:
       "Interpretations of sense-based minimizers in Japanese and English: Local and global sense-based measurements"
     * David Yoshikazu Oshima
       "The semantics and pragmatics of the Japanese honorific titles san, kun, and chan"
-    * Eri Tanaka and Kenta Mizutani
-      "Presuppositions and Comparison Classes in Japanese hodo-equatives"
+    * Makoto Kaneko
+      "An analysis of a peculiar PPI licensing in French and Japanese negated purpose clauses in terms of an implicit externalization of the negation due to the non-responsibility"
 
 
 16:30-18:00:Session
@@ -170,8 +170,8 @@ Program:
       "Compositional Semantics for Multiword Expression in Medical Case Retrieval"
     * Alastair Butler
       "Parsed corpus development with a quick access interface"
-    * Makoto Kaneko
-      "An analysis of a peculiar PPI licensing in French and Japanese negated purpose clauses in terms of an implicit externalization of the negation due to the non-responsibility"
+    * Chungmin Lee
+      "Factivity in Chinese: Viewed from the Altaic Alternation Type"
 
   
 13:30-15:00:Session
@@ -179,8 +179,8 @@ Program:
       "The Duality of Negative Attitudes in Japanese Conditionals"
     * Joseph Tabolt
       "Japanese Type-4 Verbs are Individual-level Predicates"
-    * Chungmin Lee
-      "Factivity in Chinese: Viewed from the Altaic Alternation Type"
+    * Eri Tanaka and Kenta Mizutani
+      "Presuppositions and Comparison Classes in Japanese hodo-equatives"
 
 
 15:30-17:00:Session
