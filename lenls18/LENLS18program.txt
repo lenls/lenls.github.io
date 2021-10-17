@@ -96,7 +96,7 @@ Program:
 
 10:00-11:00:Invited talk
     * Michael Wayne Goodman
-      "(TBA)"
+      "Old Dogs, New Tricks, and Semantics"
 
 
 11:00-12:30:Session
@@ -194,7 +194,7 @@ Program:
 
 17:00-18:00:Invited talk
     * Maria Aloni
-      "(TBA)"
+      "Logic and Conversation: beyond the canonical divide"
 
 
 18:00-18:15:Closing remark
