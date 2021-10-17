@@ -110,11 +110,11 @@ Student Session:
 
 <xsl:template match="registration">Registration:
 =============
-  The proceedings of the workshop will be available at the 
-  conference site for registered persons.  Please follow the link 
-  below and register yourself until <xsl:value-of select="@deadline" />.
-
-  <xsl:value-of select="@site" /></xsl:template>
+  Please follow the link below and register yourself until 
+  <xsl:value-of select="@deadline" />.
+  <xsl:value-of select="@site" />
+  <xsl:value-of select="." />
+</xsl:template>
 
 <xsl:template match="code" />
 

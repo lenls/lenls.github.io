@@ -76,11 +76,16 @@ be published from `Lecture Notes in Artificial Intelligence' series
 
 Important dates:
 ================
-Abstract submission deadline: September 5 (Sun), 2021 (extended)
-Notification of acceptance: September 27 (Mon), 2021
 Deadline for camera-ready copy: October 29, 2021, 23:59 (in JST)
 LENLS18: November 13(Sat), 14(Sun), and 15(Mon), 2021
 
+
+Registration:
+=============
+  Please follow the link below and register yourself until 
+  November 12, 2021 (in JST).
+  https://isai2021-ai-gakkai.peatix.com/
+  The registration fee is free for JSAI members and 2,000 yen for non-JSAI members.  Note that the zoom URL of the workshop will be informed to the registered persons only.
 
 Program:
 ========

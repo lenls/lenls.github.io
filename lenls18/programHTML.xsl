@@ -281,15 +281,12 @@ A selection of the accepted/invited full papers will be published as a portion o
 <xsl:template match="registration">
 <a name="registration" />
 <h2>Registration:</h2>
-
-  <p>Please follow the link below and register yourself until <xsl:value-of select="@deadline" />.
-     Note that the zoom URL of the workshop will be informed to the registered persons only.
-  </p>
-
+  <p>Please follow the link below and register yourself until <xsl:value-of select="@deadline" />.</p>
   <a>
     <xsl:attribute name="href"><xsl:value-of select="@site" /></xsl:attribute>
     <xsl:value-of select="@site" />
   </a>
+  <p><xsl:value-of select="." /></p>
 </xsl:template>
 
 <xsl:template match="tutorial">
