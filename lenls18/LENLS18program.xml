@@ -97,8 +97,8 @@ When the abstract is accepted, the author is expected to submit an extended abst
 </day>
 
 <day date="2nd Day: November 14 (Sun)">
-<session time="10:00-11:00" name="Invited talk" chair="">
-  <invitedtalk author="Atsushi Shimojima"     title="(TBA)" number="invited_shimojima" pages="" />
+<session time="10:00-11:00" name="Invited talk" chair="Koji Mineshima">
+  <invitedtalk author="Atsushi Shimojima" title="(TBA)" number="invited_shimojima" pages="" />
 </session>
 
 <session time="11:00-12:30" name="Session" chair="">
@@ -107,7 +107,7 @@ When the abstract is accepted, the author is expected to submit an extended abst
   <talk author="Satoru Suzuki" title="Generics and Belief Contraction" number="33" pages="" />
 </session>
 
-<session time="14:30-16:00" name="Session" chair="">
+<session time="14:30-16:00" name="Session" chair="Yoshiki Mori">
   <talk author="Osamu Sawada" title="Interpretations of sense-based minimizers in Japanese and English: Local and global sense-based measurements" number="13" pages="" />
   <talk author="David Yoshikazu Oshima" title="The semantics and pragmatics of the Japanese honorific titles san, kun, and chan" number="1" pages="" />
   <talk author="Eri Tanaka and Kenta Mizutani" title="Presuppositions and Comparison Classes in Japanese hodo-equatives" number="27" pages="" />
@@ -128,7 +128,7 @@ When the abstract is accepted, the author is expected to submit an extended abst
   <talk author="Makoto Kaneko" title="An analysis of a peculiar PPI licensing in French and Japanese negated purpose clauses in terms of an implicit externalization of the negation due to the non-responsibility" number="15" pages="" />
 </session>
   
-<session time="13:30-15:00" name="Session" chair="">
+<session time="13:30-15:00" name="Session" chair="Elin McCready">
   <talk author="Shun Ihara and Yuta Tatsumi" title="The Duality of Negative Attitudes in Japanese Conditionals" number="18" pages="" />
   <talk author="Joseph Tabolt" title="Japanese Type-4 Verbs are Individual-level Predicates" number="25" pages="" />
   <talk author="Chungmin Lee" title="Factivity in Chinese: Viewed from the Altaic Alternation Type" number="34" pages="" />
@@ -140,8 +140,8 @@ When the abstract is accepted, the author is expected to submit an extended abst
   <talk author="Ana Clara Polakof" title="An experimental approach to slurs and swearwords in Rioplatense Spanish" number="3" pages="" />
 </session>
 
-<session time="17:00-18:00" name="Invited talk" chair="">
-  <invitedtalk author="Maria Aloni"           title="(TBA)" number="invited_aloni" pages="" />
+<session time="17:00-18:00" name="Invited talk" chair="Alastair Butler">
+  <invitedtalk author="Maria Aloni" title="(TBA)" number="invited_aloni" pages="" />
 </session>
 
 <event time="18:00-18:15" name="Closing remark" />
