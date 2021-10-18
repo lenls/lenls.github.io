@@ -82,19 +82,19 @@ When the abstract is accepted, the author is expected to submit an extended abst
   <invitedtalk author="Michael Wayne Goodman" title="Old Dogs, New Tricks, and Semantics" number="invited_goodman" pages="" />
 </session>
 
-<session time="11:00-12:30" name="Session" chair="">
+<session time="11:00-12:30" name="Session" chair="Naoya Fujikawa">
   <talk author="Ahmad Jabbar" title="Choice, disagreement, and automata: enriching the Kaplanian machinery" number="10" pages="" />
   <talk author="Shintaro Matsuura" title="How to Explain the Mechanism of Metalinguistic Dispute" number="16" pages="" />
   <talk author="Shuhei Shimamura" title="Relevance as Minimality: A Logical Expressivist Approach" number="17" pages="" />
 </session>
 
-<session time="14:30-16:00" name="Session" chair="">
+<session time="14:30-16:00" name="Session" chair="Katsuhiko Sano">
   <talk author="Oleg Kiselyov and Haruki Watanabe" title="QNP Textual Entailment with Polynomial Event Semantics" number="8" pages="" />
   <talk author="Chenchen Song" title="On the semantics of root syntax: challenges and directions" number="31" pages="" />
   <talk author="Daisuke Bekki" title="A Proof-theoretic Analysis of Weak Crossover" number="2" pages="" />
 </session>
 
-<session time="16:30-18:00" name="Session" chair="">
+<session time="16:30-18:00" name="Session" chair="Wataru Uegaki">
   <talk author="Dan Zeman" title="Three Rich-Lexicon Theories of Slurs: A Comparison" number="32" pages="" />
   <talk author="Kristina Liefke" title="Remembering individuals and remembering scenes" number="4" pages="" />
   <talk author="Kristina Liefke and Markus Werning" title="Factivity variation in experiential 'remember'-reports" number="5" pages="" />
@@ -106,7 +106,7 @@ When the abstract is accepted, the author is expected to submit an extended abst
   <invitedtalk author="Atsushi Shimojima" title="(TBA)" number="invited_shimojima" pages="" />
 </session>
 
-<session time="11:00-12:30" name="Session" chair="">
+<session time="11:00-12:30" name="Session" chair="David Y. Oshima">
   <talk author="Muyi Yang" title="Sensitive to future: the case of Japanese nara-conditionals" number="29" pages="" />
   <talk author="Masaya Taniguchi and Satoshi Tojo" title="Incremental derivations with Q combinator in CCG" number="22" pages="" />
   <talk author="Satoru Suzuki" title="Generics and Belief Contraction" number="33" pages="" />
@@ -118,7 +118,7 @@ When the abstract is accepted, the author is expected to submit an extended abst
   <talk author="Makoto Kaneko" title="An analysis of a peculiar PPI licensing in French and Japanese negated purpose clauses in terms of an implicit externalization of the negation due to the non-responsibility" number="15" pages="" />
 </session>
 
-<session time="16:30-18:00" name="Session" chair="">
+<session time="16:30-18:00" name="Session" chair="Ribeka Tanaka">
   <talk author="Julian Grove and Jean-Philippe Bernardy" title="Probabilistic compositional semantics, purely" number="23" pages="" />
   <talk author="Afra Baas and Lasha Abzianidze" title="Mitigating Hypothesis-only Bias in a Natural Language Inference Dataset" number="24" pages="" />
   <talk author="Fabio De Martin Polo" title="A Cut-free Hypersequent Calculus for Intuitionistic Modal Logic IS5" number="14" pages="" />
@@ -127,7 +127,7 @@ When the abstract is accepted, the author is expected to submit an extended abst
 
 <day date="3rd Day: November 15 (Mon)">
 
-<session time="10:00-11:30" name="Session" chair="">
+<session time="10:00-11:30" name="Session" chair="Osamu Sawada">
   <talk author="Mana Ishida, Hitomi Yanaka and Daisuke Bekki" title="Compositional Semantics for Multiword Expression in Medical Case Retrieval" number="7" pages="" />
   <talk author="Alastair Butler" title="Parsed corpus development with a quick access interface" number="21" pages="" />
   <talk author="Chungmin Lee" title="Factivity in Chinese: Viewed from the Altaic Alternation Type" number="34" pages="" />
@@ -139,7 +139,7 @@ When the abstract is accepted, the author is expected to submit an extended abst
   <talk author="Eri Tanaka and Kenta Mizutani" title="Presuppositions and Comparison Classes in Japanese hodo-equatives" number="27" pages="" />
 </session>
 
-<session time="15:30-17:00" name="Session" chair="">
+<session time="15:30-17:00" name="Session" chair="Yurie Hara">
   <talk author="Elin Mccready" title="Honorifics, Grounds and Ideologies" number="9" pages="" />
   <talk author="Liping Tang" title="Cheap talk under partial conflicts: a dynamic analysis of pragmatic meaning" number="6" pages="" />
   <talk author="Ana Clara Polakof" title="An experimental approach to slurs and swearwords in Rioplatense Spanish" number="3" pages="" />
@@ -184,7 +184,7 @@ When the abstract is accepted, the author is expected to submit an extended abst
   <organizer name="David Y. Oshima"     affiliation="Nagoya University" />
   <organizer name="Katsuhiko Sano"      affiliation="Hokkaido University" />
   <organizer name="Osamu Sawada"        affiliation="Kobe University" />
-  <organizer name="Ribeka Tanaka"       affiliation="Kyoto University" />
+  <organizer name="Ribeka Tanaka"       affiliation="Ochanomizu University" />
   <organizer name="Wataru Uegaki"       affiliation="University of Edinburgh" />
   <organizer name="Katsuhiko Yabushita" affiliation="Naruto University of Education" />
   <organizer name="Tomoyuki Yamada"     affiliation="Hokkaido University" />
