@@ -131,7 +131,7 @@ Program:
 -------------------------
 10:00-11:00:Invited talk
     * Atsushi Shimojima
-      "(TBA)"
+      "Proxy Logics: an Approach to Semantic Functions of Diagrams"
 
 
 11:00-12:30:Session

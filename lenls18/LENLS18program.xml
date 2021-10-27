@@ -103,7 +103,7 @@ When the abstract is accepted, the author is expected to submit an extended abst
 
 <day date="2nd Day: November 14 (Sun)">
 <session time="10:00-11:00" name="Invited talk" chair="Koji Mineshima">
-  <invitedtalk author="Atsushi Shimojima" title="(TBA)" number="invited_shimojima" pages="" />
+  <invitedtalk author="Atsushi Shimojima" title="Proxy Logics: an Approach to Semantic Functions of Diagrams" number="invited_shimojima" pages="" />
 </session>
 
 <session time="11:00-12:30" name="Session" chair="David Y. Oshima">
