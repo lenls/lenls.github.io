@@ -121,7 +121,7 @@ When the abstract is accepted, the author is expected to submit an extended abst
 <session time="16:30-17:30" name="Session" chair="Ribeka Tanaka">
   <talk author="Julian Grove and Jean-Philippe Bernardy" title="Probabilistic compositional semantics, purely" number="Grove_and_Bernardy" pages="" update="done" />
   <!--talk author="Afra Baas and Lasha Abzianidze" title="Mitigating Hypothesis-only Bias in a Natural Language Inference Dataset" number="24" update="yet" /> -->
-  <talk author="Fabio De Martin Polo" title="A Cut-free Hypersequent Calculus for Intuitionistic Modal Logic IS5" number="14" pages="Polo" update="done" />
+  <talk author="Fabio De Martin Polo" title="A Cut-free Hypersequent Calculus for Intuitionistic Modal Logic IS5" number="Polo" pages="Polo" update="done" />
 </session>
 </day>
 
