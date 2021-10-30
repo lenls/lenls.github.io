@@ -155,8 +155,7 @@ Program:
 16:30-18:00:Session
     * Julian Grove and Jean-Philippe Bernardy
       "Probabilistic compositional semantics, purely"
-    * Afra Baas and Lasha Abzianidze
-      "Mitigating Hypothesis-only Bias in a Natural Language Inference Dataset"
+  
     * Fabio De Martin Polo
       "A Cut-free Hypersequent Calculus for Intuitionistic Modal Logic IS5"
 
@@ -194,7 +193,7 @@ Program:
 
 17:00-18:00:Invited talk
     * Maria Aloni
-      "Logic and Conversation: neglect-zero effects at the semantics-pragmatics interface"
+      "Logic and Conversation: beyond the canonical divide"
 
 
 18:00-18:15:Closing remark
