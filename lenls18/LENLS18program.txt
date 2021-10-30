@@ -194,7 +194,7 @@ Program:
 
 17:00-18:00:Invited talk
     * Maria Aloni
-      "Logic and Conversation: beyond the canonical divide"
+      "Logic and Conversation: neglect-zero effects at the semantics-pragmatics interface"
 
 
 18:00-18:15:Closing remark
