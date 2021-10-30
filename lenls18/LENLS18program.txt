@@ -117,9 +117,8 @@ Program:
       "A Proof-theoretic Analysis of Weak Crossover"
 
 
-16:30-18:00:Session
-    * Dan Zeman
-      "Three Rich-Lexicon Theories of Slurs: A Comparison"
+16:30-17:30:Session
+  
     * Kristina Liefke
       "Remembering individuals and remembering scenes"
     * Kristina Liefke and Markus Werning
@@ -152,7 +151,7 @@ Program:
       "An analysis of a peculiar PPI licensing in French and Japanese negated purpose clauses in terms of an implicit externalization of the negation due to the non-responsibility"
 
 
-16:30-18:00:Session
+16:30-17:30:Session
     * Julian Grove and Jean-Philippe Bernardy
       "Probabilistic compositional semantics, purely"
   
@@ -183,7 +182,7 @@ Program:
 
 
 15:30-17:00:Session
-    * Elin Mccready
+    * Elin McCready
       "Honorifics, Grounds and Ideologies"
     * Liping Tang
       "Cheap talk under partial conflicts: a dynamic analysis of pragmatic meaning"
@@ -193,7 +192,7 @@ Program:
 
 17:00-18:00:Invited talk
     * Maria Aloni
-      "Logic and Conversation: beyond the canonical divide"
+      "Logic and Conversation: neglect-zero effects at the semantics-pragmatics interface"
 
 
 18:00-18:15:Closing remark
