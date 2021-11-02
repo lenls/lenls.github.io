@@ -101,7 +101,7 @@ Program:
 
 11:00-12:30:Session
     * Ahmad Jabbar
-      "Choice, disagreement, and automata: enriching the Kaplanian machinery"
+      "Pluralism for Relativists: a new framework for context dependence"
     * Shintaro Matsuura
       "How to Explain the Mechanism of Metalinguistic Dispute"
     * Shuhei Shimamura
