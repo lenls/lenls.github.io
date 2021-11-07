@@ -51,14 +51,14 @@ limited to the following:
 <topic>Scientific methodology and/or experimental design for linguistics</topic>
 </topics>
 
-<submission>
+<!--submission>
 Abstracts (anonymous, up to 4 pages, including figures and references, 
 A4 size, with 12 point font) must be submitted electronically in PDF format at:
 
 <url>https://easychair.org/conferences/?conf=lenls18</url>
 
 When the abstract is accepted, the author is expected to submit an extended abstract or a full paper (up to 14 pages) before the workshop. The online proceedings of the workshop will be available online.
-</submission><selectedpaper />
+</submission--><selectedpaper />
 
 <importantdates>
 <importantdate name="Abstract submission deadline"     date="September 5 (Sun), 2021 (extended)" done="yes" />
@@ -128,7 +128,7 @@ When the abstract is accepted, the author is expected to submit an extended abst
 <day date="3rd Day: November 15 (Mon)">
 
 <session time="10:00-11:30" name="Session" chair="Osamu Sawada">
-  <talk author="Mana Ishida, Hitomi Yanaka and Daisuke Bekki" title="Compositional Semantics for Multiword Expression in Medical Case Retrieval" number="Ishida_Yanaka_and_Bekki" pages="231--239" update="done" />
+  <talk author="Mana Ishida, Hitomi Yanaka and Daisuke Bekki" title="Compositional Semantics for Compound Words in Medical Case Retrieval" number="Ishida_Yanaka_and_Bekki" pages="231--239" update="done" />
   <talk author="Alastair Butler" title="Parsed corpus development with a quick access interface" number="Butler" pages="241--254" update="done" />
   <talk author="Chungmin Lee" title="Factivity in Chinese: Viewed from the Altaic Alternation Type" number="Lee" pages="255--268" update="done" />
 </session>

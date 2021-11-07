@@ -58,15 +58,6 @@ limited to the following:
 - Scientific methodology and/or experimental design for linguistics
 
 
-Submissions:
-============
-Abstracts (anonymous, up to 4 pages, including figures and references, 
-A4 size, with 12 point font) must be submitted electronically in PDF format at:
-
-https://easychair.org/conferences/?conf=lenls18
-
-When the abstract is accepted, the author is expected to submit an extended abstract or a full paper (up to 14 pages) before the workshop. The online proceedings of the workshop will be available online.
-
 Selected Papers:
 ================
 We also plan to publish a selection of the accepted/invited papers
@@ -165,7 +156,7 @@ Program:
 
 10:00-11:30:Session
     * Mana Ishida, Hitomi Yanaka and Daisuke Bekki
-      "Compositional Semantics for Multiword Expression in Medical Case Retrieval"
+      "Compositional Semantics for Compound Words in Medical Case Retrieval"
     * Alastair Butler
       "Parsed corpus development with a quick access interface"
     * Chungmin Lee
