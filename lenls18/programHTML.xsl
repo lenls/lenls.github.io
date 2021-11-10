@@ -372,7 +372,6 @@ A selection of the accepted/invited full papers will be published as a portion o
 
 <xsl:template match="day">
 <h3><xsl:value-of select="@date" /></h3>
-
   <xsl:apply-templates />
   </xsl:template>
 
@@ -381,7 +380,6 @@ A selection of the accepted/invited full papers will be published as a portion o
   <xsl:text disable-output-escaping="yes">&amp;nbsp;</xsl:text>
   <xsl:value-of select="@name" />
   <br />
-
   </xsl:template>
 
 <xsl:template match="session">
@@ -394,7 +392,20 @@ A selection of the accepted/invited full papers will be published as a portion o
   <ul>
   <xsl:apply-templates />
   </ul>
+  </xsl:template>
 
+<xsl:template match="zoom">
+  <table>
+  <tr><td>Zoom URL:</td><td>
+    <a>
+    <xsl:attribute name="href">
+      <xsl:value-of select="@url" />
+    </xsl:attribute>
+    <xsl:value-of select="@url" />
+    </a></td></tr>
+  <tr><td>Meeting ID: </td><td><xsl:value-of select="@id" /></td></tr>
+  <tr><td>Zoom password:</td><td><xsl:value-of select="." /></td></tr>
+  </table><br />
   </xsl:template>
 
 <xsl:template match="talk">

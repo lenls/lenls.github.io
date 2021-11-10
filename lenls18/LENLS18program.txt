@@ -18,7 +18,7 @@ Workshop Site : **Online** only
 Dates         : November 13(Sat), 14(Sun), and 15(Mon), 2021
 Contact Person: Alastair Butler (Hirosaki University)
 Contact Email : lenls18[[at]]easychair.org
-Website       : http://www.is.ocha.ac.jp/~bekki/lenls/
+Website       : https://lenls.github.io/
 =================================================================
 
 Chair:  Alastair Butler (Hirosaki University)
@@ -76,10 +76,12 @@ Registration:
   Please follow the link below and register yourself until 
   November 12, 2021 (in JST).
   https://isai2021-ai-gakkai.peatix.com/
-  The registration fee is free for JSAI members and 2,000 yen for non-JSAI members.  Note that the zoom URL of the workshop will be informed to the registered persons only.
+  The registration fee is free for JSAI members and 2,000 yen for non-JSAI members.  Note that the zoom password of the workshop will be informed to the registered persons only.
 
 Program:
 ========
+(refer to the email sent from the registration system)
+
 1st Day: November 13 (Sat)
 -------------------------
 
@@ -119,6 +121,7 @@ Program:
 
 2nd Day: November 14 (Sun)
 -------------------------
+
 10:00-11:00:Invited talk
     * Atsushi Shimojima
       "Proxy Logics: an Approach to Semantic Functions of Diagrams"
