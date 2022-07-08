@@ -25,6 +25,7 @@ Website       : http://www.is.ocha.ac.jp/~bekki/lenls/
 
 Chair:  Daisuke Bekki (Ochanomizu University)
 Co-chair: Koji Mineshima (Keio University)
+          Elin McCready (Aoyama Gakuin University)
           
 Invited Speakers:
 - Michael Moortgat (Utrecht University)

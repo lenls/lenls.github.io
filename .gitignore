@@ -2,3 +2,5 @@
 *.dvi
 *.log
 *.ps
+tmp.tex
+memo.txt
