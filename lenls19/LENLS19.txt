@@ -29,11 +29,11 @@ Co-chair: Koji Mineshima (Keio University)
           
 Invited Speakers:
 - Michael Moortgat (Utrecht University)
-- (TBA) (TBA)
-- (TBA) (TBA)
+- Matthew Gotham (University of Oxford)
+- Nayuta Miki (Osaka Universty)
 
 LENLS is an annual international conference on formal linguistics (syntax, semantics 
-and pragmatics), computational linguistics, and philosophy of language.  From this year, LENLS will be held under the umbrella of The Association for Logic, Language and Information (FoLLI)
+and pragmatics), computational linguistics, and philosophy of language.  We are happy to announce that, from this year, LENLS will be held under the umbrella of The Association for Logic, Language and Information (FoLLI)
 (http://www.folli.info/).
 
 LENLS19 is scheduled to take place in a hybrid format, namely, having both a physical presence 
@@ -43,9 +43,8 @@ option in Tokyo and a virtual presence option via zoom, while monitoring the glo
 
 Aims and Topics:
 ================
-We welcome submissions to this year's workshop on topics in formal linguistics (syntax, semantics, 
-pragmatics), computational linguistics, philosophy of language, and related fields, including 
-but in no way limited to the following:
+We welcome submissions on topics in formal linguistics (syntax, semantics, pragmatics), computational 
+linguistics, philosophy of language, and related fields, including but in no way limited to the following:
 
 - Formal syntax, semantics and pragmatics of natural language
 - Model-theoretic and/or proof-theoretic semantics of natural language
@@ -57,20 +56,21 @@ but in no way limited to the following:
 
 Submissions:
 ============
-We invite submissions of abstracts (anonymous, up to 4 pages including figures and references, A4 
-size, with 12 point font) on original and unpublished research.  The easychair site for abstract
-submissions will open very soon.
+The authors are required to choose one of the two submission categories: Abstract only
+and Abstract+full paper.  For both categories, authors must submit abstracts (anonymous, 
+up to 4 pages including figures and references, A4 size, with 12 point font) on original and 
+unpublished research.  Abstracts must be submitted electronically in PDF format at:
 
+https://easychair.org/conferences/?conf=lenls19
 
+When their abstracts get accepted, authors of both categories are expected to submit extended 
+abstracts (up to 5 pages) before the workshop.  Notice that abstracts submitted to Abstract+full paper 
+category may get accepted in Abstract only category (but not vice versa).  The proceedings of 
+the workshop will be available online, containing extended abstracts of both categories.
 
-When the abstract is accepted, the author is expected to submit an extended abstract before the 
-workshop. The online proceedings of the workshop will be available online.
-
-Moreover, authors are required to indicate whether they wish to submit a full paper (up to 14 pages) 
-for post-proceedings after the abstract is accepted.  Authors accepted for post-proceedings must agree 
-to submit a full paper after the LENLS conference and to review at least one other 
-full paper.
-
+Authors of Abstract+full paper category are later required to submit a full paper (up to 14 pages) 
+for the post-proceedings volume after the conference, and agree to review at least one other full 
+paper.
 
 
 Important dates:
@@ -101,6 +101,7 @@ We expect participants to follow these rules at conference and workshop venues a
 Workshop Organizers/Program Committee:
 ======================================
   - Daisuke Bekki (Ochanomizu University)
+  - Robert Henderson (University of Arizona)
   - Koji Mineshima (Keio University)
   - Elin McCready (Aoyama Gakuin University)
   - Yoshiki Mori (University of Tokyo)

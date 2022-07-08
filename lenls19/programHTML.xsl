@@ -426,4 +426,8 @@ A selection of the accepted/invited full papers will be published as a portion o
   </ul>
   </xsl:template>
 
+<xsl:template match="category">
+  <b>[<xsl:value-of select="." />]</b>
+  </xsl:template>
+
 </xsl:stylesheet>
