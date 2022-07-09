@@ -88,7 +88,7 @@ paper.</p>
   <!--organizer name="Alastair Butler"     affiliation="Hirosaki University" /-->
   <!--organizer name="Richard Dietz"       affiliation="University of Tokyo" /-->
   <!--organizer name="Patrick D. Elliott"  affiliation="Massachusetts Institute of Technology" /-->
-  <!--organizer name="Naoya Fujikawa"      affiliation="University of Tokyo" /-->
+  <organizer name="Naoya Fujikawa"      affiliation="University of Tokyo" />
   <!--organizer name="Yurie Hara"          affiliation="Hokkaido University" /-->
   <organizer name="Robert Henderson"    affiliation="University of Arizona" />
   <!--organizer name="Hitomi Hirayama"     affiliation="Keio University" /-->
@@ -97,9 +97,9 @@ paper.</p>
   <organizer name="Koji Mineshima"      affiliation="Keio University"               role="cochair" />
   <organizer name="Elin McCready"       affiliation="Aoyama Gakuin University"      role="cochair" />
   <organizer name="Yoshiki Mori"        affiliation="University of Tokyo" />
-  <!--organizer name="David Y. Oshima"     affiliation="Nagoya University" /-->
+  <organizer name="David Y. Oshima"     affiliation="Nagoya University" />
   <!--organizer name="Katsuhiko Sano"      affiliation="Hokkaido University" /-->
-  <!--organizer name="Osamu Sawada"        affiliation="Kobe University" /-->
+  <organizer name="Osamu Sawada"        affiliation="Kobe University" />
   <organizer name="Ribeka Tanaka"       affiliation="Ochanomizu University" />
   <organizer name=""       affiliation="and more" />
   <!--organizer name="Wataru Uegaki"       affiliation="University of Edinburgh" /-->
