@@ -100,8 +100,10 @@ We expect participants to follow these rules at conference and workshop venues a
 Workshop Organizers/Program Committee:
 ======================================
   - Daisuke Bekki (Ochanomizu University)
+  - Alastair Butler (Hirosaki University)
   - Naoya Fujikawa (University of Tokyo)
   - Robert Henderson (University of Arizona)
+  - Magdalena Kaufmann (University of Connecticut)
   - Koji Mineshima (Keio University)
   - Elin McCready (Aoyama Gakuin University)
   - Yoshiki Mori (University of Tokyo)
@@ -109,5 +111,8 @@ Workshop Organizers/Program Committee:
   - Osamu Sawada (Kobe University)
   - Ribeka Tanaka (Ochanomizu University)
   -  (and more)
+  - Wataru Uegaki (University of Edinburgh)
+  - Tomoyuki Yamada (Hokkaido University)
+  - Kei Yoshimoto (Tohoku University)
 
 

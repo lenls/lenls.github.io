@@ -85,14 +85,14 @@ paper.</p>
 
 <organizers>
   <organizer name="Daisuke Bekki"       affiliation="Ochanomizu University"         role="chair" />
-  <!--organizer name="Alastair Butler"     affiliation="Hirosaki University" /-->
+  <organizer name="Alastair Butler"     affiliation="Hirosaki University" />
   <!--organizer name="Richard Dietz"       affiliation="University of Tokyo" /-->
   <!--organizer name="Patrick D. Elliott"  affiliation="Massachusetts Institute of Technology" /-->
   <organizer name="Naoya Fujikawa"      affiliation="University of Tokyo" />
   <!--organizer name="Yurie Hara"          affiliation="Hokkaido University" /-->
   <organizer name="Robert Henderson"    affiliation="University of Arizona" />
   <!--organizer name="Hitomi Hirayama"     affiliation="Keio University" /-->
-  <!--organizer name="Magdalena Kaufmann"  affiliation="University of Connecticut" /-->
+  <organizer name="Magdalena Kaufmann"  affiliation="University of Connecticut" />
   <!--organizer name="Kristina Liefke"     affiliation="Ruhr University Bochum" /-->
   <organizer name="Koji Mineshima"      affiliation="Keio University"               role="cochair" />
   <organizer name="Elin McCready"       affiliation="Aoyama Gakuin University"      role="cochair" />
@@ -102,11 +102,11 @@ paper.</p>
   <organizer name="Osamu Sawada"        affiliation="Kobe University" />
   <organizer name="Ribeka Tanaka"       affiliation="Ochanomizu University" />
   <organizer name=""       affiliation="and more" />
-  <!--organizer name="Wataru Uegaki"       affiliation="University of Edinburgh" /-->
+  <organizer name="Wataru Uegaki"       affiliation="University of Edinburgh" />
   <!--organizer name="Katsuhiko Yabushita" affiliation="Naruto University of Education" /-->
-  <!--organizer name="Tomoyuki Yamada"     affiliation="Hokkaido University" /-->
+  <organizer name="Tomoyuki Yamada"     affiliation="Hokkaido University" />
   <!--organizer name="Shunsuke Yatabe"     affiliation="Ochanomizu University" /-->
-  <!--organizer name="Kei Yoshimoto"       affiliation="Tohoku University" /-->
+  <organizer name="Kei Yoshimoto"       affiliation="Tohoku University" />
 </organizers>
 </workshop>
 
