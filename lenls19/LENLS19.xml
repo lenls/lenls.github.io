@@ -101,12 +101,12 @@ paper.</p>
   <!--organizer name="Katsuhiko Sano"      affiliation="Hokkaido University" /-->
   <organizer name="Osamu Sawada"        affiliation="Kobe University" />
   <organizer name="Ribeka Tanaka"       affiliation="Ochanomizu University" />
-  <organizer name=""       affiliation="and more" />
   <organizer name="Wataru Uegaki"       affiliation="University of Edinburgh" />
   <!--organizer name="Katsuhiko Yabushita" affiliation="Naruto University of Education" /-->
   <organizer name="Tomoyuki Yamada"     affiliation="Hokkaido University" />
   <!--organizer name="Shunsuke Yatabe"     affiliation="Ochanomizu University" /-->
   <organizer name="Kei Yoshimoto"       affiliation="Tohoku University" />
+  <organizer name=""       affiliation="and more" />
 </organizers>
 </workshop>
 
