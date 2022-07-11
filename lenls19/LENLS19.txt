@@ -103,6 +103,7 @@ Workshop Organizers/Program Committee:
   - Alastair Butler (Hirosaki University)
   - Naoya Fujikawa (University of Tokyo)
   - Robert Henderson (University of Arizona)
+  - Hitomi Hirayama (Keio University)
   - Magdalena Kaufmann (University of Connecticut)
   - Koji Mineshima (Keio University)
   - Elin McCready (Aoyama Gakuin University)
