@@ -84,29 +84,36 @@ paper.</p>
 <cp>We expect participants to follow these rules at conference and workshop venues and conference-related social events.</cp>
 </code>
 
-<organizers>
-  <organizer name="Daisuke Bekki"       affiliation="Ochanomizu University"         role="chair" />
-  <organizer name="Alastair Butler"     affiliation="Hirosaki University" />
-  <!--organizer name="Richard Dietz"       affiliation="University of Tokyo" /-->
-  <!--organizer name="Patrick D. Elliott"  affiliation="Massachusetts Institute of Technology" /-->
-  <organizer name="Naoya Fujikawa"      affiliation="University of Tokyo" />
-  <organizer name="Yurie Hara"          affiliation="Hokkaido University" />
-  <organizer name="Robert Henderson"    affiliation="University of Arizona" />
-  <organizer name="Hitomi Hirayama"     affiliation="Keio University" />
-  <organizer name="Magdalena Kaufmann"  affiliation="University of Connecticut" />
-  <!--organizer name="Kristina Liefke"     affiliation="Ruhr University Bochum" /-->
-  <organizer name="Koji Mineshima"      affiliation="Keio University"               role="cochair" />
-  <organizer name="Elin McCready"       affiliation="Aoyama Gakuin University"      role="cochair" />
-  <organizer name="Yoshiki Mori"        affiliation="University of Tokyo" />
-  <organizer name="David Y. Oshima"     affiliation="Nagoya University" />
-  <!--organizer name="Katsuhiko Sano"      affiliation="Hokkaido University" /-->
-  <organizer name="Osamu Sawada"        affiliation="Kobe University" />
-  <organizer name="Ribeka Tanaka"       affiliation="Ochanomizu University" />
-  <organizer name="Wataru Uegaki"       affiliation="University of Edinburgh" />
-  <organizer name="Katsuhiko Yabushita" affiliation="Naruto University of Education" />
-  <organizer name="Tomoyuki Yamada"     affiliation="Hokkaido University" />
-  <organizer name="Shunsuke Yatabe"     affiliation="Ochanomizu University" />
-  <organizer name="Kei Yoshimoto"       affiliation="Tohoku University" />
-</organizers>
+<pcmembers>
+  <pcmember name="Daisuke Bekki"       affiliation="Ochanomizu University"         role="chair" />
+  <pcmember name="Alastair Butler"     affiliation="Hirosaki University" />
+  <!--pcmember name="Richard Dietz"       affiliation="University of Tokyo" /-->
+  <!--pcmember name="Patrick D. Elliott"  affiliation="Massachusetts Institute of Technology" /-->
+  <pcmember name="Naoya Fujikawa"      affiliation="University of Tokyo" />
+  <pcmember name="Yurie Hara"          affiliation="Hokkaido University" />
+  <pcmember name="Robert Henderson"    affiliation="University of Arizona" />
+  <pcmember name="Hitomi Hirayama"     affiliation="Keio University" />
+  <pcmember name="Magdalena Kaufmann"  affiliation="University of Connecticut" />
+  <!--pcmember name="Kristina Liefke"     affiliation="Ruhr University Bochum" /-->
+  <pcmember name="Koji Mineshima"      affiliation="Keio University"               role="cochair" />
+  <pcmember name="Elin McCready"       affiliation="Aoyama Gakuin University"      role="cochair" />
+  <pcmember name="Yoshiki Mori"        affiliation="University of Tokyo" />
+  <pcmember name="David Y. Oshima"     affiliation="Nagoya University" />
+  <!--pcmember name="Katsuhiko Sano"      affiliation="Hokkaido University" /-->
+  <pcmember name="Osamu Sawada"        affiliation="Kobe University" />
+  <pcmember name="Ribeka Tanaka"       affiliation="Ochanomizu University" />
+  <pcmember name="Wataru Uegaki"       affiliation="University of Edinburgh" />
+  <pcmember name="Katsuhiko Yabushita" affiliation="Naruto University of Education" />
+  <pcmember name="Tomoyuki Yamada"     affiliation="Hokkaido University" />
+  <pcmember name="Shunsuke Yatabe"     affiliation="Ochanomizu University" />
+  <pcmember name="Kei Yoshimoto"       affiliation="Tohoku University" />
+</pcmembers>
+
+<localorganizers>
+  <localorganizer name="Yoshiki Mori"        affiliation="University of Tokyo" />
+  <localorganizer name="Ribeka Tanaka"       affiliation="Ochanomizu University" />
+  <localorganizer name="Yuta Takahashi"       affiliation="Ochanomizu University" />
+</localorganizers>
+
 </workshop>
 

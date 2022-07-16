@@ -109,9 +109,10 @@ h4 {
             <xsl:if test="tutorial!=''"><tr><td class="c1"><a href="#tutorial">Tutorial Lecture</a></td></tr></xsl:if>
             <xsl:if test="sponsor!=''"><tr><td class="c2"><a href="#sponsor">Sponsor</a></td></tr></xsl:if>
             <xsl:if test="code!=''"><tr><td class="c1"><a href="#code">Conference Code of Conduct</a></td></tr></xsl:if>
-            <tr><td class="c2"><a href="#committee">Organizing Committee</a></td></tr>
-            <tr><td class="c1"><a href="#contact">Contact</a></td></tr>
-            <tr><td class="c2">
+            <tr><td class="c2"><a href="#committee">Program Committee</a></td></tr>
+            <tr><td class="c1"><a href="#committee">Local Organizers</a></td></tr>
+            <tr><td class="c2"><a href="#contact">Contact</a></td></tr>
+            <tr><td class="c1">
               <table>
               <tr><td>Archives</td></tr>
               <tr><td>&#x20;&#x20;&#x20;&#x20;LENLS1</td></tr>
@@ -353,11 +354,21 @@ A selection of the accepted/invited full papers will be published as a portion o
 <p><xsl:apply-templates /></p>
 </xsl:template>
 
-<xsl:template match="organizers">
+<xsl:template match="pcmembers">
 <a name="committee" />
-<h2>Organizing/Program Committee:</h2>
+<h2>Program Committee:</h2>
 <ul>
-<xsl:for-each select="organizer">
+<xsl:for-each select="pcmember">
+<li><xsl:value-of select="@name" /> (<xsl:value-of select="@affiliation" />)</li>
+</xsl:for-each>
+</ul>
+</xsl:template>
+
+<xsl:template match="localorganizers">
+<a name="localorganizers" />
+<h2>Local Organizers:</h2>
+<ul>
+<xsl:for-each select="localorganizer">
 <li><xsl:value-of select="@name" /> (<xsl:value-of select="@affiliation" />)</li>
 </xsl:for-each>
 </ul>

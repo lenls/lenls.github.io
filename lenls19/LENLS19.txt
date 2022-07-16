@@ -18,15 +18,13 @@ Workshop Site : Hybrid (Online | The University of Tokyo, Komaba 1 Campus)
                     　3-8-1 Komaba, Meguro-ku, Tokyo (zip:153-8902)
                     　https://www.c.u-tokyo.ac.jp/eng_site/
 Dates         : November 19(Sat), 20(Sun), and 21(Mon), 2022
-Contact Person: Daisuke Bekki (Ochanomizu University)
+Contact Person:  ()
 Contact Email : lenls19[[at]]easychair.org
 Website       : http://www.is.ocha.ac.jp/~bekki/lenls/
 =================================================================
 
-Chair:  Daisuke Bekki (Ochanomizu University)
-Co-chair: Koji Mineshima (Keio University)
-          Elin McCready (Aoyama Gakuin University)
-          
+Chair:  
+Co-chair: 
 Invited Speakers:
 - Michael Moortgat (Utrecht University)
 - Kohei Kishida (University of Illinois)
@@ -98,25 +96,35 @@ Conference staff will be happy to help participants contact hotel/venue security
 We expect participants to follow these rules at conference and workshop venues and conference-related social events.
 
 
-Workshop Organizers/Program Committee:
-======================================
-  - Daisuke Bekki (Ochanomizu University)
-  - Alastair Butler (Hirosaki University)
-  - Naoya Fujikawa (University of Tokyo)
-  - Yurie Hara (Hokkaido University)
-  - Robert Henderson (University of Arizona)
-  - Hitomi Hirayama (Keio University)
-  - Magdalena Kaufmann (University of Connecticut)
-  - Koji Mineshima (Keio University)
-  - Elin McCready (Aoyama Gakuin University)
-  - Yoshiki Mori (University of Tokyo)
-  - David Y. Oshima (Nagoya University)
-  - Osamu Sawada (Kobe University)
-  - Ribeka Tanaka (Ochanomizu University)
-  - Wataru Uegaki (University of Edinburgh)
-  - Katsuhiko Yabushita (Naruto University of Education)
-  - Tomoyuki Yamada (Hokkaido University)
-  - Shunsuke Yatabe (Ochanomizu University)
-  - Kei Yoshimoto (Tohoku University)
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+  
+  
+  
+
 
 
