@@ -29,6 +29,7 @@ Co-chair: Koji Mineshima (Keio University)
           
 Invited Speakers:
 - Michael Moortgat (Utrecht University)
+- Kohei Kishida (University of Illinois)
 -  (TBA)
 
 LENLS is an annual international conference on formal linguistics (syntax, semantics 
@@ -102,6 +103,7 @@ Workshop Organizers/Program Committee:
   - Daisuke Bekki (Ochanomizu University)
   - Alastair Butler (Hirosaki University)
   - Naoya Fujikawa (University of Tokyo)
+  - Yurie Hara (Hokkaido University)
   - Robert Henderson (University of Arizona)
   - Hitomi Hirayama (Keio University)
   - Magdalena Kaufmann (University of Connecticut)

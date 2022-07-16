@@ -19,6 +19,7 @@
   <isbn></isbn>
 
   <invitedspeaker name="Michael Moortgat" affiliation="Utrecht University" />
+  <invitedspeaker name="Kohei Kishida" affiliation="University of Illinois" />
   <invitedspeaker name="" affiliation="TBA" />
   <!--invitedspeaker name="Matthew Gotham" affiliation="University of Oxford" /-->
   <!--invitedspeaker name="Nayuta Miki" affiliation="Osaka Universty" /-->
@@ -89,7 +90,7 @@ paper.</p>
   <!--organizer name="Richard Dietz"       affiliation="University of Tokyo" /-->
   <!--organizer name="Patrick D. Elliott"  affiliation="Massachusetts Institute of Technology" /-->
   <organizer name="Naoya Fujikawa"      affiliation="University of Tokyo" />
-  <!--organizer name="Yurie Hara"          affiliation="Hokkaido University" /-->
+  <organizer name="Yurie Hara"          affiliation="Hokkaido University" />
   <organizer name="Robert Henderson"    affiliation="University of Arizona" />
   <organizer name="Hitomi Hirayama"     affiliation="Keio University" />
   <organizer name="Magdalena Kaufmann"  affiliation="University of Connecticut" />
