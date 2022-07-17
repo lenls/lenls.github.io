@@ -193,7 +193,7 @@ h4 {
 <tr><td>
 Chair: 
   <ul>
-  <xsl:for-each select="//organizer[@role='chair']">
+  <xsl:for-each select="//pcmember[@role='chair']">
     <li><xsl:value-of select="@name" /> (<xsl:value-of select="@affiliation" />)</li>
   </xsl:for-each>
   </ul>
@@ -201,7 +201,7 @@ Chair:
 <tr><td>
 Co-chairs: 
   <ul>
-  <xsl:for-each select="//organizer[@role='cochair']">
+  <xsl:for-each select="//pcmember[@role='cochair']">
     <li><xsl:value-of select="@name" /> (<xsl:value-of select="@affiliation" />)</li>
   </xsl:for-each>
   </ul>

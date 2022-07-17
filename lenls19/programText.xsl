@@ -39,8 +39,8 @@ Contact Email : <xsl:value-of select="email" />
 Website       : <xsl:value-of select="website" />
 =================================================================
 
-Chair:  <xsl:for-each select="ancestor::workshop/organizers/organizer[@role='chair']"><xsl:value-of select="@name" /> (<xsl:value-of select="@affiliation" />)</xsl:for-each>
-Co-chair: <xsl:for-each select="ancestor::workshop/organizers/organizer[@role='cochair']"><xsl:value-of select="@name" /> (<xsl:value-of select="@affiliation" />)<xsl:text disable-output-escaping="yes">&#xD;&#xa;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;</xsl:text>
+Chair:  <xsl:for-each select="ancestor::workshop/pcmembers/pcmember[@role='chair']"><xsl:value-of select="@name" /> (<xsl:value-of select="@affiliation" />)</xsl:for-each>
+Co-chair: <xsl:for-each select="ancestor::workshop/pcmembers/pcmember[@role='cochair']"><xsl:value-of select="@name" /> (<xsl:value-of select="@affiliation" />)<xsl:text disable-output-escaping="yes">&#xD;&#xa;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;</xsl:text>
 </xsl:for-each>
 Invited Speakers:<xsl:for-each select="invitedspeaker">
 - <xsl:value-of select="@name" /> (<xsl:value-of select="@affiliation" />)</xsl:for-each></xsl:template>
@@ -153,19 +153,17 @@ Abstract
 
 <xsl:template match="cp"><xsl:value-of select="." /></xsl:template>
 
-<xsl:template match="organizers">Organizing/Program Committee:
-=============================
-<xsl:for-each select="organizer">
-<xsl:value-of select="@name" /> (<xsl:value-of select="@affiliation" />)
-</xsl:for-each>
-</xsl:template>
-
 <xsl:template match="studentsession">
 Student Session:
 ================<xsl:value-of select="." />
 </xsl:template>
 
-<xsl:template match="organizers">Workshop Organizers/Program Committee:
+<xsl:template match="pcmembers">Program Committee:
 ======================================
-<xsl:for-each select="organizer">  - <xsl:value-of select="@name" /> (<xsl:value-of select="@affiliation" />)<xsl:text disable-output-escaping="yes">&#xD;&#xA;</xsl:text></xsl:for-each></xsl:template>
+<xsl:for-each select="pcmember">  - <xsl:value-of select="@name" /> (<xsl:value-of select="@affiliation" />)<xsl:text disable-output-escaping="yes">&#xD;&#xA;</xsl:text></xsl:for-each></xsl:template>
+
+<xsl:template match="localorganizers">Local Organizers:
+======================================
+<xsl:for-each select="localorganizer">  - <xsl:value-of select="@name" /> (<xsl:value-of select="@affiliation" />)<xsl:text disable-output-escaping="yes">&#xD;&#xA;</xsl:text></xsl:for-each></xsl:template>
+
 </xsl:stylesheet>
