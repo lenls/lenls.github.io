@@ -25,63 +25,65 @@
   <!--invitedspeaker name="Nayuta Miki" affiliation="Osaka Universty" /-->
 </summary>
 
-<description><p>LENLS is an annual international conference on formal linguistics (syntax, semantics 
-and pragmatics), computational linguistics, and philosophy of language.  We are happy to announce that, from this year, LENLS will be held under the umbrella of <host url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</host>.</p>
+<description><p>LENLS is an annual international conference on formal linguistics (i.e., syntax, semantics 
+and pragmatics), computational linguistics, and the philosophy of language.  We are happy 
+to announce that from this year, LENLS will be held under the umbrella of <host url="http://www.folli.info/">The Association 
+for Logic, Language and Information (FoLLI)</host>.</p>
 
-<p>LENLS19 is scheduled to take place in a hybrid format, namely, having both a physical presence 
-option in Tokyo and a virtual presence option via zoom, while monitoring the global pandemic. </p>
-</description>
+<p>LENLS19 is scheduled to take place in a hybrid format, that is, with both a physical presence 
+option in Tokyo and a virtual presence option via zoom, while monitoring the global COVID-19 pandemic. </p></description>
 
 <call>
 We welcome submissions on topics in formal linguistics (syntax, semantics, pragmatics), computational 
-linguistics, philosophy of language, and related fields, including but in no way limited to the following:
+linguistics, the philosophy of language, and related fields, including but not limited to the following:
 </call><topics>
 <topic>Formal syntax, semantics and pragmatics of natural language</topic>
 <topic>Model-theoretic and/or proof-theoretic semantics of natural language</topic>
 <topic>Computational approaches to semantics and pragmatics</topic>
-<topic>Nonclassical Logic and its relation to natural language (especially Substructural/Fuzzy/Categorical/Topological logics)</topic>
-<topic>Formal Philosophy of language</topic>
-<topic>Scientific methodology and/or experimental design for linguistics</topic>
+<topic>Nonclassical logic and its relation to natural language (especially substructural, fuzzy, categorical, 
+and topological logic)</topic>
+<topic>Formal philosophy of language</topic>
+<topic>Scientific methodology and/or experimental design in linguistics</topic>
 </topics>
 
 <submission>
-The authors are required to choose one of the two submission categories: <category>Abstract only</category>
-and <category>Abstract+full paper</category>.  For both categories, authors must submit abstracts (anonymous, 
-up to 4 pages including figures and references, A4 size, with 12 point font) on original and 
-unpublished research.  Abstracts must be submitted electronically in PDF format at:
+Authors are required to choose from one of the following two submission categories: <category>Abstract Only</category>
+and <category>Abstract+Full Paper</category>.  For both categories, authors must submit abstracts (anonymous, 
+up to 4 pages including figures and references, A4 size, 12-point font) on original, 
+unpublished research.  Abstracts must be submitted electronically in PDF at:
 
 <url>https://easychair.org/conferences/?conf=lenls19</url>
 
-<p>When their abstracts get accepted, authors of both categories are expected to submit extended 
-abstracts (up to 5 pages) before the workshop.  Notice that abstracts submitted to <category>Abstract+full paper</category> 
-category may get accepted in <category>Abstract only</category> category (but not vice versa).  The proceedings of 
-the workshop will be available online, containing extended abstracts of both categories.</p>
+<p>Upon acceptance, authors (both categories) are expected to submit extended 
+abstracts (up to 5 pages) before the workshop.  Note that abstracts submitted to the <category>Abstract+Full Paper</category> 
+category may be accepted in the <category>Abstract Only</category> category (but not vice versa).  The proceedings of 
+the workshop will be made available online, including extended abstracts (both categories).</p>
 
-<p>Authors of <category>Abstract+full paper</category> category are later required to submit a full paper (up to 14 pages) 
-for the post-proceedings volume after the conference, and agree to review at least one other full 
+<p>Authors submitting to the <category>Abstract+Full Paper</category> category are required to submit a full paper (up to 14 pages) 
+for the post-proceedings volume after the conference and must agree to review at least one other full 
 paper.</p>
 </submission><!--selectedpaper /-->
 
 <importantdates>
-<importantdate name="Abstract submission deadline"     date="August 31 (Wed), 2022" />
-<importantdate name="Notification of acceptance"       date="October 1 (Sat), 2022" />
-<importantdate name="Deadline for camera-ready abstracts"   date="End of October, 2022"  />
-<!--importantdate name="Deadline for early registration" date="November 1, 2022" /-->
-<importantdate name="LENLS19"                          date="November 19(Sat), 20(Sun), and 21(Mon), 2022" />
-<importantdate name="Deadline for full papers"         date="End of December, 2022"  />
+<importantdate name="Abstract submission deadline"     date="Wed, Aug. 31, 2022" />
+<importantdate name="Notification of acceptance"       date="Sat, Oct. 1, 2022" />
+<importantdate name="Deadline for camera-ready abstracts"   date="End of October 2022"  />
+<!--importantdate name="Deadline for early registration" date="Nov. 1, 2022" /-->
+<importantdate name="LENLS19"                          date="Nov. 19-21, 2022" />
+<importantdate name="Deadline for full papers"         date="End of December 2022"  />
 </importantdates><!--registration /--><!--program--><!--tutorial/--><!--sponsor/-->
 
 <code>
-<cp>All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.</cp>
+<cp>All attendees, speakers, sponsors and volunteers at our conference are required to adhire to the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everyone.</cp>
 <ct>The Quick Version</ct>
-<cp>Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organisers.</cp>
+<cp>The organizers are dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, and social media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the organisers.</cp>
 <ct>The Less Quick Version</ct>
-<cp>Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.</cp>
-<cp>Participants asked to stop any harassing behavior are expected to comply immediately.</cp>
-<cp>If a participant engages in harassing behavior, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.</cp>
-<cp>If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the following member of conference staff immediately: Elin McCready / Daisuke Bekki</cp>
-<cp>Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.</cp>
-<cp>We expect participants to follow these rules at conference and workshop venues and conference-related social events.</cp>
+<cp>Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, and religion (or lack thereof), as well as sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.</cp>
+<cp>Participants asked to stop harassing behavior are expected to comply immediately.</cp>
+<cp>If a participant engages in harassing behavior, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference without a refund.</cp>
+<cp>If you experience harassment, notice that someone else is being harassed, or have any other concerns, please contact the following conference staff members immediately: Elin McCready and Daisuke Bekki</cp>
+<cp>THe conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.</cp>
+<cp>We expect participants to follow these rules at conference and workshop venues as well as conference-related social events.</cp>
 </code>
 
 <pcmembers>

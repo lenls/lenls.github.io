@@ -56,7 +56,7 @@ Invited Speakers:<xsl:for-each select="invitedspeaker">
 <!--xsl:template match="p"><xsl:apply-templates /></xsl:template-->
 
 <xsl:template match="call">
-Aims and Topics:
+Aims and topics:
 ================<xsl:value-of select="." />
 </xsl:template>
 
@@ -67,6 +67,8 @@ Aims and Topics:
 <xsl:template match="submission">
 Submissions:
 ============<xsl:apply-templates /></xsl:template>
+
+<xsl:template match="category">[<xsl:value-of select="." />]</xsl:template>
 
 <xsl:template match="selectedpaper">
 Selected Papers:

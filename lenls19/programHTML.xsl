@@ -218,7 +218,7 @@ Invited Speakers:
 </xsl:template>
 
 <xsl:template match="description">
-<h2>Aim and Topics</h2>
+<h2>Aim and topics</h2>
 <a name="topics" />
 <xsl:apply-templates />
 </xsl:template>
