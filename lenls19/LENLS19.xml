@@ -3,7 +3,7 @@
 <workshop month="11月" place="ハイブリッド（東京＆オンライン）">
 
 <summary>
-  <title>CALL FOR PAPERS</title>
+  <title>CALL FOR PAPERS (Deadline Extended to September 7, 2022)</title>
   <FstLine>the 19th International Workshop of</FstLine>
   <SndLine>Logic and Engineering of</SndLine>
   <TrdLine>Natural Language Semantics 19</TrdLine>
@@ -15,7 +15,7 @@
   </site>
   <conferencedate>November 19(Sat), 20(Sun), and 21(Mon), 2022</conferencedate>
   <email>lenls19[[at]]easychair.org</email>
-  <website>http://www.is.ocha.ac.jp/~bekki/lenls/</website>
+  <website>https://lenls.github.io/lenls19/</website>
   <isbn></isbn>
 
   <invitedspeaker name="Michael Moortgat" affiliation="Utrecht University" />
@@ -65,7 +65,7 @@ paper.</p>
 </submission><!--selectedpaper /-->
 
 <importantdates>
-<importantdate name="Abstract submission deadline"     date="Wed, Aug. 31, 2022" />
+<importantdate name="Abstract submission deadline"     date="Wed, Sep. 7, 2022 (extended)" />
 <importantdate name="Notification of acceptance"       date="Sat, Oct. 1, 2022" />
 <importantdate name="Deadline for camera-ready abstracts"   date="End of October 2022"  />
 <!--importantdate name="Deadline for early registration" date="Nov. 1, 2022" /-->
