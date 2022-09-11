@@ -30,7 +30,7 @@ Co-chair: Koji Mineshima (Keio University)
 Invited Speakers:
 - Michael Moortgat (Utrecht University)
 - Kohei Kishida (University of Illinois)
--  (TBA)
+- Nayuta Miki (Osaka Universty)
 
 LENLS is an annual international conference on formal linguistics (i.e., syntax, semantics 
 and pragmatics), computational linguistics, and the philosophy of language.  We are happy 
@@ -77,7 +77,6 @@ paper.
 
 Important dates:
 ================
-Abstract submission deadline: Wed, Sep. 7, 2022 (extended)
 Notification of acceptance: Sat, Oct. 1, 2022
 Deadline for camera-ready abstracts: End of October 2022
 LENLS19: Nov. 19-21, 2022

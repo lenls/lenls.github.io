@@ -20,9 +20,8 @@
 
   <invitedspeaker name="Michael Moortgat" affiliation="Utrecht University" />
   <invitedspeaker name="Kohei Kishida" affiliation="University of Illinois" />
-  <invitedspeaker name="" affiliation="TBA" />
+  <invitedspeaker name="Nayuta Miki" affiliation="Osaka Universty" />
   <!--invitedspeaker name="Matthew Gotham" affiliation="University of Oxford" /-->
-  <!--invitedspeaker name="Nayuta Miki" affiliation="Osaka Universty" /-->
 </summary>
 
 <description><p>LENLS is an annual international conference on formal linguistics (i.e., syntax, semantics 
@@ -65,7 +64,7 @@ paper.</p>
 </submission><!--selectedpaper /-->
 
 <importantdates>
-<importantdate name="Abstract submission deadline"     date="Wed, Sep. 7, 2022 (extended)" />
+<importantdate name="Abstract submission deadline"     date="Wed, Sep. 7, 2022 (extended)" done="yes" />
 <importantdate name="Notification of acceptance"       date="Sat, Oct. 1, 2022" />
 <importantdate name="Deadline for camera-ready abstracts"   date="End of October 2022"  />
 <!--importantdate name="Deadline for early registration" date="Nov. 1, 2022" /-->
