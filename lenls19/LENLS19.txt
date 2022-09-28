@@ -103,7 +103,7 @@ Program Committee:
 ======================================
   - Daisuke Bekki (Ochanomizu University)
   - Alastair Butler (Hirosaki University)
-  - Patrick D. Elliott (Massachusetts Institute of Technology)
+  - Patrick D. Elliott (Heinrich-Heine University of Dusseldorf)
   - Naoya Fujikawa (University of Tokyo)
   - Yurie Hara (Hokkaido University)
   - Robert Henderson (University of Arizona)
