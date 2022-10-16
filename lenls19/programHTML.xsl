@@ -266,10 +266,8 @@ Invited Speakers:
 <h2>Selected Papers</h2>
 <table>
 <tr>
-<td>
-A selection of the accepted/invited full papers will be published as a portion of a volume "JSAI-isAI selected papers" from 'Lecture Notes in Artificial Intelligence (LNAI)' series (Springer Verlag).
-</td>
-<td><a href="http://www.springer.com/lncs" target="blank"><img src="./cda_displayimage.jpg" /></a></td>
+<td><xsl:value-of select="." /></td>
+<td><a href="http://www.springer.com/lncs" target="blank"><img width="153" src="./LNCS-Logo.jpg" /></a></td>
 </tr>
 </table>
 </xsl:template>
