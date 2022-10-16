@@ -42,45 +42,144 @@ LENLS19 is scheduled to take place in a hybrid format, that is, with both a phys
 option in Tokyo and a virtual presence option via zoom, while monitoring the global COVID-19 pandemic. 
 
 
-Aims and topics:
+
+
+Selected Papers:
 ================
-We welcome submissions on topics in formal linguistics (syntax, semantics, pragmatics), computational 
-linguistics, the philosophy of language, and related fields, including but not limited to the following:
-
-- Formal syntax, semantics and pragmatics of natural language
-- Model-theoretic and/or proof-theoretic semantics of natural language
-- Computational approaches to semantics and pragmatics
-- Nonclassical logic and its relation to natural language (especially substructural, fuzzy, categorical, 
-and topological logic)
-- Formal philosophy of language
-- Scientific methodology and/or experimental design in linguistics
-
-
-Submissions:
-============
-Authors are required to choose from one of the following two submission categories: [Abstract Only]
-and [Abstract+Full Paper].  For both categories, authors must submit abstracts (anonymous, 
-up to 4 pages including figures and references, A4 size, 12-point font) on original, 
-unpublished research.  Abstracts must be submitted electronically in PDF at:
-
-https://easychair.org/conferences/?conf=lenls19
-
-Upon acceptance, authors (both categories) are expected to submit extended 
-abstracts (up to 5 pages) before the workshop.  Note that abstracts submitted to the [Abstract+Full Paper] 
-category may be accepted in the [Abstract Only] category (but not vice versa).  The proceedings of 
-the workshop will be made available online, including extended abstracts (both categories).
-
-Authors submitting to the [Abstract+Full Paper] category are required to submit a full paper (up to 14 pages) 
-for the post-proceedings volume after the conference and must agree to review at least one other full 
-paper.
-
+We also plan to publish a selection of the accepted/invited papers
+as a portion of a volume "JSAI-isAI selected papers", which will  
+be published from `Lecture Notes in Artificial Intelligence' series
+(Springer Verlag). 
 
 Important dates:
 ================
-Notification of acceptance: Sat, Oct. 1, 2022
-Deadline for camera-ready abstracts: End of October 2022
+Deadline for the revised abstract: Fri, Oct. 28, 2022
 LENLS19: Nov. 19-21, 2022
-Deadline for full papers: End of December 2022
+Deadline for full papers: Nov. 30, 2022
+
+
+
+
+Program:
+========
+1st Day: November 19 (Sat)
+-------------------------
+
+9:50-10:00:Opening remark
+
+10:00-11:30: 
+    * David Yoshikazu Oshima
+      "The semantic markedness of the Japanese negative preterite: Non-existence of (positive) eventualities vs. existence of negative eventualities"
+    * Misato Ido
+      "Semantic Properties of the Japanese Emphatic Minimizer 'NP-no-kakera' Based on the Modal Base"
+    * Hajime Mori
+      "The Absence of NOR in Japanese"
+
+
+13:30-15:00: 
+    * Eri Tanaka and Kenta Mizutani
+      "Granularity in number and polarity effects"
+    * Shinnosuke Isono, Takuya Hasegawa, Kohei Kajikawa, Koichi Kono, Shiho Nakamura and Yohei Oseki
+      "Formalizing argument structures with Combinatory Categorial Grammar"
+    * Shinya Okano
+      "Detecting modality and evidentiality: Against purely temporal-aspectual analyses of the German semi-modal drohen"
+
+
+15:30-17:00: 
+    * Linmin Zhang
+      "Cumulative reading, QUD, and maximal informativeness"
+    * Liping Tang
+      "Language politeness in social network"
+    * Victor Carranza Pinedo
+      "Slurs' variability, emotional dimensions and game-theoretic pragmatics"
+
+
+17:00-18:00:Invited talk
+    * Michael Moortgat
+      "(TBA)"
+
+
+
+2nd Day: November 20 (Sun)
+-------------------------
+
+10:00-11:30:
+    * Satoru Suzuki
+      "Measurement Theory Meets Mereology in Multidimensionality in Resemblance Nominalism"
+    * Youyou Cong
+      "In Search of a Type Theory for Fuzzy Properties"
+    * Alastair Butler
+      "Constraining parse ambiguity with grammatical codes"
+
+
+13:30-15:00:
+    * Masanobu Toyooka
+      "A Proof-Theoretic Analysis of Meaning of a Formula in a Combination of Intuitionistic and Classical Propositional Logic"
+    * Yusuke Kubota and Robert Levine
+      "Extraction pathway marking as proof structure marking"
+    * Hayate Funakura
+      "Answers, Exhaustivity, and Presupposition of wh-questions in Dependent Type Semantics"
+
+
+15:30-17:00:
+    * Akiyoshi Tomihari and Hitomi Yanaka
+      "Logical Inference System with Text-to-Image Generation for Phrase Abduction"
+    * Roussanka Loukanova
+      "Logic Operators and Quantifiers in Type-Theory of Algorithms"
+    * Philippe de Groote
+      "Deriving formal semantic representations from dependency structures"
+
+
+17:00-18:00:Invited talk
+    * Kohei Kishida
+      "(TBA)"
+
+
+
+3rd Day: November 21 (Mon)
+-------------------------
+
+10:00-11:30:
+    * Chungmin Lee
+      "Factivity Alternation Types and Compensatory Prosodic Focus Marking"
+    * Kei Yoshimoto, Joseph Tabolt, Zhen Zhou, Hiromi Kaji and Tamami Shimada
+      "The Discourse Function of Aspect in Japanese"
+    * Masaya Taniguch and Satoshi Tojo
+      "Left-branching tree in CCG with D combinator"
+
+
+13:30-15:00:
+    * Junya Fukuta and Koji Shimamura
+      "To be Canceled, or Not to be Canceled: Reconsidering the Caused Possession in the Dative Alternation Experimentally"
+    * Oleg Kiselyov and Haruki Watanabe
+      "Events and Relative Clauses"
+    * Shimpei Endo
+      "Truthmaker Semantics for Degreeism of Vagueness"
+
+
+15:30-17:00:
+    * Simon Goldstein and John Hawthorne
+      "KK is Wrong Because We Say So"
+    * Dan Zeman
+      "Three Rich-Lexicon Theories of Slurs: A Comparison"
+    * David Strohmaier and Simon Wimmer
+      "Contrafactives and learnability"
+
+
+17:00-18:00:Invited talk
+    * Nayuta Miki
+      "(TBA)"
+
+
+18:00-18:10:Closing remark
+
+
+
+Sponsor:
+========
+LENLS is being organized by an alliance of "AI systems that can explain by language based on knowledge and reasoning
+(https://www.jst.go.jp/kisoken/crest/en/project/1111109/1111109_2020.html)" project (Grant Number JPMJCR20D2), funded by JST CREST Programs "Core technologies for trusted quality AI systems
+(https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2020-4.html)."
 
 
 Code of Conduct:
