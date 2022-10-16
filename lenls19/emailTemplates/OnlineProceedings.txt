@@ -1,0 +1,45 @@
+Paper   : [*PAPER-ID*]
+Authors : [*AUTHORS*]
+Title   : [*TITLE*]
+-------------------------------------------------------
+
+Dear [*NAME*],
+
+Online proceedings
+==================
+We intend to produce online proceedings for the LENLS19 conference.  Please prepare a revised version of your abstract in PDF (unanonymized, up to 4 pages including figures and references, A4 size, 12-point font, without page numbers).
+
+To submit an abstract, just update your file on the LENLS19 EasyChair site (https://www.easychair.org/my/conference?conf=lenls19):
+
+- log in to the EasyChair site as an author
+- select your submission from the menu bar
+- follow the "Update file" link there
+- upload and submit your PDF file
+
+The submission is due on
+
+   **October 14 (Fri) 23:59 (in JST)**
+
+The online proceedings will be made available for the registered participants.  Note that:
+
+- The online proceedings differ from the post-proceedings to be published by FoLLI, for which we will send a separate instruction to the authors of the [Abstract+Full paper] category.
+- The online proceedings will not be assigned an ISBN/ISSN.
+
+Registration
+============
+[*ACRONYM*] registration site is open on the following URL:
+
+https://docs.google.com/forms/d/e/1FAIpQLSdpOIRTrx6GSxe5J6QqxLdKajztjxcMJabimvV1fDiJv408Sw/viewform
+
+Please register yourself before 
+
+   **October 14 (Fri) 23:59 (in JST)**
+
+We need a registration of at least one author per submission; otherwise, the presentation will be considered as cancelled.
+
+We greatly appreciate your cooperation in these matters.  Thank you again for your contribution to [*ACRONYM*].
+
+
+Sincerely,
+
+[*ACRONYM*] committee

@@ -1,14 +1,10 @@
 Dear [*NAME*]:
 
-We are sorry to inform you that the following submission for the  
-upcoming [*ACRONYM*] was not selected by the program committee: 
+We are sorry to inform you that the following submission for the upcoming [*ACRONYM*] was not selected by the program committee: 
 
 [*PAPER-ID*]: [*TITLE*]
 
-The selection process was very competitive. Due to time and space 
-limitations, we could only choose a small number of the submitted 
-papers to appear on the program.  Nonetheless, we still hope that 
-you can attend the conference. 
+The selection process was very competitive.  Due to time and space limitations, we could only choose a small number of the submitted papers to appear on the program.  Nonetheless, we still hope that you can attend the conference. 
 
 
 Best regards,

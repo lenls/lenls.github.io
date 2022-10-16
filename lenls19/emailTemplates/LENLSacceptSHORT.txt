@@ -1,0 +1,20 @@
+Dear [*NAME*]:
+
+We are happy to inform you that the following submission for the upcoming [*ACRONYM*] has been accepted in the [Abstract Only] category by the program committee:
+
+[*PAPER-ID*]: [*TITLE*]
+
+At the end of this message, you will find comments on your abstract made by the reviewers.  
+
+In a separate email, we will send you the information regarding the following:
+
+- the (unanonymized) abstract submission for the online proceedings (deadline: 14.Oct, 4-pages)
+- the conference registration (deadline: 14.Oct)
+- the zoom connection
+
+We look forward to welcoming you to [*ACRONYM*].
+
+
+Best regards,
+
+[*ACRONYM*] committee
