@@ -113,8 +113,8 @@ Program:
 
 
 13:30-15:00:
-    * Masanobu Toyooka
-      "A Proof-Theoretic Analysis of Meaning of a Formula in a Combination of Intuitionistic and Classical Propositional Logic"
+    * Akiyoshi Tomihari and Hitomi Yanaka
+      "Logical Inference System with Text-to-Image Generation for Phrase Abduction"
     * Yusuke Kubota and Robert Levine
       "Extraction pathway marking as proof structure marking"
     * Hayate Funakura
@@ -122,8 +122,8 @@ Program:
 
 
 15:30-17:00:
-    * Akiyoshi Tomihari and Hitomi Yanaka
-      "Logical Inference System with Text-to-Image Generation for Phrase Abduction"
+    * Masanobu Toyooka
+      "A Proof-Theoretic Analysis of Meaning of a Formula in a Combination of Intuitionistic and Classical Propositional Logic"
     * Roussanka Loukanova
       "Logic Operators and Quantifiers in Type-Theory of Algorithms"
     * Philippe de Groote

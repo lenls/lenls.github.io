@@ -117,13 +117,13 @@ The collection of full papers will be published in the Lecture Notes in Computer
 </session>
 
 <session time="13:30-15:00" name="" chair="Ribeka Tanaka">
-  <talk author="Masanobu Toyooka" title="A Proof-Theoretic Analysis of Meaning of a Formula in a Combination of Intuitionistic and Classical Propositional Logic" number="5912" pages="" zone="UTC+2" note="北大なのにUTC+2?" />
+  <talk author="Akiyoshi Tomihari and Hitomi Yanaka" title="Logical Inference System with Text-to-Image Generation for Phrase Abduction" number="4104" pages="" zone="onsite" note="日曜午後か月曜午後" />
   <talk author="Yusuke Kubota and Robert Levine" title="Extraction pathway marking as proof structure marking" number="8314" pages="" />
   <talk author="Hayate Funakura" title="Answers, Exhaustivity, and Presupposition of wh-questions in Dependent Type Semantics" number="4775" pages="" zone="onsite" />
 </session>
 
 <session time="15:30-17:00" name="" chair="Koji Mineshima">
-  <talk author="Akiyoshi Tomihari and Hitomi Yanaka" title="Logical Inference System with Text-to-Image Generation for Phrase Abduction" number="4104" pages="" zone="onsite" note="日曜午後か月曜午後" />
+  <talk author="Masanobu Toyooka" title="A Proof-Theoretic Analysis of Meaning of a Formula in a Combination of Intuitionistic and Classical Propositional Logic" number="5912" pages="" zone="UTC+2" note="北大なのにUTC+2?" />
   <talk author="Roussanka Loukanova" title="Logic Operators and Quantifiers in Type-Theory of Algorithms" number="5976" pages="" />
   <talk author="Philippe de Groote" title="Deriving formal semantic representations from dependency structures" number="6652" pages="" />
 </session>
