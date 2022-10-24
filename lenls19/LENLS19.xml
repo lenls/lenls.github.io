@@ -73,7 +73,7 @@ The collection of full papers will be published in the Lecture Notes in Computer
 <importantdate name="Deadline for early registration"  date="Fri. Oct. 14, 2022" done="yes" />
 <importantdate name="Deadline for the revised abstract" date="Fri, Oct. 28, 2022" />
 <importantdate name="LENLS19"                          date="Nov. 19-21, 2022" />
-<importantdate name="Deadline for full papers"         date="Nov. 30, 2022" />
+<importantdate name="Deadline for full papers"         date="Dec. 15, 2022" />
 </importantdates>
 
 <!--registration
@@ -112,13 +112,13 @@ The collection of full papers will be published in the Lecture Notes in Computer
 
 <session time="10:00-11:30" name="" chair="Shunsuke Yatabe">
   <talk author="Satoru Suzuki" title="Measurement Theory Meets Mereology in Multidimensionality in Resemblance Nominalism" number="627" pages="" />
-  <talk author="Youyou Cong" title="In Search of a Type Theory for Fuzzy Properties" number="3022" pages="" zone="onsite" />
+  <talk author="Yusuke Kubota and Robert Levine" title="Extraction pathway marking as proof structure marking" number="8314" pages="" />
   <talk author="Alastair Butler" title="Constraining parse ambiguity with grammatical codes" number="9805" pages="" zone="UTC+9" />
 </session>
 
 <session time="13:30-15:00" name="" chair="Ribeka Tanaka">
+  <talk author="Youyou Cong" title="In Search of a Type Theory for Fuzzy Properties" number="3022" pages="" zone="onsite" />
   <talk author="Akiyoshi Tomihari and Hitomi Yanaka" title="Logical Inference System with Text-to-Image Generation for Phrase Abduction" number="4104" pages="" zone="onsite" note="日曜午後か月曜午後" />
-  <talk author="Yusuke Kubota and Robert Levine" title="Extraction pathway marking as proof structure marking" number="8314" pages="" />
   <talk author="Hayate Funakura" title="Answers, Exhaustivity, and Presupposition of wh-questions in Dependent Type Semantics" number="4775" pages="" zone="onsite" />
 </session>
 
