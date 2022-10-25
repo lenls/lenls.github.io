@@ -70,16 +70,18 @@ The collection of full papers will be published in the Lecture Notes in Computer
 <importantdates>
 <importantdate name="Abstract submission deadline"     date="Wed, Sep. 7, 2022 (extended)" done="yes" />
 <importantdate name="Notification of acceptance"       date="Sat, Oct. 1, 2022" done="yes" />
-<importantdate name="Deadline for early registration"  date="Fri. Oct. 14, 2022" done="yes" />
+<importantdate name="Deadline for author registration"  date="Fri. Oct. 14, 2022" done="yes" />
+<importantdate name="Deadline for online registration"  date="Tue. Nov. 15, 2022" />
 <importantdate name="Deadline for the revised abstract" date="Fri, Oct. 28, 2022" />
 <importantdate name="LENLS19"                          date="Nov. 19-21, 2022" />
 <importantdate name="Deadline for full papers"         date="Dec. 15, 2022" />
 </importantdates>
 
-<!--registration
-  site="https://docs.google.com/forms/d/e/1FAIpQLSdpOIRTrx6GSxe5J6QqxLdKajztjxcMJabimvV1fDiJv408Sw/viewform?usp=sharing"
-  deadline="October 31, 2022 23:59 (JST)" /-->
-
+<registration
+  site="https://forms.gle/WgmYvoqv42CSJSWK7"
+  deadline="October 31, 2022 23:59 (JST)">
+  On-site registration is closed due to the limited number of participants at the venue. Only online registration is available via the link below. The zoom link will be distributed only to participants who have already registered, so please do not forget to register.
+  </registration>
 <program>
 <day date="1st Day: November 19 (Sat)">
 

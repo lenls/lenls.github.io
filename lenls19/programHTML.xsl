@@ -101,11 +101,11 @@ h4 {
           <table border="0" cellspacing="5" cellpadding="5">
             <tr><td class="c1"><a href="#topics">Aim and Topics</a></td></tr>
             <xsl:if test="submission!=''"><tr><td class="c2"><a href="#submissions">Submission</a></td></tr></xsl:if>
-            <xsl:if test="selectedpaper!=''"><tr><td class="c1"><a href="#selectedpapers">Selected Papers</a></td></tr></xsl:if>
+            <xsl:if test="selectedpaper!=''"><tr><td class="c2"><a href="#selectedpapers">Selected Papers</a></td></tr></xsl:if>
             <xsl:if test="studentsession!=''"><tr><td class="c2"><a href="#studentsession">Student Session</a></td></tr></xsl:if>
             <xsl:if test="importantdates!=''"><tr><td class="c1"><a href="#dates">Important Dates</a></td></tr></xsl:if>
             <xsl:if test="registration!=''"><tr><td class="c2"><a href="#registration">Registration</a></td></tr></xsl:if>
-            <xsl:if test="program!=''"><tr><td class="c2"><a href="#program">Program</a></td></tr></xsl:if>
+            <xsl:if test="program!=''"><tr><td class="c1"><a href="#program">Program</a></td></tr></xsl:if>
             <xsl:if test="tutorial!=''"><tr><td class="c1"><a href="#tutorial">Tutorial Lecture</a></td></tr></xsl:if>
             <xsl:if test="sponsor!=''"><tr><td class="c2"><a href="#sponsor">Sponsor</a></td></tr></xsl:if>
             <xsl:if test="code!=''"><tr><td class="c1"><a href="#code">Conference Code of Conduct</a></td></tr></xsl:if>
@@ -281,12 +281,12 @@ Invited Speakers:
 <xsl:template match="registration">
 <a name="registration" />
 <h2>Registration:</h2>
-  <p>Please follow the link below and register yourself until <xsl:value-of select="@deadline" />.</p>
+  <p><xsl:value-of select="." /></p>
   <a>
     <xsl:attribute name="href"><xsl:value-of select="@site" /></xsl:attribute>
     <xsl:value-of select="@site" />
   </a>
-  <p><xsl:value-of select="." /></p>
+  <p>Deadline: <xsl:value-of select="@deadline" /></p>
 </xsl:template>
 
 <xsl:template match="tutorial">

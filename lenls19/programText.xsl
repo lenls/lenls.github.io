@@ -112,10 +112,9 @@ Student Session:
 
 <xsl:template match="registration">Registration:
 =============
-  Please follow the link below and register yourself until 
-  <xsl:value-of select="@deadline" />.
+<xsl:value-of select="." />
   <xsl:value-of select="@site" />
-  <xsl:value-of select="." />
+  Deadline: <xsl:value-of select="@deadline" />
 </xsl:template>
 
 <xsl:template match="code" />
