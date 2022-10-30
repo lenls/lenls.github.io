@@ -32,14 +32,21 @@ Invited Speakers:
 - Kohei Kishida (University of Illinois)
 - Nayuta Miki (Osaka Universty)
 
-LENLS is an annual international conference on formal linguistics (i.e., syntax, semantics 
-and pragmatics), computational linguistics, and the philosophy of language.  We are happy 
-to announce that from this year, LENLS will be held under the umbrella of The Association 
-for Logic, Language and Information (FoLLI)
-(http://www.folli.info/).
 
-LENLS19 is scheduled to take place in a hybrid format, that is, with both a physical presence 
-option in Tokyo and a virtual presence option via zoom, while monitoring the global COVID-19 pandemic. 
+LENLS is an annual international conference on formal linguistics (i.e., syntax, semantics 
+and pragmatics), computational linguistics, the philosophy of language, and related fields, including but 
+not limited to the following:
+
+- Formal syntax, semantics and pragmatics of natural language
+- Model-theoretic and/or proof-theoretic semantics of natural language
+- Computational approaches to semantics and pragmatics
+- Nonclassical logic and its relation to natural language (especially substructural, fuzzy, categorical, 
+and topological logic)
+- Formal philosophy of language
+- Scientific methodology and/or experimental design in linguistics
+We are happy to announce that from this year, LENLS will be held under the umbrella of The Association for Logic, Language and Information (FoLLI)
+(http://www.folli.info/).  LENLS19 is scheduled to take place in a hybrid format, that is, with both a physical presence option in Tokyo and a virtual presence option via zoom, while monitoring the global COVID-19 pandemic. 
+
 
 
 
@@ -77,8 +84,8 @@ Program:
       "The semantic markedness of the Japanese negative preterite: Non-existence of (positive) eventualities vs. existence of negative eventualities"
     * Misato Ido
       "Semantic Properties of the Japanese Emphatic Minimizer 'NP-no-kakera' Based on the Modal Base"
-    * Hajime Mori
-      "The Absence of NOR in Japanese"
+    * Victor Carranza Pinedo
+      "Slurs' variability, emotional dimensions and game-theoretic pragmatics"
 
 
 13:30-15:00: 
@@ -95,8 +102,8 @@ Program:
       "Cumulative reading, QUD, and maximal informativeness"
     * Liping Tang
       "Language politeness in social network"
-    * Victor Carranza Pinedo
-      "Slurs' variability, emotional dimensions and game-theoretic pragmatics"
+    * Hajime Mori
+      "The Absence of NOR in Japanese"
 
 
 17:00-18:00:Invited talk
