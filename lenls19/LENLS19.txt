@@ -71,7 +71,7 @@ Registration:
 
   On-site registration is closed due to the limited number of participants at the venue. Only online registration is available via the link below. The zoom link will be distributed only to participants who have already registered, so please do not forget to register.
   https://forms.gle/WgmYvoqv42CSJSWK7
-  Deadline: October 31, 2022 23:59 (JST)
+  Deadline: November 15, 2022 23:59 (JST)
 Program:
 ========
 1st Day: November 19 (Sat)
@@ -108,7 +108,7 @@ Program:
 
 17:00-18:00:Invited talk
     * Michael Moortgat
-      "(TBA)"
+      "End-to-End Compositional Modelling of Vector-Based Semantics"
 
 
 
