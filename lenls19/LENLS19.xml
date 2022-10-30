@@ -24,18 +24,11 @@
   <!--invitedspeaker name="Matthew Gotham" affiliation="University of Oxford" /-->
 </summary>
 
-<description><p>LENLS is an annual international conference on formal linguistics (i.e., syntax, semantics 
-and pragmatics), computational linguistics, and the philosophy of language.  We are happy 
-to announce that from this year, LENLS will be held under the umbrella of <host url="http://www.folli.info/">The Association 
-for Logic, Language and Information (FoLLI)</host>.</p>
-
-<p>LENLS19 is scheduled to take place in a hybrid format, that is, with both a physical presence 
-option in Tokyo and a virtual presence option via zoom, while monitoring the global COVID-19 pandemic. </p></description>
-
-<!--call>
-We welcome submissions on topics in formal linguistics (syntax, semantics, pragmatics), computational 
-linguistics, the philosophy of language, and related fields, including but not limited to the following:
-</call><topics>
+<description>
+<p>LENLS is an annual international conference on formal linguistics (i.e., syntax, semantics 
+and pragmatics), computational linguistics, the philosophy of language, and related fields, including but 
+not limited to the following:</p>
+<topics>
 <topic>Formal syntax, semantics and pragmatics of natural language</topic>
 <topic>Model-theoretic and/or proof-theoretic semantics of natural language</topic>
 <topic>Computational approaches to semantics and pragmatics</topic>
@@ -44,8 +37,10 @@ and topological logic)</topic>
 <topic>Formal philosophy of language</topic>
 <topic>Scientific methodology and/or experimental design in linguistics</topic>
 </topics>
+<p>We are happy to announce that from this year, LENLS will be held under the umbrella of <host url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</host>.  LENLS19 is scheduled to take place in a hybrid format, that is, with both a physical presence option in Tokyo and a virtual presence option via zoom, while monitoring the global COVID-19 pandemic. </p>
+</description>
 
-<submission>
+<!--submission>
 Authors are required to choose from one of the following two submission categories: <category>Abstract Only</category>
 and <category>Abstract+Full Paper</category>.  For both categories, authors must submit abstracts (anonymous, 
 up to 4 pages including figures and references, A4 size, 12-point font) on original, 
@@ -87,10 +82,10 @@ The collection of full papers will be published in the Lecture Notes in Computer
 
 <event time="9:50-10:00" name="Opening remark" />
 
-<session time="10:00-11:30" name="" chair="Osamu Sawada"> 
+<session time="10:00-11:30" name="" chair="Yoshiki Mori"> 
   <talk author="David Yoshikazu Oshima" title="The semantic markedness of the Japanese negative preterite: Non-existence of (positive) eventualities vs. existence of negative eventualities" number="8462" pages="" zone="onsite"  note="土か日に" />
   <talk author="Misato Ido" title="Semantic Properties of the Japanese Emphatic Minimizer 'NP-no-kakera' Based on the Modal Base" number="1932" pages="" zone="onsite" />
-  <talk author="Hajime Mori" title="The Absence of NOR in Japanese" number="1424" pages="" zone="onsite" />
+  <talk author="Victor Carranza Pinedo" title="Slurs' variability, emotional dimensions and game-theoretic pragmatics" number="3686" pages="" zone="UTC-5" />
 </session>
 
 <session time="13:30-15:00" name="" chair="David Yoshikazu Oshima"> 
@@ -102,7 +97,7 @@ The collection of full papers will be published in the Lecture Notes in Computer
 <session time="15:30-17:00" name="" chair="Hitomi Hirayama"> 
   <talk author="Linmin Zhang" title="Cumulative reading, QUD, and maximal informativeness" number="9803" pages="" zone="UTC+8" note="Saturday or Sunday" />
   <talk author="Liping Tang" title="Language politeness in social network" number="7984" pages="" zone="onsite" />
-  <talk author="Victor Carranza Pinedo" title="Slurs' variability, emotional dimensions and game-theoretic pragmatics" number="3686" pages="" zone="UTC+1" />
+  <talk author="Hajime Mori" title="The Absence of NOR in Japanese" number="1424" pages="" zone="onsite" />
 </session>
 
 <session time="17:00-18:00" name="Invited talk" chair="Daisuke Bekki">
@@ -137,7 +132,7 @@ The collection of full papers will be published in the Lecture Notes in Computer
 
 <day date="3rd Day: November 21 (Mon)">
 
-<session time="10:00-11:30" name="" chair="Yoshiki Mori">
+<session time="10:00-11:30" name="" chair="">
   <talk author="Chungmin Lee" title="Factivity Alternation Types and Compensatory Prosodic Focus Marking" number="9853" pages="" />
   <talk author="Kei Yoshimoto, Joseph Tabolt, Zhen Zhou, Hiromi Kaji and Tamami Shimada" title="The Discourse Function of Aspect in Japanese" number="6278" pages="" zone="onsite" />
   <talk author="Masaya Taniguch and Satoshi Tojo" title="Left-branching tree in CCG with D combinator" number="4538" pages="" zone="onsite" />
