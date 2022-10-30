@@ -34,24 +34,24 @@
 \vspace*{1cm}
 \begin{center}
 Workshop Chair\\ $\;$\\
-<xsl:value-of select="//organizer[@role='chair']/@name" /> (<xsl:value-of select="//organizer[@role='chair']/@affiliation" />)
+<xsl:value-of select="//pcmember[@role='chair']/@name" /> (<xsl:value-of select="//pcmember[@role='chair']/@affiliation" />)
 \end{center}
 \end{large}
 \vspace*{3cm}
-\begin{center}
+%\begin{center}
 %\ifpdf{
-\centerline{
-\raisebox{1ex}{\scalebox{.3}{\includegraphics{jsai_logo.eps}}}
-\hspace*{30pt}
-\scalebox{.3}{\includegraphics{logo05.eps}}
-}
+%\centerline{
+%\raisebox{1ex}{\scalebox{.3}{\includegraphics{jsai_logo.eps}}}
+%\hspace*{30pt}
+%\scalebox{.3}{\includegraphics{logo05.eps}}
+%}
 %}
 %\ifdvi{
 %\centerline{
 %\includegraphics[width=3.5cm,height=2cm]{jsai_logo.eps}
 %}
 %}
-\end{center}
+%\end{center}
 \vspace*{1cm}
 \begin{large}
 \begin{center}
@@ -94,7 +94,7 @@ This proceedings volume contains selected and invited papers on topics in formal
 {\large \textbf{Workship Organizers/Program Committee:}} \\
 \vspace*{1cm}
 \begin{tabular}{l}
-<xsl:for-each select="//organizer">
+<xsl:for-each select="//pcmember">
 <xsl:value-of select="@name" /> (<xsl:value-of select="@affiliation" />) \\
 </xsl:for-each>
 \end{tabular}
@@ -141,7 +141,7 @@ This proceedings volume contains selected and invited papers on topics in formal
      {<xsl:value-of select="@title" />}
      {page<xsl:value-of select="@pages" />}</xsl:when>
 <xsl:otherwise>
-\talkk{<xsl:value-of select="@author" />}
+\talk{<xsl:value-of select="@author" />}
       {<xsl:value-of select="@title" />}
       {}</xsl:otherwise>
 </xsl:choose>
