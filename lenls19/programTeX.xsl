@@ -164,4 +164,6 @@ This proceedings volume contains selected and invited papers on topics in formal
 \noindent\textbf{Alternates}\\
 <xsl:apply-templates /></xsl:template>
 
+<xsl:template match="bar">\ensuremath{\|}</xsl:template>
+
 </xsl:stylesheet>

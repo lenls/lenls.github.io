@@ -155,17 +155,13 @@ h4 {
 </body>
 </xsl:template>
 
-<xsl:template match="site">
-
-</xsl:template>
-
 <xsl:template match="summary">
 <table border="0" cellspacing="0" cellpadding="0" >
 <tr><td>
-  <table border="0" cellspacing="0" cellpadding="5" >
-  <tr><td>
+  Venue(s): 
+    <ul>
   <xsl:for-each select="//site">
-  <table border="0" cellspacing="0" cellpadding="" >
+  <li><table border="0" cellspacing="0" cellpadding="">
     <tr><td><xsl:value-of select="name" /></td></tr>
     <tr><td><xsl:value-of select="address" /></td></tr>
     <tr><td>
@@ -175,10 +171,9 @@ h4 {
       </a>
       <br />
       </td></tr>
-  </table>
+  </table></li>
   </xsl:for-each>
-  </td></tr>
-  </table>
+    </ul>
 </td></tr>
 
 <!--center-->
@@ -438,5 +433,7 @@ Invited Speakers:
 <xsl:template match="category">
   <b>[<xsl:value-of select="." />]</b>
   </xsl:template>
+
+<xsl:template match="bar">|</xsl:template>
 
 </xsl:stylesheet>

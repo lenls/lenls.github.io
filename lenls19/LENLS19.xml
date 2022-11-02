@@ -3,13 +3,18 @@
 <workshop month="11月" place="ハイブリッド（東京＆オンライン）">
 
 <summary>
-  <title>CALL FOR PAPERS (Deadline Extended to September 7, 2022)</title>
+  <title>CALL FOR PAPTICIPATINO</title>
   <FstLine>the 19th International Workshop of</FstLine>
   <SndLine>Logic and Engineering of</SndLine>
   <TrdLine>Natural Language Semantics 19</TrdLine>
   <short>LENLS19</short>
   <site>
-    <name>Hybrid (Online | The University of Tokyo, Komaba 1 Campus)</name>
+    <name>Hybrid (Ochanomizu University | Online) on 19(Sat), 20(Sun)</name>
+    <address>2-1-1 Ootsuka, Bunkyo-ku, Tokyo (zip:112-8610)</address>
+    <url>https://www.ocha.ac.jp/access/ochacampusmap_en.html</url>
+  </site>
+  <site>
+    <name>Hybrid (The University of Tokyo, Komaba 1 Campus | Online) on 21(Mon)</name>
     <address>3-8-1 Komaba, Meguro-ku, Tokyo (zip:153-8902)</address>
     <url>https://www.c.u-tokyo.ac.jp/eng_site/</url>
   </site>
@@ -75,7 +80,7 @@ The collection of full papers will be published in the Lecture Notes in Computer
 <registration
   site="https://forms.gle/WgmYvoqv42CSJSWK7"
   deadline="November 15, 2022 23:59 (JST)">
-  On-site registration is closed due to the limited number of participants at the venue. Only online registration is available via the link below. The zoom link will be distributed only to participants who have already registered, so please do not forget to register.
+  The registration for on-site participation is closed due to the limited number of participants at the venue. Only the registration for virtual participation is available via the link below. The zoom link will be shared only among the registered participants.
   </registration>
 <program>
 <day date="1st Day: November 19 (Sat)">
@@ -101,7 +106,7 @@ The collection of full papers will be published in the Lecture Notes in Computer
 </session>
 
 <session time="17:00-18:00" name="Invited talk" chair="Daisuke Bekki">
-  <invitedtalk author="Michael Moortgat" title="End-to-End Compositional Modelling of Vector-Based Semantics" number="michael" pages="" />
+  <invitedtalk author="Michael Moortgat" title="End-to-End Compositional Modelling of Vector-Based Semantics" number="invited_michael" pages="" />
 </session>
 </day>
 
@@ -132,7 +137,7 @@ The collection of full papers will be published in the Lecture Notes in Computer
 
 <day date="3rd Day: November 21 (Mon)">
 
-<session time="10:00-11:30" name="" chair="">
+<session time="10:00-11:30" name="" chair="Ribeka Tanaka">
   <talk author="Chungmin Lee" title="Factivity Alternation Types and Compensatory Prosodic Focus Marking" number="9853" pages="" />
   <talk author="Kei Yoshimoto, Joseph Tabolt, Zhen Zhou, Hiromi Kaji and Tamami Shimada" title="The Discourse Function of Aspect in Japanese" number="6278" pages="" zone="onsite" />
   <talk author="Masaya Taniguch and Satoshi Tojo" title="Left-branching tree in CCG with D combinator" number="4538" pages="" zone="onsite" />
@@ -151,7 +156,7 @@ The collection of full papers will be published in the Lecture Notes in Computer
 </session>
 
 <session time="17:00-18:00" name="Invited talk" chair="Koji Mineshima">
-  <invitedtalk author="Nayuta Miki" title="(TBA)" number="" />
+  <invitedtalk author="Nayuta Miki" title="Gricean Pragmatics According to Himself" number="invited_miki" pages="" />
 </session>
 
 <event time="18:00-18:10" name="Closing remark" />

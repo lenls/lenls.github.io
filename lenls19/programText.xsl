@@ -167,4 +167,6 @@ Student Session:
 ======================================
 <xsl:for-each select="localorganizer">  - <xsl:value-of select="@name" /> (<xsl:value-of select="@affiliation" />)<xsl:text disable-output-escaping="yes">&#xD;&#xA;</xsl:text></xsl:for-each></xsl:template>
 
+<xsl:template match="bar"> | </xsl:template>
+
 </xsl:stylesheet>
