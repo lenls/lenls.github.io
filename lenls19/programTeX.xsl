@@ -88,17 +88,14 @@ This proceedings volume contains selected and invited papers on topics in formal
 
 <xsl:value-of select="//sponsor" />
 
-\vspace*{2.5cm}
-
-\begin{center}
-{\large \textbf{Workship Organizers/Program Committee:}} \\
-\vspace*{1cm}
+\section*{Workship Organizers/Program Committee}
+\begin{flushleft}
 \begin{tabular}{l}
 <xsl:for-each select="//pcmember">
 <xsl:value-of select="@name" /> (<xsl:value-of select="@affiliation" />) \\
 </xsl:for-each>
 \end{tabular}
-\end{center}
+\end{flushleft}
 \newpage
   <xsl:apply-templates select="//program" />
   \end{document}

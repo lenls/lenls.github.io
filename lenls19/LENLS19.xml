@@ -131,7 +131,7 @@ The collection of full papers will be published in the Lecture Notes in Computer
 </session>
 
 <session time="17:00-18:00" name="Invited talk" chair="Daisuke Bekki">
-  <invitedtalk author="Kohei Kishida" title="(TBA)" number="" />
+  <invitedtalk author="Kohei Kishida" title="Modal Reasoning and Theorizing in Quantified Modal Logic" number="invited_kishida" />
 </session>
 </day>
 
