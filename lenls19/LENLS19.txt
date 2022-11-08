@@ -1,3 +1,4 @@
+
 （重複して受け取られた場合はご容赦ください）
 
 今年の11月にハイブリッド（東京＆オンライン）で開催される LENLS19 国際ワークショップの
@@ -8,18 +9,18 @@
 
 [Apologies for multiple copies]
 =================================================================
-                      CALL FOR PAPTICIPATION
+                      CALL FOR PAPTICIPATINO
 
                   Logic and Engineering of
              Natural Language Semantics 19 (LENLS19)
 
-Workshop Sites : - Hybrid (Ochanomizu University | Online) on 19(Sat), 20(Sun)
-                     2-1-1 Ootsuka, Bunkyo-ku, Tokyo (zip:112-8610)
-                     https://www.ocha.ac.jp/access/ochacampusmap_en.html
-                 - Hybrid (The University of Tokyo, Komaba 1 Campus | Online) on 21(Mon)
-                     3-8-1 Komaba, Meguro-ku, Tokyo (zip:153-8902)
-                     https://www.c.u-tokyo.ac.jp/eng_site/
+Workshop Site : Hybrid (Ochanomizu University | Online) on 19(Sat), 20(Sun)
+                    　2-1-1 Ootsuka, Bunkyo-ku, Tokyo (zip:112-8610)
+                    　https://www.ocha.ac.jp/access/ochacampusmap_en.htmlHybrid (The University of Tokyo, Komaba 1 Campus | Online) on 21(Mon)
+                    　3-8-1 Komaba, Meguro-ku, Tokyo (zip:153-8902)
+                    　https://www.c.u-tokyo.ac.jp/eng_site/
 Dates         : November 19(Sat), 20(Sun), and 21(Mon), 2022
+Contact Person: Daisuke Bekki (Ochanomizu University)
 Contact Email : lenls19[[at]]easychair.org
 Website       : https://lenls.github.io/lenls19/
 =================================================================
@@ -27,7 +28,7 @@ Website       : https://lenls.github.io/lenls19/
 Chair:  Daisuke Bekki (Ochanomizu University)
 Co-chair: Koji Mineshima (Keio University)
           Elin McCready (Aoyama Gakuin University)
-
+          
 Invited Speakers:
 - Michael Moortgat (Utrecht University)
 - Kohei Kishida (University of Illinois)
@@ -45,16 +46,15 @@ not limited to the following:
 and topological logic)
 - Formal philosophy of language
 - Scientific methodology and/or experimental design in linguistics
-We are happy to announce that from this year, LENLS will be held under the umbrella of The Association for Logic, Language and Information (FoLLI)
-(http://www.folli.info/).  LENLS19 is scheduled to take place in a hybrid format, that is, with both a physical presence option in Tokyo and a virtual presence option via zoom, while monitoring the global COVID-19 pandemic. 
+
+We are happy to announce that from this year, LENLS will be held under the umbrella of The Association for Logic, Language and Information (FoLLI) (http://www.folli.info/).  LENLS19 is scheduled to take place in a hybrid format, that is, with both a physical presence option in Tokyo and a virtual presence option via zoom, while monitoring the global COVID-19 pandemic. 
+
+
 
 
 Selected Papers:
 ================
-We also plan to publish a selection of the accepted/invited papers
-as a portion of a volume "JSAI-isAI selected papers", which will  
-be published from `Lecture Notes in Artificial Intelligence' series
-(Springer Verlag). 
+The collection of full papers will be published in the Lecture Notes in Computer Science (LNCS) series, in accordance with the contract between Springer Nature Switzerland AG and The Association for Logic, Language and Information (FoLLI).
 
 
 Important dates:
@@ -67,15 +67,14 @@ Deadline for full papers: Dec. 15, 2022
 
 Registration:
 =============
-The registration for on-site participation is closed due to the limited number of participants at the venue. Only the registration for virtual participation is available via the link below. The zoom link will be shared only among the registered participants.
+  The registration for on-site participation is closed due to the limited number of participants at the venue. Only the registration for virtual participation is available via the link below. The zoom link will be shared only among the registered participants.
   https://forms.gle/WgmYvoqv42CSJSWK7
   Deadline: November 15, 2022 23:59 (JST)
 
-
 Program:
 ========
-1st Day: November 19 (Sat)
--------------------------
+1st Day: November 19 (Sat)--------------------------
+
 9:50-10:00:Opening remark
 
 10:00-11:30: 
@@ -86,6 +85,7 @@ Program:
     * Victor Carranza Pinedo
       "Slurs' variability, emotional dimensions and game-theoretic pragmatics"
 
+
 13:30-15:00: 
     * Eri Tanaka and Kenta Mizutani
       "Granularity in number and polarity effects"
@@ -93,6 +93,7 @@ Program:
       "Formalizing argument structures with Combinatory Categorial Grammar"
     * Shinya Okano
       "Detecting modality and evidentiality: Against purely temporal-aspectual analyses of the German semi-modal drohen"
+
 
 15:30-17:00: 
     * Linmin Zhang
@@ -102,12 +103,15 @@ Program:
     * Hajime Mori
       "The Absence of NOR in Japanese"
 
+
 17:00-18:00:Invited talk
     * Michael Moortgat
       "End-to-End Compositional Modelling of Vector-Based Semantics"
 
-2nd Day: November 20 (Sun)
--------------------------
+
+
+2nd Day: November 20 (Sun)--------------------------
+
 10:00-11:30:
     * Satoru Suzuki
       "Measurement Theory Meets Mereology in Multidimensionality in Resemblance Nominalism"
@@ -115,6 +119,7 @@ Program:
       "Extraction pathway marking as proof structure marking"
     * Alastair Butler
       "Constraining parse ambiguity with grammatical codes"
+
 
 13:30-15:00:
     * Youyou Cong
@@ -124,6 +129,7 @@ Program:
     * Hayate Funakura
       "Answers, Exhaustivity, and Presupposition of wh-questions in Dependent Type Semantics"
 
+
 15:30-17:00:
     * Masanobu Toyooka
       "A Proof-Theoretic Analysis of Meaning of a Formula in a Combination of Intuitionistic and Classical Propositional Logic"
@@ -132,12 +138,15 @@ Program:
     * Philippe de Groote
       "Deriving formal semantic representations from dependency structures"
 
+
 17:00-18:00:Invited talk
     * Kohei Kishida
       "Modal Reasoning and Theorizing in Quantified Modal Logic"
 
-3rd Day: November 21 (Mon)
--------------------------
+
+
+3rd Day: November 21 (Mon)--------------------------
+
 10:00-11:30:
     * Chungmin Lee
       "Factivity Alternation Types and Compensatory Prosodic Focus Marking"
@@ -145,6 +154,7 @@ Program:
       "The Discourse Function of Aspect in Japanese"
     * Masaya Taniguch and Satoshi Tojo
       "Left-branching tree in CCG with D combinator"
+
 
 13:30-15:00:
     * Junya Fukuta and Koji Shimamura
@@ -154,6 +164,7 @@ Program:
     * Shimpei Endo
       "Truthmaker Semantics for Degreeism of Vagueness"
 
+
 15:30-17:00:
     * Simon Goldstein and John Hawthorne
       "KK is Wrong Because We Say So"
@@ -162,17 +173,19 @@ Program:
     * David Strohmaier and Simon Wimmer
       "Contrafactives and learnability"
 
+
 17:00-18:00:Invited talk
     * Nayuta Miki
       "Gricean Pragmatics According to Himself"
 
+
 18:00-18:10:Closing remark
+
 
 
 Sponsor:
 ========
-LENLS is being organized by an alliance of "AI systems that can explain by language based on knowledge and reasoning (https://www.jst.go.jp/kisoken/crest/en/project/1111109/1111109_2020.html)" project (Grant Number JPMJCR20D2), funded by JST CREST Programs "Core technologies for trusted quality AI systems
-(https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2020-4.html)."
+LENLS is being organized by an alliance of "AI systems that can explain by language based on knowledge and reasoning (https://www.jst.go.jp/kisoken/crest/en/project/1111109/1111109_2020.html)" project (Grant Number JPMJCR20D2), funded by JST CREST Programs "Core technologies for trusted quality AI systems (https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2020-4.html)."
 
 
 Code of Conduct:
@@ -192,7 +205,7 @@ We expect participants to follow these rules at conference and workshop venues a
 
 
 Program Committee:
-==================
+======================================
   - Daisuke Bekki (Ochanomizu University)
   - Alastair Butler (Hirosaki University)
   - Patrick D. Elliott (Heinrich-Heine University of Dusseldorf)
@@ -220,3 +233,6 @@ Local Organizers:
   - Yoshiki Mori (University of Tokyo)
   - Ribeka Tanaka (Ochanomizu University)
   - Yuta Takahashi (Ochanomizu University)
+
+
+

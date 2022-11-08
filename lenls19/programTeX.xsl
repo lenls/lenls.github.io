@@ -136,7 +136,7 @@ This proceedings volume contains selected and invited papers on topics in formal
 <xsl:when test="@pages!=''">
 \talk{<xsl:value-of select="@author" />}
      {<xsl:value-of select="@title" />}
-     {page<xsl:value-of select="@pages" />}</xsl:when>
+     {p.<xsl:value-of select="@pages" />}</xsl:when>
 <xsl:otherwise>
 \talk{<xsl:value-of select="@author" />}
       {<xsl:value-of select="@title" />}
@@ -149,7 +149,7 @@ This proceedings volume contains selected and invited papers on topics in formal
 <xsl:when test="@pages!=''">
 \talk{<xsl:value-of select="@author" />}
      {<xsl:value-of select="@title" />}
-     {page<xsl:value-of select="@pages" />}</xsl:when>
+     {p.<xsl:value-of select="@pages" />}</xsl:when>
 <xsl:otherwise>
 \talkk{<xsl:value-of select="@author" />}
       {<xsl:value-of select="@title" />}

@@ -42,6 +42,7 @@ and topological logic)</topic>
 <topic>Formal philosophy of language</topic>
 <topic>Scientific methodology and/or experimental design in linguistics</topic>
 </topics>
+
 <p>We are happy to announce that from this year, LENLS will be held under the umbrella of <host url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</host>.  LENLS19 is scheduled to take place in a hybrid format, that is, with both a physical presence option in Tokyo and a virtual presence option via zoom, while monitoring the global COVID-19 pandemic. </p>
 </description>
 
@@ -82,81 +83,82 @@ The collection of full papers will be published in the Lecture Notes in Computer
   deadline="November 15, 2022 23:59 (JST)">
   The registration for on-site participation is closed due to the limited number of participants at the venue. Only the registration for virtual participation is available via the link below. The zoom link will be shared only among the registered participants.
   </registration>
+
 <program>
 <day date="1st Day: November 19 (Sat)">
 
 <event time="9:50-10:00" name="Opening remark" />
 
 <session time="10:00-11:30" name="" chair="Yoshiki Mori"> 
-  <talk author="David Yoshikazu Oshima" title="The semantic markedness of the Japanese negative preterite: Non-existence of (positive) eventualities vs. existence of negative eventualities" number="8462" pages="" zone="onsite"  note="土か日に" />
-  <talk author="Misato Ido" title="Semantic Properties of the Japanese Emphatic Minimizer 'NP-no-kakera' Based on the Modal Base" number="1932" pages="" zone="onsite" />
-  <talk author="Victor Carranza Pinedo" title="Slurs' variability, emotional dimensions and game-theoretic pragmatics" number="3686" pages="" zone="UTC-5" />
+  <talk author="David Yoshikazu Oshima" title="The semantic markedness of the Japanese negative preterite: Non-existence of (positive) eventualities vs. existence of negative eventualities" number="8462" pages="1" zone="onsite"  note="土か日に" />
+  <talk author="Misato Ido" title="Semantic Properties of the Japanese Emphatic Minimizer 'NP-no-kakera' Based on the Modal Base" number="1932" pages="6" zone="onsite" />
+  <talk author="Victor Carranza Pinedo" title="Slurs' variability, emotional dimensions and game-theoretic pragmatics" number="3686" pages="11" zone="UTC-5" />
 </session>
 
 <session time="13:30-15:00" name="" chair="David Yoshikazu Oshima"> 
-  <talk author="Eri Tanaka and Kenta Mizutani" title="Granularity in number and polarity effects" number="9315" pages="" zone="onsite-UTC-8" note="19日午後の早い時間希望" />
-  <talk author="Shinnosuke Isono, Takuya Hasegawa, Kohei Kajikawa, Koichi Kono, Shiho Nakamura and Yohei Oseki" title="Formalizing argument structures with Combinatory Categorial Grammar" number="3718" pages="" zone="onsite" />
-  <talk author="Shinya Okano" title="Detecting modality and evidentiality: Against purely temporal-aspectual analyses of the German semi-modal drohen" number="1700" pages="" zone="onsite" />
+  <talk author="Eri Tanaka and Kenta Mizutani" title="Granularity in number and polarity effects" number="9315" pages="16" zone="onsite-UTC-8" note="19日午後の早い時間希望" />
+  <talk author="Shinnosuke Isono, Takuya Hasegawa, Kohei Kajikawa, Koichi Kono, Shiho Nakamura and Yohei Oseki" title="Formalizing argument structures with Combinatory Categorial Grammar" number="3718" pages="21" zone="onsite" />
+  <talk author="Shinya Okano" title="Detecting modality and evidentiality: Against purely temporal-aspectual analyses of the German semi-modal drohen" number="1700" pages="26" zone="onsite" />
 </session>
 
 <session time="15:30-17:00" name="" chair="Hitomi Hirayama"> 
-  <talk author="Linmin Zhang" title="Cumulative reading, QUD, and maximal informativeness" number="9803" pages="" zone="UTC+8" note="Saturday or Sunday" />
-  <talk author="Liping Tang" title="Language politeness in social network" number="7984" pages="" zone="onsite" />
-  <talk author="Hajime Mori" title="The Absence of NOR in Japanese" number="1424" pages="" zone="onsite" />
+  <talk author="Linmin Zhang" title="Cumulative reading, QUD, and maximal informativeness" number="9803" pages="31" zone="UTC+8" note="Saturday or Sunday" />
+  <talk author="Liping Tang" title="Language politeness in social network" number="7984" pages="36" zone="onsite" />
+  <talk author="Hajime Mori" title="The Absence of NOR in Japanese" number="1424" pages="41" zone="onsite" />
 </session>
 
 <session time="17:00-18:00" name="Invited talk" chair="Daisuke Bekki">
-  <invitedtalk author="Michael Moortgat" title="End-to-End Compositional Modelling of Vector-Based Semantics" number="invited_michael" pages="" />
+  <invitedtalk author="Michael Moortgat" title="End-to-End Compositional Modelling of Vector-Based Semantics" number="invited_michael" pages="46" />
 </session>
 </day>
 
 <day date="2nd Day: November 20 (Sun)">
 
-<session time="10:00-11:30" name="" chair="Shunsuke Yatabe">
-  <talk author="Satoru Suzuki" title="Measurement Theory Meets Mereology in Multidimensionality in Resemblance Nominalism" number="627" pages="" />
-  <talk author="Yusuke Kubota and Robert Levine" title="Extraction pathway marking as proof structure marking" number="8314" pages="" />
-  <talk author="Alastair Butler" title="Constraining parse ambiguity with grammatical codes" number="9805" pages="" zone="UTC+9" />
+<session time="10:00-11:30" name="" chair="Yuta Takahashi">
+  <talk author="Satoru Suzuki" title="Measurement Theory Meets Mereology in Multidimensionality in Resemblance Nominalism" number="627" pages="47" />
+  <talk author="Yusuke Kubota and Robert Levine" title="Extraction pathway marking as proof structure marking" number="8314" pages="52" />
+  <talk author="Alastair Butler" title="Constraining parse ambiguity with grammatical codes" number="9805" pages="57" zone="UTC+9" />
 </session>
 
 <session time="13:30-15:00" name="" chair="Ribeka Tanaka">
-  <talk author="Youyou Cong" title="In Search of a Type Theory for Fuzzy Properties" number="3022" pages="" zone="onsite" />
-  <talk author="Akiyoshi Tomihari and Hitomi Yanaka" title="Logical Inference System with Text-to-Image Generation for Phrase Abduction" number="4104" pages="" zone="onsite" note="日曜午後か月曜午後" />
-  <talk author="Hayate Funakura" title="Answers, Exhaustivity, and Presupposition of wh-questions in Dependent Type Semantics" number="4775" pages="" zone="onsite" />
+  <talk author="Youyou Cong" title="In Search of a Type Theory for Fuzzy Properties" number="3022" pages="62" zone="onsite" />
+  <talk author="Akiyoshi Tomihari and Hitomi Yanaka" title="Logical Inference System with Text-to-Image Generation for Phrase Abduction" number="4104" pages="67" zone="onsite" note="日曜午後か月曜午後" />
+  <talk author="Hayate Funakura" title="Answers, Exhaustivity, and Presupposition of wh-questions in Dependent Type Semantics" number="4775" pages="72" zone="onsite" />
 </session>
 
 <session time="15:30-17:00" name="" chair="Koji Mineshima">
-  <talk author="Masanobu Toyooka" title="A Proof-Theoretic Analysis of Meaning of a Formula in a Combination of Intuitionistic and Classical Propositional Logic" number="5912" pages="" zone="UTC+2" note="北大なのにUTC+2?" />
-  <talk author="Roussanka Loukanova" title="Logic Operators and Quantifiers in Type-Theory of Algorithms" number="5976" pages="" />
-  <talk author="Philippe de Groote" title="Deriving formal semantic representations from dependency structures" number="6652" pages="" />
+  <talk author="Masanobu Toyooka" title="A Proof-Theoretic Analysis of Meaning of a Formula in a Combination of Intuitionistic and Classical Propositional Logic" number="5912" pages="77" zone="UTC+2" note="北大なのにUTC+2?" />
+  <talk author="Roussanka Loukanova" title="Logic Operators and Quantifiers in Type-Theory of Algorithms" number="5976" pages="82" />
+  <talk author="Philippe de Groote" title="Deriving formal semantic representations from dependency structures" number="6652" pages="87" />
 </session>
 
 <session time="17:00-18:00" name="Invited talk" chair="Daisuke Bekki">
-  <invitedtalk author="Kohei Kishida" title="Modal Reasoning and Theorizing in Quantified Modal Logic" number="invited_kishida" />
+  <invitedtalk author="Kohei Kishida" title="Modal Reasoning and Theorizing in Quantified Modal Logic" number="invited_kishida" pages="92" />
 </session>
 </day>
 
 <day date="3rd Day: November 21 (Mon)">
 
 <session time="10:00-11:30" name="" chair="Ribeka Tanaka">
-  <talk author="Chungmin Lee" title="Factivity Alternation Types and Compensatory Prosodic Focus Marking" number="9853" pages="" />
-  <talk author="Kei Yoshimoto, Joseph Tabolt, Zhen Zhou, Hiromi Kaji and Tamami Shimada" title="The Discourse Function of Aspect in Japanese" number="6278" pages="" zone="onsite" />
-  <talk author="Masaya Taniguch and Satoshi Tojo" title="Left-branching tree in CCG with D combinator" number="4538" pages="" zone="onsite" />
+  <talk author="Chungmin Lee" title="Factivity Alternation Types and Compensatory Prosodic Focus Marking" number="9853" pages="93" />
+  <talk author="Kei Yoshimoto, Joseph Tabolt, Zhen Zhou, Hiromi Kaji and Tamami Shimada" title="The Discourse Function of Aspect in Japanese" number="6278" pages="98" zone="onsite" />
+  <talk author="Masaya Taniguch and Satoshi Tojo" title="Left-branching tree in CCG with D combinator" number="4538" pages="103" zone="onsite" />
 </session>
 
 <session time="13:30-15:00" name="" chair="Yuta Takahashi">
-  <talk author="Junya Fukuta and Koji Shimamura" title="To be Canceled, or Not to be Canceled: Reconsidering the Caused Possession in the Dative Alternation Experimentally" number="6003" pages="" />
-  <talk author="Oleg Kiselyov and Haruki Watanabe" title="Events and Relative Clauses" number="6660" pages="" zone="onsite" />
-  <talk author="Shimpei Endo" title="Truthmaker Semantics for Degreeism of Vagueness" number="2996" pages="" />
+  <talk author="Junya Fukuta and Koji Shimamura" title="To be Canceled, or Not to be Canceled: Reconsidering the Caused Possession in the Dative Alternation Experimentally" number="6003" pages="108" />
+  <talk author="Oleg Kiselyov and Haruki Watanabe" title="Events and Relative Clauses" number="6660" pages="113" zone="onsite" />
+  <talk author="Shimpei Endo" title="Truthmaker Semantics for Degreeism of Vagueness" number="2996" pages="118" />
 </session>
 
 <session time="15:30-17:00" name="" chair="Naoya Fujikawa">
-  <talk author="Simon Goldstein and John Hawthorne" title="KK is Wrong Because We Say So" number="7861" pages="" />
-  <talk author="Dan Zeman" title="Three Rich-Lexicon Theories of Slurs: A Comparison" number="2478" pages="" />
-  <talk author="David Strohmaier and Simon Wimmer" title="Contrafactives and learnability" number="520" pages="" zone="UTC+2" />
+  <talk author="Simon Goldstein and John Hawthorne" title="KK is Wrong Because We Say So" number="7861" pages="121" />
+  <talk author="Dan Zeman" title="Three Rich-Lexicon Theories of Slurs: A Comparison" number="2478" pages="126" />
+  <talk author="David Strohmaier and Simon Wimmer" title="Contrafactives and learnability" number="520" pages="130" zone="UTC+2" />
 </session>
 
 <session time="17:00-18:00" name="Invited talk" chair="Koji Mineshima">
-  <invitedtalk author="Nayuta Miki" title="Gricean Pragmatics According to Himself" number="invited_miki" pages="" />
+  <invitedtalk author="Nayuta Miki" title="Gricean Pragmatics According to Himself" number="invited_miki" pages="134" />
 </session>
 
 <event time="18:00-18:10" name="Closing remark" />
