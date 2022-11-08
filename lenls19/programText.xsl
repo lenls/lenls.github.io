@@ -34,7 +34,7 @@ Workshop Site : <xsl:for-each select="//site">
                     </xsl:for-each>
                   </xsl:for-each>
 Dates         : <xsl:value-of select="conferencedate" />
-Contact Person: <xsl:value-of select="ancestor::workshop/organizers/organizer[@role='chair']/@name" /> (<xsl:value-of select="ancestor::workshop/organizers/organizer[@role='chair']/@affiliation" />)
+Contact Person: <xsl:value-of select="ancestor::workshop/pcmembers/pcmember[@role='chair']/@name" /> (<xsl:value-of select="ancestor::workshop/pcmembers/pcmember[@role='chair']/@affiliation" />)
 Contact Email : <xsl:value-of select="email" />
 Website       : <xsl:value-of select="website" />
 =================================================================
@@ -47,22 +47,24 @@ Invited Speakers:<xsl:for-each select="invitedspeaker">
 
 <xsl:template match="generaldescription"><xsl:apply-templates /></xsl:template>
 
-<xsl:template match="host">
-<xsl:value-of select="text()" />
-(<xsl:value-of select="@url" />)</xsl:template>
+<xsl:template match="host"><xsl:value-of select="text()" /> (<xsl:value-of select="@url" />)</xsl:template>
 
 <xsl:template match="description"><xsl:apply-templates /></xsl:template>
 
-<!--xsl:template match="p"><xsl:apply-templates /></xsl:template-->
+<xsl:template match="p"><xsl:apply-templates /></xsl:template>
 
 <xsl:template match="call">
 Aims and topics:
 ================<xsl:value-of select="." />
 </xsl:template>
 
-<xsl:template match="topics"><xsl:for-each select="topic">
+<xsl:template match="topics">
+
+<xsl:for-each select="topic">
 - <xsl:value-of select="text()" />
-</xsl:for-each></xsl:template>
+</xsl:for-each>
+
+</xsl:template>
 
 <xsl:template match="submission">
 Submissions:
@@ -70,13 +72,16 @@ Submissions:
 
 <xsl:template match="category">[<xsl:value-of select="." />]</xsl:template>
 
-<xsl:template match="selectedpaper">
-Selected Papers:
-================
-We also plan to publish a selection of the accepted/invited papers
-as a portion of a volume "JSAI-isAI selected papers", which will  
-be published from `Lecture Notes in Artificial Intelligence' series
-(Springer Verlag). </xsl:template>
+<xsl:template match="selectedpaper">Selected Papers:
+================<xsl:value-of select="." /></xsl:template>
+
+<xsl:template match="registration">Registration:
+=============<xsl:value-of select="." />
+  <xsl:value-of select="@site" />
+  Deadline: <xsl:value-of select="@deadline" />
+
+
+</xsl:template>
 
 <xsl:template match="studentsession">
 Student Session:
@@ -92,8 +97,7 @@ Student Session:
 ========<xsl:apply-templates /></xsl:template>
 
 <xsl:template match="day">
-<xsl:value-of select="@date" />
--------------------------<xsl:apply-templates /></xsl:template>
+<xsl:value-of select="@date" />--------------------------<xsl:apply-templates /></xsl:template>
 
 <xsl:template match="event">
 <xsl:value-of select="@time" />:<xsl:value-of select="@name" /></xsl:template>
@@ -109,13 +113,6 @@ Student Session:
 
 <xsl:template match="alternates">Alternates
 ----------<xsl:apply-templates /></xsl:template>
-
-<xsl:template match="registration">Registration:
-=============
-<xsl:value-of select="." />
-  <xsl:value-of select="@site" />
-  Deadline: <xsl:value-of select="@deadline" />
-</xsl:template>
 
 <xsl:template match="code" />
 
