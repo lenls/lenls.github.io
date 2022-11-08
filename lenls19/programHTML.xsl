@@ -367,6 +367,14 @@ Invited Speakers:
 </ul>
 </xsl:template>
 
+<xsl:template match="onlineproceedings">
+  <h2>Online Proceedings</h2>
+  Download from <a>
+  <xsl:attribute name="href">
+    <xsl:value-of select="@url" />
+  </xsl:attribute>here</a>.
+  </xsl:template>
+
 <xsl:template match="program">
   <a name="program" />
   <h2>Program</h2>
