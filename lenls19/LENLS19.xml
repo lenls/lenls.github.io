@@ -116,13 +116,13 @@ The collection of full papers will be published in the Lecture Notes in Computer
 
 <day date="2nd Day: November 20 (Sun)">
 
-<session time="10:00-11:30" name="" chair="Yuta Takahashi">
+<session time="10:00-11:30" name="" chair="Shinya Okano">
   <talk author="Satoru Suzuki" title="Measurement Theory Meets Mereology in Multidimensionality in Resemblance Nominalism" number="627" pages="47" />
   <talk author="Yusuke Kubota and Robert Levine" title="Extraction pathway marking as proof structure marking" number="8314" pages="52" />
   <talk author="Alastair Butler" title="Constraining parse ambiguity with grammatical codes" number="9805" pages="57" zone="UTC+9" />
 </session>
 
-<session time="13:30-15:00" name="" chair="Ribeka Tanaka">
+<session time="13:30-15:00" name="" chair="David Yoshikazu Oshima">
   <talk author="Youyou Cong" title="In Search of a Type Theory for Fuzzy Properties" number="3022" pages="62" zone="onsite" />
   <talk author="Akiyoshi Tomihari and Hitomi Yanaka" title="Logical Inference System with Text-to-Image Generation for Phrase Abduction" number="4104" pages="67" zone="onsite" note="日曜午後か月曜午後" />
   <talk author="Hayate Funakura" title="Answers, Exhaustivity, and Presupposition of wh-questions in Dependent Type Semantics" number="4775" pages="72" zone="onsite" />
@@ -141,13 +141,13 @@ The collection of full papers will be published in the Lecture Notes in Computer
 
 <day date="3rd Day: November 21 (Mon)">
 
-<session time="10:00-11:30" name="" chair="Ribeka Tanaka">
+<session time="10:00-11:30" name="" chair="Hitomi Hirayama">
   <talk author="Chungmin Lee" title="Factivity Alternation Types and Compensatory Prosodic Focus Marking" number="9853" pages="93" />
   <talk author="Kei Yoshimoto, Joseph Tabolt, Zhen Zhou, Hiromi Kaji and Tamami Shimada" title="The Discourse Function of Aspect in Japanese" number="6278" pages="98" zone="onsite" />
   <talk author="Masaya Taniguch and Satoshi Tojo" title="Left-branching tree in CCG with D combinator" number="4538" pages="103" zone="onsite" />
 </session>
 
-<session time="13:30-15:00" name="" chair="Yuta Takahashi">
+<session time="13:30-15:00" name="" chair="Kei Yoshimoto">
   <talk author="Junya Fukuta and Koji Shimamura" title="To be Canceled, or Not to be Canceled: Reconsidering the Caused Possession in the Dative Alternation Experimentally" number="6003" pages="108" />
   <talk author="Oleg Kiselyov and Haruki Watanabe" title="Events and Relative Clauses" number="6660" pages="113" zone="onsite" />
   <talk author="Shimpei Endo" title="Truthmaker Semantics for Degreeism of Vagueness" number="2996" pages="118" />
