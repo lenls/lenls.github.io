@@ -106,7 +106,7 @@ Program:
       "The Absence of NOR in Japanese"
 
 
-17:00-18:00:Invited talk
+17:15-18:15:Invited talk
     * Michael Moortgat
       "End-to-End Compositional Modelling of Vector-Based Semantics"
 
@@ -141,7 +141,7 @@ Program:
       "Deriving formal semantic representations from dependency structures"
 
 
-17:00-18:00:Invited talk
+17:15-18:15:Invited talk
     * Kohei Kishida
       "Modal Reasoning and Theorizing in Quantified Modal Logic"
 
@@ -176,7 +176,7 @@ Program:
       "Contrafactives and learnability"
 
 
-17:00-18:00:Invited talk
+17:15-18:15:Invited talk
     * Nayuta Miki
       "Gricean Pragmatics According to Himself"
 

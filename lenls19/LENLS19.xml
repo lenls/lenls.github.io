@@ -109,7 +109,7 @@ The collection of full papers will be published in the Lecture Notes in Computer
   <talk author="Hajime Mori" title="The Absence of NOR in Japanese" number="1424" pages="41" zone="onsite" />
 </session>
 
-<session time="17:00-18:00" name="Invited talk" chair="Daisuke Bekki">
+<session time="17:15-18:15" name="Invited talk" chair="Daisuke Bekki">
   <invitedtalk author="Michael Moortgat" title="End-to-End Compositional Modelling of Vector-Based Semantics" number="invited_michael" pages="46" />
 </session>
 </day>
@@ -134,7 +134,7 @@ The collection of full papers will be published in the Lecture Notes in Computer
   <talk author="Philippe de Groote" title="Deriving formal semantic representations from dependency structures" number="6652" pages="87" />
 </session>
 
-<session time="17:00-18:00" name="Invited talk" chair="Daisuke Bekki">
+<session time="17:15-18:15" name="Invited talk" chair="Daisuke Bekki">
   <invitedtalk author="Kohei Kishida" title="Modal Reasoning and Theorizing in Quantified Modal Logic" number="invited_kishida" pages="92" />
 </session>
 </day>
@@ -159,7 +159,7 @@ The collection of full papers will be published in the Lecture Notes in Computer
   <talk author="David Strohmaier and Simon Wimmer" title="Contrafactives and learnability" number="520" pages="130" zone="UTC+2" />
 </session>
 
-<session time="17:00-18:00" name="Invited talk" chair="Koji Mineshima">
+<session time="17:15-18:15" name="Invited talk" chair="Koji Mineshima">
   <invitedtalk author="Nayuta Miki" title="Gricean Pragmatics According to Himself" number="invited_miki" pages="134" />
 </session>
 
