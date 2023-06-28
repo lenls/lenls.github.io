@@ -55,9 +55,9 @@ for the post-proceedings volume after the conference and must agree to review at
 paper.</p>
 </submission>
 
-<!--selectedpaper>
+<selectedpaper>
 LENLS20 is held under the umbrella of <host url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</host>.  The collection of full papers will be published in the Lecture Notes in Computer Science (LNCS) series, in accordance with the contract between Springer Nature Switzerland AG and The Association for Logic, Language and Information (FoLLI).
-</selectedpaper-->
+</selectedpaper>
 
 <importantdates>
 <importantdate name="Abstract submission deadline"     date="Aug. 31, 2023" />
