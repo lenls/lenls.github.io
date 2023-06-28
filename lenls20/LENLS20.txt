@@ -67,7 +67,7 @@ paper.
 
 Selected Papers:
 ================
-LENLS20 is held under the umbrella of The Association for Logic, Language and Information (FoLLI).  The collection of full papers will be published in the Lecture Notes in Computer Science (LNCS) series, in accordance with the contract between Springer Nature Switzerland AG and The Association for Logic, Language and Information (FoLLI).
+LENLS20 is held under the umbrella of The Association for Logic, Language and Information (FoLLI).  The collection of full papers will be published in the Lecture Notes in Computer Science (LNCS) series, in accordance with the contract between Springer Nature Switzerland AG and FoLLI.
 
 
 Important dates:
