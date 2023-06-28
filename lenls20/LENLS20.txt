@@ -1,0 +1,137 @@
+
+（重複して受け取られた場合はご容赦ください）
+
+今年の11月にハイブリッド（大阪＆オンライン）で開催される LENLS20 国際ワークショップの
+ご案内をお送り致します。皆様のご参加をお待ちしております。
+
+戸次大介（お茶の水女子大学）
+
+
+[Apologies for multiple copies]
+=================================================================
+                      CALL FOR PAPER
+
+                  Logic and Engineering of
+             Natural Language Semantics 20 (LENLS20)
+
+Workshop Site : Hybrid (Osaka University Nakanoshima Center | Online)
+                    　Nakanoshima 4-3-53, Kita-ku, Osaka (zip:530-0005)
+                    　https://www.onc.osaka-u.ac.jp/
+Dates         : November 18(Sat)-20(Mon), 2023
+Contact Person: Elin McCready (Aoyama Gakuin University)
+Contact Email : lenls20[[at]]easychair.org
+Website       : https://lenls.github.io/lenls20/
+=================================================================
+
+Chair:  Elin McCready (Aoyama Gakuin University)
+Co-chair: Daisuke Bekki (Ochanomizu University)
+          Koji Mineshima (Keio University)
+          
+Invited Speakers:
+- TBA ()
+
+
+LENLS is an annual international conference on formal linguistics (i.e., syntax, semantics 
+and pragmatics), computational linguistics, the philosophy of language, and related fields, including but 
+not limited to the following:
+
+- Formal syntax, semantics and pragmatics of natural language
+- Model-theoretic and/or proof-theoretic semantics of natural language
+- Computational approaches to semantics and pragmatics
+- Nonclassical logic and its relation to natural language (e.g. substructural, fuzzy, categorical, and topological logic)
+- Formal philosophy of language
+- Scientific methodology and/or experimental design in linguistics
+
+LENLS20 is scheduled to take place in a in-person format (with a physical presence in Osaka), but with a limited option for a virtual presence via zoom. 
+
+
+
+Submissions:
+============
+Authors are required to choose from one of the following two submission categories: [Abstract Only]
+and [Abstract+Full Paper].  For both categories, authors must submit abstracts (anonymous, 
+up to 4 pages including figures and references, A4 size, 12-point font) on original, 
+unpublished research.  Abstracts must be submitted electronically in PDF at:
+
+https://easychair.org/conferences/?conf=lenls20
+
+Upon acceptance, authors (both categories) are expected to submit extended 
+abstracts (up to 5 pages) before the workshop.  Note that abstracts submitted to the [Abstract+Full Paper] 
+category may be accepted in the [Abstract Only] category (but not vice versa).  The proceedings of 
+the workshop will be made available online, including extended abstracts (both categories).
+
+Authors submitting to the [Abstract+Full Paper] category are required to submit a full paper (up to 14 pages) 
+for the post-proceedings volume after the conference and must agree to review at least one other full 
+paper.
+
+
+
+
+Important dates:
+================
+Abstract submission deadline: Aug. 31, 2023
+Notification of acceptance: Oct. 1, 2023
+Deadline for author registration: Oct. 14, 2023
+Deadline for early registration: Oct. 29, 2023
+Deadline for the revised abstract: Oct. 29, 2023
+LENLS20: Nov. 18-20, 2023
+Deadline for full papers: Dec. 15, 2023
+
+
+Sponsor:
+========
+LENLS is being organized by an alliance of "AI systems that can explain by language based on knowledge and reasoning (https://www.jst.go.jp/kisoken/crest/en/project/1111109/1111109_2020.html)" project (Grant Number JPMJCR20D2), funded by JST CREST Programs "Core technologies for trusted quality AI systems (https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2020-4.html)."
+
+
+Code of Conduct:
+================
+All attendees, speakers, sponsors and volunteers at our conference are required to adhire to the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everyone.
+
+[The Quick Version] 
+The organizers are dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, and social media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the organisers.
+
+[The Less Quick Version] 
+Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, and religion (or lack thereof), as well as sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+Participants asked to stop harassing behavior are expected to comply immediately.
+If a participant engages in harassing behavior, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference without a refund.
+If you experience harassment, notice that someone else is being harassed, or have any other concerns, please contact the following conference staff members immediately: Elin McCready and Daisuke Bekki
+THe conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+We expect participants to follow these rules at conference and workshop venues as well as conference-related social events.
+
+
+Program Committee:
+======================================
+  - Elin McCready (Aoyama Gakuin University)
+  - Daisuke Bekki (Ochanomizu University)
+  - Koji Mineshima (Keio University)
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+Local Organizers:
+======================================
+  - Eri Tanaka (Osaka University)
+  - Akitaka Yamada (Osaka University)
+
+
+

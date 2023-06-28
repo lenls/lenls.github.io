@@ -150,12 +150,12 @@ The collection of full papers will be published in the Lecture Notes in Computer
 <session time="13:30-15:00" name="" chair="Kei Yoshimoto">
   <talk author="Junya Fukuta and Koji Shimamura" title="To be Canceled, or Not to be Canceled: Reconsidering the Caused Possession in the Dative Alternation Experimentally" number="6003" pages="108" />
   <talk author="Oleg Kiselyov and Haruki Watanabe" title="Events and Relative Clauses" number="6660" pages="113" zone="onsite" />
-  <talk author="Shimpei Endo" title="Truthmaker Semantics for Degreeism of Vagueness" number="2996" pages="118" />
+  <talk author="Shimpei Endo" title="Truthmaker Semantics for Degreeism of Vagueness" number="2996" pages="118" canceled="yes" />
 </session>
 
 <session time="15:30-17:00" name="" chair="Naoya Fujikawa">
   <talk author="Simon Goldstein and John Hawthorne" title="KK is Wrong Because We Say So" number="7861" pages="121" />
-  <talk author="Dan Zeman" title="Three Rich-Lexicon Theories of Slurs: A Comparison" number="2478" pages="126" />
+  <talk author="Dan Zeman" title="Three Rich-Lexicon Theories of Slurs: A Comparison" number="2478" pages="126" canceled="yes" />
   <talk author="David Strohmaier and Simon Wimmer" title="Contrafactives and learnability" number="520" pages="130" zone="UTC+2" />
 </session>
 
