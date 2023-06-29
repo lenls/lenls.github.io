@@ -83,7 +83,7 @@ Deadline for full papers: Dec. 15, 2023
 
 Sponsor:
 ========
-LENLS is being organized by an alliance of "AI systems that can explain by language based on knowledge and reasoning (https://www.jst.go.jp/kisoken/crest/en/project/1111109/1111109_2020.html)" project (Grant Number JPMJCR20D2), funded by JST CREST Programs "Core technologies for trusted quality AI systems (https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2020-4.html)."
+LENLS is being organized by an alliance of "AI systems that can explain by language based on knowledge and reasoning (https://www.jst.go.jp/kisoken/crest/en/project/1111109/1111109_2020.html)" project (Grant Number JPMJCR20D2), funded by JST CREST Programs "Core technologies for trusted quality AI systems (https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2020-4.html)."  LENLS 20 is co-organized by Graduate School of Humanities, Osaka University.
 
 
 Code of Conduct:
