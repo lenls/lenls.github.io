@@ -28,7 +28,7 @@ Co-chair: Daisuke Bekki (Ochanomizu University)
           Koji Mineshima (Keio University)
           
 Invited Speakers:
-- TBA ()
+- Gregoire Winterstein (Universite du Quebec a Montreal)
 
 
 LENLS is an annual international conference on formal linguistics (i.e., syntax, semantics 
