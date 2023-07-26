@@ -6,11 +6,11 @@
   <xsl:apply-templates/>
 </xsl:template>
 
-<xsl:template match="workshop">
-（重複して受け取られた場合はご容赦ください）
+<xsl:template match="workshop">（重複して受け取られた場合はご容赦ください）
 
-今年の<xsl:value-of select="@month" />に<xsl:value-of select="@place" />で開催される <xsl:value-of select="//short" /> 国際ワークショップの
-ご案内をお送り致します。皆様のご参加をお待ちしております。
+今年の<xsl:value-of select="@month" />に<xsl:value-of select="@place" />で開催される <xsl:value-of select="//short" /> 
+国際ワークショップのご案内をお送り致します。皆様のご参加をお待ちし
+ております。
 
 戸次大介（お茶の水女子大学）
 <xsl:apply-templates/>
