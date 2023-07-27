@@ -100,6 +100,7 @@ LENLS is being organized by an alliance of "<host url="https://www.jst.go.jp/kis
   <pcmember name="Koji Mineshima"      affiliation="Keio University"               role="cochair" />
   <pcmember name="Alastair Butler"     affiliation="Hirosaki University" />
   <pcmember name="Naoya Fujikawa"      affiliation="University of Tokyo" />
+  <pcmember name="Hitomi Hirayama"     affiliation="Keio University" />
   <pcmember name="Magdalena Kaufmann"  affiliation="University of Connecticut" />
   <pcmember name="Yoshiki Mori"        affiliation="University of Tokyo" />
   <pcmember name="David Y. Oshima"     affiliation="Nagoya University" />
@@ -113,9 +114,7 @@ LENLS is being organized by an alliance of "<host url="https://www.jst.go.jp/kis
   <!--pcmember name="Patrick D. Elliott"  affiliation="Heinrich-Heine University of Dusseldorf" /-->
   <!--pcmember name="Yurie Hara"          affiliation="Hokkaido University" /-->
   <!--pcmember name="Robert Henderson"    affiliation="University of Arizona" /-->
-  <!--pcmember name="Hitomi Hirayama"     affiliation="Keio University" /-->
   <!--pcmember name="Kristina Liefke"     affiliation="Ruhr University Bochum" /-->
-  <!--pcmember name="Tomoyuki Yamada"     affiliation="Hokkaido University" /-->
   <!--pcmember name="Shunsuke Yatabe"     affiliation="Ochanomizu University" /-->
 </pcmembers>
 <localorganizers>

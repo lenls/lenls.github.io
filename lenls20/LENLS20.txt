@@ -63,15 +63,15 @@ The proceedings of the workshop will be made available online, including extende
 (both categories).
 
 Authors submitting to the [Abstract+Full Paper] category are required to submit a full paper 
-(up to 14 pages) for the post-proceedings volume after the conference and must agree to review 
+(up to 15 pages) for the post-proceedings volume after the conference and must agree to review 
 at least one other full paper.
 
 
 Selected Papers:
 ================
 LENLS20 is held under the umbrella of The Association for Logic, Language and Information (FoLLI).  
-The collection of full papers will be published in the Lecture Notes in Computer Science (LNCS) series, 
-in accordance with the contract between Springer Nature Switzerland AG and FoLLI.
+The collection of full papers will be published in the Lecture Notes in Computer Science (LNCS) 
+series, in accordance with the contract between Springer Nature Switzerland AG and FoLLI.
 
 
 Important dates:
@@ -113,6 +113,7 @@ Program Committee:
   - Koji Mineshima (Keio University)
   - Alastair Butler (Hirosaki University)
   - Naoya Fujikawa (University of Tokyo)
+  - Hitomi Hirayama (Keio University)
   - Magdalena Kaufmann (University of Connecticut)
   - Yoshiki Mori (University of Tokyo)
   - David Y. Oshima (Nagoya University)
