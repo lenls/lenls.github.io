@@ -76,7 +76,7 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 
 Important dates:
 ================
-Abstract submission deadline: Aug. 31, 2023
+Abstract submission deadline (Extended): Sep. 7, 2023
 Notification of acceptance: Oct. 1, 2023
 Deadline for author registration: Oct. 14, 2023
 Deadline for early registration: Oct. 29, 2023
@@ -112,6 +112,7 @@ Program Committee:
   - Daisuke Bekki (Ochanomizu University)
   - Koji Mineshima (Keio University)
   - Alastair Butler (Hirosaki University)
+  - Patrick D. Elliott (Heinrich-Heine University of Dusseldorf)
   - Naoya Fujikawa (University of Tokyo)
   - Hitomi Hirayama (Keio University)
   - Magdalena Kaufmann (University of Connecticut)
@@ -123,6 +124,7 @@ Program Committee:
   - Wataru Uegaki (University of Edinburgh)
   - Katsuhiko Yabushita (Naruto University of Education)
   - Kei Yoshimoto (Tohoku University)
+  - Shunsuke Yatabe (Ochanomizu University)
 
 Local Organizers:
 ======================================
