@@ -114,25 +114,33 @@ h4 {
             <tr><td class="c2"><a href="#contact">Contact</a></td></tr>
             <tr><td class="c1">
               <table>
-              <tr><td>Archives</td></tr>
+              <tr><td>Websites of the past editions</td></tr>
               <tr><td>&#x20;&#x20;&#x20;&#x20;LENLS1</td></tr>
-              <tr><td>&#x20;&#x20;&#x20;&#x20;<a href="../lenls2/index.html">LENLS2</a></td></tr>
-              <tr><td>&#x20;&#x20;&#x20;&#x20;<a href="../lenls3/index.html">LENLS3</a></td></tr>
-              <tr><td>&#x20;&#x20;&#x20;&#x20;<a href="../lenls4/index.html">LENLS4</a></td></tr>
-              <tr><td>&#x20;&#x20;&#x20;&#x20;<a href="../lenls5/index.html">LENLS5</a></td></tr>
-              <tr><td>&#x20;&#x20;&#x20;&#x20;<a href="../lenls6/index.html">LENLS6</a></td></tr>
-              <tr><td>&#x20;&#x20;&#x20;&#x20;<a href="../lenls7/index.html">LENLS7</a></td></tr>
-              <tr><td>&#x20;&#x20;&#x20;&#x20;<a href="../lenls8/index.html">LENLS8</a></td></tr>
-              <tr><td>&#x20;&#x20;&#x20;&#x20;<a href="../lenls9/index.html">LENLS9</a></td></tr>
-              <tr><td>&#x20;&#x20;&#x20;&#x20;<a href="../lenls10/index.html">LENLS10</a></td></tr>
-              <tr><td>&#x20;&#x20;&#x20;&#x20;<a href="../lenls11/index.html">LENLS11</a></td></tr>
-              <tr><td>&#x20;&#x20;&#x20;&#x20;<a href="../lenls12/index.html">LENLS12</a></td></tr>
-              <tr><td>&#x20;&#x20;&#x20;&#x20;<a href="../lenls13/index.html">LENLS13</a></td></tr>
-              <tr><td>&#x20;&#x20;&#x20;&#x20;<a href="../lenls14/index.html">LENLS14</a></td></tr>
-              <tr><td>&#x20;&#x20;&#x20;&#x20;<a href="../lenls15/index.html">LENLS15</a></td></tr>
-              <tr><td>&#x20;&#x20;&#x20;&#x20;<a href="../lenls16/index.html">LENLS16</a></td></tr>
-              <tr><td>&#x20;&#x20;&#x20;&#x20;<a href="../lenls17/index.html">LENLS17</a></td></tr>
-              <tr><td>&#x20;&#x20;&#x20;&#x20;<a href="../lenls18/index.html">LENLS18</a></td></tr>
+              <xsl:for-each select="//archive">
+                <tr><td>&#x20;&#x20;&#x20;&#x20;
+                <a>
+                <xsl:attribute name="href">../<xsl:value-of select="@website" />/index.html</xsl:attribute>
+                <xsl:value-of select="@name" />
+                </a>
+                </td></tr>
+              </xsl:for-each>
+              </table>
+            </td></tr>
+            <tr><td class="c2">
+              <a name="post-proceedings" />
+              <table>
+              <tr><td>Post-proceedings volumes</td></tr>
+              <xsl:for-each select="//archive">
+                <xsl:if test="@proceedings!=''">
+                  <tr><td>&#x20;&#x20;&#x20;&#x20;
+                  <a>
+                  <xsl:attribute name="href"><xsl:value-of select="@proceedings" /></xsl:attribute>
+                  <xsl:value-of select="@name" />
+                  </a>
+                  (<xsl:value-of select="@year" />)
+                  </td></tr>
+                  </xsl:if>
+              </xsl:for-each>
               </table>
             </td></tr>
 	    </table>

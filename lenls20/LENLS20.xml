@@ -57,16 +57,16 @@ The proceedings of the workshop will be made available online, including extende
 at least one other full paper.</p>
 </submission>
 
-<selectedpaper>
+<!--selectedpaper>
 LENLS20 is held under the umbrella of <host url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</host>.  
 The collection of full papers will be published in the Lecture Notes in Computer Science (LNCS) 
 series, in accordance with the contract between Springer Nature Switzerland AG and FoLLI.
-</selectedpaper>
+</selectedpaper-->
 
 <importantdates>
 <importantdate name="Abstract submission deadline (Extended)"     date="Sep. 7, 2023 (AoE)" done="yes" />
-<importantdate name="Notification of acceptance"       date="Oct. 1, 2023" />
-<importantdate name="Deadline for author registration"  date="Oct. 14, 2023 (AoE)" />
+<importantdate name="Notification of acceptance"       date="Oct. 1, 2023" done="yes" />
+<importantdate name="Deadline for author registration"  date="Oct. 14, 2023 (AoE)" done="yes" />
 <importantdate name="Deadline for early registration"  date="Oct. 29, 2023 (AoE)" />
 <importantdate name="Deadline for the revised abstract" date="Oct. 29, 2023 (AoE)" />
 <importantdate name="LENLS20"                          date="Nov. 18-20, 2023" />
@@ -76,6 +76,100 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
   deadline="November 15, 2023 23:59 (JST)">
   The registration for on-site participation is closed due to the limited number of participants at the venue. Only the registration for virtual participation is available via the link below. The zoom link will be shared only among the registered participants.
   </registration--><!--onlineproceedings url="https://lenls.github.io/lenls19/LENLS19OnlineProceedings.pdf" /-->
+
+<!--program>
+<day date="1st Day: November 18 (Sat)">
+
+<event time="9:50-10:00" name="Opening remark" />
+
+<session time="10:00-11:30" name="" chair="">
+  <talk author="Kristina Liefke" title="Perspective and the Self in Experiential Attitude Reports" number="1" cat="long" pages="" />
+  <talk author="Simon Vonlanthen" title="Use, Compositionality and Prior's Puzzle" number="32" cat="short" pages="" />
+  <talk author="Takanobu Nakamura" title="Cumulative questions and structured witnesses" number="46" cat="long" pages="" />
+</session>
+
+<session time="13:30-15:00" name="" chair=""> 
+  <talk author="Christopher Davis" title="Towards a semantics of the Javanese speech level system" number="13" cat="short" pages="" />
+  <talk author="Lukas Rieser" title="Intonational meaning at the limits of grammar" number="39" cat="long" pages="" />
+  <talk author="Linmin Zhang" title="An Inquisitive-Semantics perspective on NPI licensing: the cases of only and any more" number="41" cat="short" pages="" />
+</session>
+
+<session time="15:30-17:00" name="" chair=""> 
+  <talk author="Daiki Matsuoka, Daisuke Bekki and Hitomi Yanaka" title="Appositive Projection as Implicit Context Extension in Dependent Type Semantics" number="17" cat="long" pages="" />
+  <talk author="Hayate Funakura" title="Focus Representation and Backward Underspecication in Dependent Type Semantics" number="19" cat="short" pages="" />
+  <talk author="Daisuke Bekki" title="A Proof-theoretic Analysis of VP Ellipsis in Dependent Type Semantics" number="12" cat="short" pages="" />
+</session>
+
+<session time="17:30-18:30" name="Invited talk" chair="Elin McCready">
+  <invitedtalk author="Gregoire Winterstein" title="Argumentative meaning - Semantics with a purpose" number="invited_gregoire" pages="" />
+</session>
+</day>
+
+<day date="2nd Day: November 19 (Sun)">
+
+<session time="10:00-11:30" name="" chair="">
+  <talk author="Shao-Yu Huang and I-Ta Hsieh" title="On the Ye/Haishi alternation in Mandarin Concessive Conditionals" number="16" cat="short" pages="" />
+  <talk author="Ka-Fat Chow" title="Internal Reading and Reciprocity" number="2" cat="long" pages="" />
+  <talk author="Zhuang Chen and Yael Greenberg" title="Associating with covert focus: A unified, even-like semantics for Mandarin geng" number="27" cat="long" pages="" />
+</session>
+
+<session time="13:30-15:00" name="" chair="">
+  <talk author="Kohei Kishida" title="Topology and Justified True Belief: A Baseless, Evidence-Free (and Pointless) Approach" number="44" cat="long" pages="" />
+  <talk author="Timothee Mickus and Timothee Bernard" title="Distributional, yes? but semantics? Comparing distributional representations, semantics and syntax" number="29" cat="short" pages="" />
+  <talk author="Noritsugu Hayashi" title="Additivity in Attention Semantics" number="14" cat="long" pages="" />
+</session>
+
+<session time="15:30-17:00" name="" chair="">
+  <talk author="Hitomi Yanaka" title="Compositional Account of Event Quantification in Dependent Type Semantics" number="3" cat="alternate" pages="" />
+  <talk author="Haruka Fukushima, Daniel Plesniak and Daisuke Bekki" title="Matrix and Relative Weak Crossover on the Level of the Individual: A Proposed Experimental Investigation" number="28" cat="long" pages="" />
+  <talk author="Camilo Rodriguez Ronderos, Emma Mathisen, Ira Noveck and Ingrid Lossius Falkum" title="When children are more pragmatic than adults: Norwegian children’s comprehension of contextualized absolute adjectives" number="21" cat="short" pages="" />
+</session>
+
+<session time="17:30-18:30" name="" chair="">
+  <talk author="Oleg Kiselyov" title="Towards a Theory of Anaphoric Binding in Event Semantics" number="4" cat="long" pages="" />
+  <talk author="Philippe de Groote" title="On the semantics of dependencies: relative clauses and open clausal complements" number="42" cat="long" pages="" />
+</session>
+</day>
+
+<day date="3rd Day: November 20 (Mon)">
+
+<session time="10:00-11:30" name="" chair="">
+  <talk author="Satoru Suzuki" title="Additively-Semiordered-Qualitative-Conditional-Probability-Theoretic Foundations of Logic of Probabilistic Indiscriminability" number="37" cat="short" pages="" />
+  <talk author="Roussanka Loukanova" title="Semantics of Propositional Attitudes in Type-Theory of Algorithms" number="6" cat="long" pages="" />
+  <talk author="Alastair Butler" title="Dot-to-dot semantic representation" number="23" cat="long" pages="" />
+</session>
+
+<session time="13:30-15:00" name="" chair="">
+  <talk author="Yusuke Yagi" title="Two Places Where We Need Plug-negation in Update Semantics" number="7" cat="long" pages="" />
+  <talk author="Osamu Sawada" title="The Japanese negative polarity item hitotsu ‘even’: An event semantics approach" number="25" cat="short" pages="" />
+  <talk author="Eri Tanaka and Kenta Mizutani" title="The Semantics of Ordinals in Superlatives in Japanese" number="31" cat="alternate" pages="" />
+</session>
+
+<session time="15:30-17:00" name="" chair="">
+  <talk author="Philippe de Groote, Maxime Guillaume, Agathe Helman, Sylvain Pogodalla and Raphael Salmon" title="Extending Abstract Categorial Grammars with Feature Structures: Theory and Practice" number="33" cat="long" pages="" />
+  <talk author="Kata Balogh" title="Negation and information structure in Tree-Wrapping Grammar" number="15" cat="long" pages="" />
+  <talk author="Ivan Rygaev" title="Semantic-pragmatic account of syntactic structures" number="20" cat="long" pages="" />
+</session>
+
+<session time="17:30-18:30" name="" chair="">
+  <talk author="Seyed Habib Hosseini Saravani, Sara Besharati and Gregoire Winterstein" title="Are Language Models Capable of Detecting the Topoi in Argumentative Statements?" number="18" cat="short" pages="" />
+  <talk author="Pola Osher and Yael Greenberg" title="Comparing Degree-Based and Argumentative Analyses of Even" number="36" cat="long" pages="" />
+</session>
+
+<event time="18:30-18:40" name="Closing remark" />
+</day>
+</program>
+
+<alternates>
+  <talk author="Katsuhiko Yabushita, Tomoshige Miyaguchi and Takahiro Tamura" title="On the Presence of the Word jo-i 'female-doctor' and the Absence of the Counterpart *dan-i 'male-doctor' in Japanese: Another Case for the Trade-Off Model" number="10" cat="alternate" pages="" />
+  <talk author="Kohei Kajikawa" title="Analyzing Japanese Cleft Construction in Combinatory Categorial Grammar" number="22" cat="alternate" pages="" />
+  <talk author="Daiki Matsumoto" title="Making Commitment Explicit: Case Study from the Japanese Discourse Particle Ne in Interrogatives" number="8" cat="alternate" pages="" />
+</alternates>
+
+<withdrawal>
+  <talk author="Julie Goncharov" title="Actions and beliefs" number="38" cat="long" pages="" />
+  <talk author="Stergios Chatzikyriakidis and Giorgos Spathas" title="A unified analysis of the semantics and pragmatics of Greek polydefinites" number="45" cat="long" pages="" />
+</withdrawal-->
 
 <sponsor>
 LENLS is being organized by an alliance of "<host url="https://www.jst.go.jp/kisoken/crest/en/project/1111109/1111109_2020.html">AI systems that can explain by language based on knowledge and reasoning</host>" project (Grant Number JPMJCR20D2), funded by JST CREST Programs "<host url="https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2020-4.html">Core technologies for trusted quality AI systems</host>."  LENLS 20 is co-organized by Graduate School of Humanities, Osaka University.
@@ -117,8 +211,33 @@ LENLS is being organized by an alliance of "<host url="https://www.jst.go.jp/kis
   <!--pcmember name="Richard Dietz"       affiliation="University of Tokyo" /-->
   <!--pcmember name="Kristina Liefke"     affiliation="Ruhr University Bochum" /-->
 </pcmembers>
+
 <localorganizers>
   <localorganizer name="Eri Tanaka"     affiliation="Osaka University" />
   <localorganizer name="Akitaka Yamada" affiliation="Osaka University" />
 </localorganizers>
+
+<archives>
+  <!--archive name="LENLS1"  year="2004" website="lenls1"  proceedings="" /-->
+  <archive name="LENLS2"  year="2005" website="lenls2"  proceedings="https://link.springer.com/book/10.1007/11780496" />
+  <archive name="LENLS3"  year="2006" website="lenls3"  proceedings="https://link.springer.com/book/10.1007/978-3-540-69902-6" />
+  <archive name="LENLS4"  year="2007" website="lenls4"  proceedings="https://link.springer.com/book/10.1007/978-3-540-78197-4" />
+  <archive name="LENLS5"  year="2008" website="lenls5"  proceedings="https://link.springer.com/book/10.1007/978-3-642-00609-8" />
+  <archive name="LENLS6"  year="2009" website="lenls6"  proceedings="https://link.springer.com/book/10.1007/978-3-642-14888-0" />
+  <archive name="LENLS7"  year="2010" website="lenls7"  proceedings="https://link.springer.com/book/10.1007/978-3-642-25655-4" />
+  <archive name="LENLS8"  year="2011" website="lenls8"  proceedings="https://link.springer.com/book/10.1007/978-3-642-32090-3" />
+  <archive name="LENLS9"  year="2012" website="lenls9"  proceedings="https://link.springer.com/book/10.1007/978-3-642-39931-2" />
+  <archive name="LENLS10" year="2013" website="lenls10" proceedings="https://link.springer.com/book/10.1007/978-3-319-10061-6" />
+  <archive name="LENLS11" year="2014" website="lenls11" proceedings="https://link.springer.com/book/10.1007/978-3-662-48119-6" />
+  <archive name="LENLS12" year="2015" website="lenls12" proceedings="https://link.springer.com/book/10.1007/978-3-319-50953-2" />
+  <archive name="LENLS13" year="2016" website="lenls13" proceedings="https://link.springer.com/book/10.1007/978-3-319-61572-1" />
+  <archive name="LENLS14" year="2017" website="lenls14" proceedings="https://link.springer.com/book/10.1007/978-3-319-93794-6" />
+  <archive name="LENLS15" year="2018" website="lenls15" proceedings="https://link.springer.com/book/10.1007/978-3-030-31605-1" />
+  <archive name="LENLS16" year="2019" website="lenls16" proceedings="https://link.springer.com/book/10.1007/978-3-030-58790-1" />
+  <archive name="LENLS17" year="2020" website="lenls17" proceedings="https://link.springer.com/book/10.1007/978-3-030-79942-7" />
+  <archive name="LENLS18" year="2021" website="lenls18" proceedings="https://link.springer.com/book/10.1007/978-3-031-36190-6" />
+  <archive name="LENLS19" year="2022" website="lenls19" proceedings="" />
+  <!--archive name="LENLS20" year="2023" website="lenls20" proceedings="" /-->
+</archives>
+
 </workshop>

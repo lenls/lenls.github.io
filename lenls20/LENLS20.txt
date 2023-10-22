@@ -67,21 +67,16 @@ Authors submitting to the [Abstract+Full Paper] category are required to submit 
 at least one other full paper.
 
 
-Selected Papers:
-================
-LENLS20 is held under the umbrella of The Association for Logic, Language and Information (FoLLI).  
-The collection of full papers will be published in the Lecture Notes in Computer Science (LNCS) 
-series, in accordance with the contract between Springer Nature Switzerland AG and FoLLI.
 
 
 Important dates:
 ================
-Notification of acceptance: Oct. 1, 2023
-Deadline for author registration: Oct. 14, 2023 (AoE)
 Deadline for early registration: Oct. 29, 2023 (AoE)
 Deadline for the revised abstract: Oct. 29, 2023 (AoE)
 LENLS20: Nov. 18-20, 2023
 Deadline for full papers: Dec. 15, 2023 (AoE)
+
+
 
 
 Sponsor:
@@ -127,9 +122,34 @@ Program Committee:
   - Kei Yoshimoto (Tohoku University)
   - Shunsuke Yatabe (Ochanomizu University)
 
+
 Local Organizers:
 ======================================
   - Eri Tanaka (Osaka University)
   - Akitaka Yamada (Osaka University)
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
 
 
