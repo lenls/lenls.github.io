@@ -47,34 +47,169 @@ LENLS20 is scheduled to take place in a in-person format (with a physical presen
 but with a limited option for a virtual presence via zoom. 
 
 
-Submissions:
-============
-Authors are required to choose from one of the following two submission categories: 
-[Abstract Only] and [Abstract+Full Paper].  For both categories, authors must submit abstracts 
-(anonymous, up to 4 pages including figures and references, A4 size, 12-point font) 
-on original, unpublished research.  Abstracts must be submitted electronically in PDF at:
 
-https://easychair.org/conferences/?conf=lenls20
-
-Upon acceptance, authors (both categories) are expected to submit extended abstracts 
-(up to 5 pages) before the workshop.  Note that abstracts submitted to the [Abstract+Full Paper] 
-category may be accepted in the [Abstract Only] category (but not vice versa).  
-The proceedings of the workshop will be made available online, including extended abstracts 
-(both categories).
-
-Authors submitting to the [Abstract+Full Paper] category are required to submit a full paper 
-(up to 15 pages) for the post-proceedings volume after the conference and must agree to review 
-at least one other full paper.
-
-
+Selected Papers:
+================
+LENLS20 is held under the umbrella of The Association for Logic, Language and Information (FoLLI).  
+The collection of full papers will be published in the Lecture Notes in Computer Science (LNCS) 
+series, in accordance with the contract between Springer Nature Switzerland AG and FoLLI.
 
 
 Important dates:
 ================
-Deadline for early registration: Oct. 29, 2023 (AoE)
 Deadline for the revised abstract: Oct. 29, 2023 (AoE)
+Deadline for registration with the conference dinner: Oct. 30, 2023 (AoE)
+Deadline for registration without the conference dinner: Nov. 11, 2023 (AoE)
 LENLS20: Nov. 18-20, 2023
 Deadline for full papers: Dec. 15, 2023 (AoE)
+
+
+Registration:
+=============
+  https://forms.gle/k5LtKrLAsiSNi6ow7
+  The registration is available via the link below. 
+  
+    The registration fee will be collected on-site at the reception desk (cash only).  
+    The zoom link will be shared only among the registered participants.
+    The deadline for the registration with the conference dinner is Octoboer 30, 2023 (AoE).
+    The deadline for the registration without the conference dinner is November 11, 2023 (AoE).
+  
+  
+  
+  
+  
+  Deadline: 
+
+Program:
+========
+1st Day: November 18 (Sat)--------------------------
+
+9:50-10:00:Opening remark
+
+10:00-11:30:
+    * Lukas Rieser
+      "Intonational meaning at the limits of grammar"
+    * Christopher Davis
+      "Towards a semantics of the Javanese speech level system"
+    * Ivan Rygaev
+      "Semantic-pragmatic account of syntactic structures"
+
+
+13:30-15:00: 
+    * Linmin Zhang
+      "An Inquisitive-Semantics perspective on NPI licensing: the cases of only and any more"
+    * Roussanka Loukanova
+      "Semantics of Propositional Attitudes in Type-Theory of Algorithms"
+    * Camilo Rodriguez Ronderos, Emma Mathisen, Ira Noveck and Ingrid Lossius Falkum
+      "When children are more pragmatic than adults: Norwegian children’s comprehension of contextualized absolute adjectives"
+
+
+15:30-17:00: 
+    * Yusuke Yagi
+      "Two Places Where We Need Plug-negation in Update Semantics"
+    * Noritsugu Hayashi
+      "Additivity in Attention Semantics"
+    * Osamu Sawada
+      "The Japanese negative polarity item hitotsu ‘even’: An event semantics approach"
+
+
+17:30-18:30:Invited talk
+    * Gregoire Winterstein
+      "Argumentative meaning - Semantics with a purpose"
+
+
+
+2nd Day: November 19 (Sun)--------------------------
+
+10:00-11:30:
+    * Satoru Suzuki
+      "Additively-Semiordered-Qualitative-Conditional-Probability-Theoretic Foundations of Logic of Probabilistic Indiscriminability"
+    * Ka-Fat Chow
+      "Internal Reading and Reciprocity"
+    * Shao-Yu Huang and I-Ta Hsieh
+      "On the Ye/Haishi alternation in Mandarin Concessive Conditionals"
+
+
+13:30-15:00:
+    * Kohei Kishida
+      "Topology and Justified True Belief: A Baseless, Evidence-Free (and Pointless) Approach"
+    * Timothee Mickus and Timothee Bernard
+      "Distributional, yes? but semantics? Comparing distributional representations, semantics and syntax"
+    * Oleg Kiselyov
+      "Towards a Theory of Anaphoric Binding in Event Semantics"
+
+
+15:30-17:00:
+    * Daiki Matsuoka, Daisuke Bekki and Hitomi Yanaka
+      "Appositive Projection as Implicit Context Extension in Dependent Type Semantics"
+    * Hayate Funakura
+      "Focus Representation and Backward Underspecication in Dependent Type Semantics"
+    * Haruka Fukushima, Daniel Plesniak and Daisuke Bekki
+      "Matrix and Relative Weak Crossover on the Level of the Individual: A Proposed Experimental Investigation"
+
+
+17:30-18:30:
+    * Daisuke Bekki
+      "A Proof-theoretic Analysis of VP Ellipsis in Dependent Type Semantics"
+    * Philippe de Groote
+      "On the semantics of dependencies: relative clauses and open clausal complements"
+
+
+19:00-:Conference dinner
+
+
+3rd Day: November 20 (Mon)--------------------------
+
+10:00-11:30:
+    * Alastair Butler
+      "Dot-to-dot semantic representation"
+    * Zhuang Chen and Yael Greenberg
+      "Associating with covert focus: A unified, even-like semantics for Mandarin geng"
+    * Pola Osher and Yael Greenberg
+      "Comparing Degree-Based and Argumentative Analyses of Even"
+
+
+13:30-15:00:
+    * Kristina Liefke
+      "Perspective and the Self in Experiential Attitude Reports"
+    * Julie Goncharov
+      "Actions and beliefs"
+    * Stergios Chatzikyriakidis and Giorgos Spathas
+      "A unified analysis of the semantics and pragmatics of Greek polydefinites"
+
+
+15:30-17:00:
+    * Simon Vonlanthen
+      "Use, Compositionality and Prior's Puzzle"
+    * Seyed Habib Hosseini Saravani, Sara Besharati and Gregoire Winterstein
+      "Are Language Models Capable of Detecting the Topoi in Argumentative Statements?"
+    * Kata Balogh
+      "Negation and information structure in Tree-Wrapping Grammar"
+
+
+17:30-18:30:
+    * Takanobu Nakamura
+      "Cumulative questions and structured witnesses"
+    * Philippe de Groote, Maxime Guillaume, Agathe Helman, Sylvain Pogodalla and Raphael Salmon
+      "Extending Abstract Categorial Grammars with Feature Structures: Theory and Practice"
+
+
+18:30-18:40:Closing remark
+
+
+
+Alternates
+----------
+    * Eri Tanaka and Kenta Mizutani
+      "The Semantics of Ordinals in Superlatives in Japanese"
+    * Hitomi Yanaka
+      "Compositional Account of Event Quantification in Dependent Type Semantics"
+    * Katsuhiko Yabushita, Tomoshige Miyaguchi and Takahiro Tamura
+      "On the Presence of the Word jo-i 'female-doctor' and the Absence of the Counterpart *dan-i 'male-doctor' in Japanese: Another Case for the Trade-Off Model"
+    * Kohei Kajikawa
+      "Analyzing Japanese Cleft Construction in Combinatory Categorial Grammar"
+    * Daiki Matsumoto
+      "Making Commitment Explicit: Case Study from the Japanese Discourse Particle Ne in Interrogatives"
 
 
 

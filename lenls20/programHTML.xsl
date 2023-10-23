@@ -168,8 +168,9 @@ h4 {
 <tr><td>
   Venue(s): 
     <ul>
-  <xsl:for-each select="//site">
-  <li><table border="0" cellspacing="0" cellpadding="">
+  <xsl:for-each select="site">
+  <li>
+    <table border="0" cellspacing="0" cellpadding="">
     <tr><td><xsl:value-of select="name" /></td></tr>
     <tr><td><xsl:value-of select="address" /></td></tr>
     <tr><td>
@@ -179,7 +180,8 @@ h4 {
       </a>
       <br />
       </td></tr>
-  </table></li>
+    </table>
+  </li>
   </xsl:for-each>
     </ul>
 </td></tr>
@@ -210,7 +212,7 @@ Co-chairs:
   </ul>
   </td></tr>
 <tr><td>
-Invited Speakers: 
+Invited Speaker(s): 
   <ul>
   <xsl:for-each select="//invitedspeaker">
     <li><xsl:value-of select="@name" /> (<xsl:value-of select="@affiliation" />)</li>
@@ -284,12 +286,20 @@ Invited Speakers:
 <xsl:template match="registration">
 <a name="registration" />
 <h2>Registration:</h2>
-  <p><xsl:value-of select="." /></p>
+  <p><xsl:value-of select="description1" /></p>
   <a>
-    <xsl:attribute name="href"><xsl:value-of select="@site" /></xsl:attribute>
-    <xsl:value-of select="@site" />
+    <xsl:attribute name="href"><xsl:value-of select="site" /></xsl:attribute>
+    <xsl:value-of select="site" />
   </a>
-  <p>Deadline: <xsl:value-of select="@deadline" /></p>
+  <p><xsl:value-of select="description2" /></p>
+  <table>
+  <xsl:for-each select="fee">
+    <tr>
+      <td><xsl:value-of select="@type" /></td>
+      <td><b><xsl:value-of select="@price" /></b></td>
+    </tr>
+  </xsl:for-each>
+  </table>
 </xsl:template>
 
 <xsl:template match="tutorial">
@@ -431,8 +441,16 @@ Invited Speakers:
   </xsl:template>
 
 <xsl:template match="talk">
-  <li><xsl:value-of select="@author" /></li>
-    "<xsl:value-of select="@title" />"
+  <li>
+    <xsl:choose>
+      <xsl:when test="@format='online'">
+        <b>[online]</b>
+        <xsl:text disable-output-escaping="yes">&amp;nbsp;</xsl:text>
+      </xsl:when>
+    </xsl:choose>
+    <xsl:value-of select="@author" />
+  </li>
+  "<xsl:value-of select="@title" />"
   </xsl:template>
 
 <xsl:template match="invitedtalk">
