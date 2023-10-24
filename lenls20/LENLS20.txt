@@ -96,10 +96,10 @@ Program:
 
 
 13:30-15:00: 
-    * Linmin Zhang
-      "An Inquisitive-Semantics perspective on NPI licensing: the cases of only and any more"
     * Roussanka Loukanova
       "Semantics of Propositional Attitudes in Type-Theory of Algorithms"
+    * Linmin Zhang
+      "An Inquisitive-Semantics perspective on NPI licensing: the cases of only and any more"
     * Camilo Rodriguez Ronderos, Emma Mathisen, Ira Noveck and Ingrid Lossius Falkum
       "When children are more pragmatic than adults: Norwegian children’s comprehension of contextualized absolute adjectives"
 
