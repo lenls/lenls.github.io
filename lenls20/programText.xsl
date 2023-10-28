@@ -9,7 +9,7 @@
 <xsl:template match="workshop">（重複して受け取られた場合はご容赦ください）
 
 今年の<xsl:value-of select="@month" />に<xsl:value-of select="@place" />で開催される <xsl:value-of select="//short" /> 
-国際ワークショップのご案内をお送り致します。皆様のご参加をお待ちし
+国際学会のご案内をお送り致します。皆様のご参加をお待ちし
 ております。
 
 戸次大介（お茶の水女子大学）
@@ -76,11 +76,17 @@ Submissions:
 ================<xsl:value-of select="." /></xsl:template>
 
 <xsl:template match="registration">Registration:
-=============<xsl:value-of select="." />
-  <xsl:value-of select="@site" />
-  Deadline: <xsl:value-of select="@deadline" />
+=============
+<xsl:value-of select="description1" />
 
+  <xsl:value-of select="site" />
 
+<xsl:value-of select="description2" />
+
+<xsl:for-each select="fee">
+  <xsl:value-of select="@type" /><xsl:value-of select="@price" />
+
+</xsl:for-each>
 </xsl:template>
 
 <xsl:template match="studentsession">

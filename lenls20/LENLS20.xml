@@ -3,7 +3,7 @@
 <workshop month="11月" place="ハイブリッド（大阪＆オンライン）">
 
 <summary>
-  <title>CALL FOR PAPER</title>
+  <title>CALL FOR PARTICIPATINO</title>
   <FstLine>the 20th International Workshop of</FstLine>
   <SndLine>Logic and Engineering of</SndLine>
   <TrdLine>Natural Language Semantics 20</TrdLine>
@@ -37,7 +37,6 @@ including but not limited to the following:</p>
 
 <p>LENLS20 is scheduled to take place in a in-person format (with a physical presence in Osaka), 
 but with a limited option for a virtual presence via zoom. </p></description>
-
 <!--submission>
 Authors are required to choose from one of the following two submission categories: 
 <category>Abstract Only</category> and <category>Abstract+Full Paper</category>.  For both categories, authors must submit abstracts 
@@ -176,9 +175,9 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 <alternates>
   <talk author="Eri Tanaka and Kenta Mizutani" title="The Semantics of Ordinals in Superlatives in Japanese" number="31" cat="alternate" format="inperson" pages="" />
   <talk author="Hitomi Yanaka" title="Compositional Account of Event Quantification in Dependent Type Semantics" number="3" cat="alternate" format="inperson" pages="" />
-  <talk author="Katsuhiko Yabushita, Tomoshige Miyaguchi and Takahiro Tamura" title="On the Presence of the Word jo-i 'female-doctor' and the Absence of the Counterpart *dan-i 'male-doctor' in Japanese: Another Case for the Trade-Off Model" number="10" cat="alternate" format="inperson" pages="" />
   <talk author="Kohei Kajikawa" title="Analyzing Japanese Cleft Construction in Combinatory Categorial Grammar" number="22" cat="alternate" format="inperson" pages="" />
   <talk author="Daiki Matsumoto" title="Making Commitment Explicit: Case Study from the Japanese Discourse Particle Ne in Interrogatives" number="8" cat="alternate" format="inperson;18(or20)" pages="" />
+  <talk author="Katsuhiko Yabushita, Tomoshige Miyaguchi and Takahiro Tamura" title="On the Presence of the Word jo-i 'female-doctor' and the Absence of the Counterpart *dan-i 'male-doctor' in Japanese: Another Case for the Trade-Off Model" number="10" cat="alternate" format="inperson" pages="" />
 </alternates>
 
 <withdrawal />

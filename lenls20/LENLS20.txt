@@ -1,7 +1,7 @@
 （重複して受け取られた場合はご容赦ください）
 
 今年の11月にハイブリッド（大阪＆オンライン）で開催される LENLS20 
-国際ワークショップのご案内をお送り致します。皆様のご参加をお待ちし
+国際学会のご案内をお送り致します。皆様のご参加をお待ちし
 ております。
 
 戸次大介（お茶の水女子大学）
@@ -9,7 +9,7 @@
 
 [Apologies for multiple copies]
 =================================================================
-                      CALL FOR PAPER
+                      CALL FOR PARTICIPATINO
 
                   Logic and Engineering of
              Natural Language Semantics 20 (LENLS20)
@@ -47,7 +47,6 @@ LENLS20 is scheduled to take place in a in-person format (with a physical presen
 but with a limited option for a virtual presence via zoom. 
 
 
-
 Selected Papers:
 ================
 LENLS20 is held under the umbrella of The Association for Logic, Language and Information (FoLLI).  
@@ -66,19 +65,12 @@ Deadline for full papers: Dec. 15, 2023 (AoE)
 
 Registration:
 =============
-  https://forms.gle/k5LtKrLAsiSNi6ow7
-  The registration is available via the link below. 
-  
+The registration is available via the link below. https://forms.gle/k5LtKrLAsiSNi6ow7
     The registration fee will be collected on-site at the reception desk (cash only).  
     The zoom link will be shared only among the registered participants.
     The deadline for the registration with the conference dinner is Octoboer 30, 2023 (AoE).
     The deadline for the registration without the conference dinner is November 11, 2023 (AoE).
-  
-  
-  
-  
-  
-  Deadline: 
+  Registration fee for in-person participation: 3,000 yenRegistration fee for online participation: free of chargeConference dinner fee: 6,000 yen
 
 Program:
 ========
@@ -204,12 +196,12 @@ Alternates
       "The Semantics of Ordinals in Superlatives in Japanese"
     * Hitomi Yanaka
       "Compositional Account of Event Quantification in Dependent Type Semantics"
-    * Katsuhiko Yabushita, Tomoshige Miyaguchi and Takahiro Tamura
-      "On the Presence of the Word jo-i 'female-doctor' and the Absence of the Counterpart *dan-i 'male-doctor' in Japanese: Another Case for the Trade-Off Model"
     * Kohei Kajikawa
       "Analyzing Japanese Cleft Construction in Combinatory Categorial Grammar"
     * Daiki Matsumoto
       "Making Commitment Explicit: Case Study from the Japanese Discourse Particle Ne in Interrogatives"
+    * Katsuhiko Yabushita, Tomoshige Miyaguchi and Takahiro Tamura
+      "On the Presence of the Word jo-i 'female-doctor' and the Absence of the Counterpart *dan-i 'male-doctor' in Japanese: Another Case for the Trade-Off Model"
 
 
 
