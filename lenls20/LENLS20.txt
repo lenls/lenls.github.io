@@ -200,8 +200,7 @@ Alternates
       "Analyzing Japanese Cleft Construction in Combinatory Categorial Grammar"
     * Daiki Matsumoto
       "Making Commitment Explicit: Case Study from the Japanese Discourse Particle Ne in Interrogatives"
-    * Katsuhiko Yabushita, Tomoshige Miyaguchi and Takahiro Tamura
-      "On the Presence of the Word jo-i 'female-doctor' and the Absence of the Counterpart *dan-i 'male-doctor' in Japanese: Another Case for the Trade-Off Model"
+  
 
 
 
