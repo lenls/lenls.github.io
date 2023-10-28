@@ -90,6 +90,8 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 <program>
 <day date="1st Day: November 18 (Sat)">
 
+<event time="9:15-9:45" name="Coffee break" />
+
 <event time="9:45-10:00" name="Opening remark" />
 
 <session time="10:00-11:30" name="" chair="Hitomi Hirayama">
@@ -104,11 +106,15 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
   <talk author="Camilo Rodriguez Ronderos, Emma Mathisen, Ira Noveck and Ingrid Lossius Falkum" title="When children are more pragmatic than adults: Norwegian children’s comprehension of contextualized absolute adjectives" number="21" cat="short" format="" pages="" />
 </session>
 
+<event time="15:00-15:30" name="Coffee break" />
+
 <session time="15:30-17:00" name="" chair="Katsuhiko Yabushita"> 
   <talk author="Yusuke Yagi" title="Two Places Where We Need Plug-negation in Update Semantics" number="7" cat="long" format="inperson;18or19" pages="" />
   <talk author="Noritsugu Hayashi" title="Additivity in Attention Semantics" number="14" cat="long" format="inperson" pages="" />
   <talk author="Osamu Sawada" title="The Japanese negative polarity item hitotsu ‘even’: An event semantics approach" number="25" cat="short" format="inperson" pages="" />
 </session>
+
+<event time="17:00-17:30" name="Break" />
 
 <session time="17:30-18:30" name="Invited talk" chair="Elin McCready">
   <invitedtalk author="Gregoire Winterstein" title="Argumentative meaning - Semantics with a purpose" number="invited_gregoire" format="" pages="" />
@@ -116,6 +122,8 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 </day>
 
 <day date="2nd Day: November 19 (Sun)">
+
+<event time="9:30-10:00" name="Coffee break" />
 
 <session time="10:00-11:30" name="" chair="Kei Yoshimoto">
   <talk author="Satoru Suzuki" title="Additively-Semiordered-Qualitative-Conditional-Probability-Theoretic Foundations of Logic of Probabilistic Indiscriminability" number="37" cat="short" format="online?" pages="" />
@@ -129,11 +137,15 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
   <talk author="Oleg Kiselyov" title="Towards a Theory of Anaphoric Binding in Event Semantics" number="4" cat="long" format="inperson" pages="" />
 </session>
 
+<event time="15:00-15:30" name="Coffee break" />
+
 <session time="15:30-17:00" name="" chair="Koji Mineshima">
   <talk author="Daiki Matsuoka, Daisuke Bekki and Hitomi Yanaka" title="Appositive Projection as Implicit Context Extension in Dependent Type Semantics" number="17" cat="long" format="inperson" pages="" />
   <talk author="Hayate Funakura" title="Focus Representation and Backward Underspecication in Dependent Type Semantics" number="19" cat="short" format="inperson" pages="" />
   <talk author="Haruka Fukushima, Daniel Plesniak and Daisuke Bekki" title="Matrix and Relative Weak Crossover on the Level of the Individual: A Proposed Experimental Investigation" number="28" cat="long" format="inperson" pages="" />
 </session>
+
+<event time="17:00-17:30" name="Break" />
 
 <session time="17:30-18:30" name="" chair="Alastair Butler">
   <talk author="Daisuke Bekki" title="A Proof-theoretic Analysis of VP Ellipsis in Dependent Type Semantics" number="12" cat="short" format="inperson" pages="" />
@@ -144,6 +156,8 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 </day>
 
 <day date="3rd Day: November 20 (Mon)">
+
+<event time="9:30-10:00" name="Coffee break" />
 
 <session time="10:00-11:30" name="" chair="Yoshiki Mori">
   <talk author="Alastair Butler" title="Dot-to-dot semantic representation" number="23" cat="long" format="inperson" pages="" />
@@ -157,11 +171,15 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
   <talk author="Stergios Chatzikyriakidis and Giorgos Spathas" title="A unified analysis of the semantics and pragmatics of Greek polydefinites" number="45" cat="long" format="online" pages="" />
 </session>
 
+<event time="15:00-15:30" name="Coffee break" />
+
 <session time="15:30-17:00" name="" chair="Eri Tanaka">
   <talk author="Simon Vonlanthen" title="Use, Compositionality and Prior's Puzzle" number="32" cat="short" format="online" pages="" />
   <talk author="Seyed Habib Hosseini Saravani, Sara Besharati and Gregoire Winterstein" title="Are Language Models Capable of Detecting the Topoi in Argumentative Statements?" number="18" cat="short" format="inperson;20" pages="" />
   <talk author="Kata Balogh" title="Negation and information structure in Tree-Wrapping Grammar" number="15" cat="long" format="inperson" pages="" />
 </session>
+
+<event time="17:00-17:30" name="Break" />
 
 <session time="17:30-18:30" name="" chair="Elin McCready">
   <talk author="Takanobu Nakamura" title="Cumulative questions and structured witnesses" number="46" cat="long" format="inperson;afternoon19or20" pages="" />
