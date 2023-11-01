@@ -1,5 +1,6 @@
 #/usr/sh
 XSLT=xsltproc
+TEX="platex -kanji=utf8"
 NAME=LENLS20
 $XSLT programText.xsl $NAME.xml | sed 1d > $NAME.txt
 $XSLT programHTML.xsl $NAME.xml > $NAME.html

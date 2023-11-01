@@ -17,7 +17,7 @@
 Workshop Site : Osaka University Nakanoshima Center + Online
                     　Nakanoshima 4-3-53, Kita-ku, Osaka (zip:530-0005)
                     　https://www.onc.osaka-u.ac.jp/
-Dates         : November 18(Sat)-20(Mon), 2023
+Dates         : November 18(Sat)--20(Mon), 2023
 Contact Person: Elin McCready (Aoyama Gakuin University)
 Contact Email : lenls20[[at]]easychair.org
 Website       : https://lenls.github.io/lenls20/
@@ -56,8 +56,6 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 
 Important dates:
 ================
-Deadline for the revised abstract: Oct. 29, 2023 (AoE)
-Deadline for registration with the conference dinner: Oct. 30, 2023 (AoE)
 Deadline for registration without the conference dinner: Nov. 11, 2023 (AoE)
 LENLS20: Nov. 18-20, 2023
 Deadline for full papers: Dec. 15, 2023 (AoE)
@@ -92,21 +90,21 @@ Program:
 13:30-15:00: 
     * Roussanka Loukanova
       "Semantics of Propositional Attitudes in Type-Theory of Algorithms"
+    * Camilo Rodriguez Ronderos, Emma Mathisen, Ira Noveck and Ingrid Lossius Falkum
+      "When children are more pragmatic than adults: Norwegian children's comprehension of contextualized absolute adjectives"
     * Linmin Zhang
       "An Inquisitive-Semantics perspective on NPI licensing: the cases of only and any more"
-    * Camilo Rodriguez Ronderos, Emma Mathisen, Ira Noveck and Ingrid Lossius Falkum
-      "When children are more pragmatic than adults: Norwegian children’s comprehension of contextualized absolute adjectives"
 
 
 15:00-15:30:Coffee break
 
 15:30-17:00: 
+    * Shao-Yu Huang and I-Ta Hsieh
+      "On the Ye/Haishi alternation in Mandarin Concessive Conditionals"
     * Yusuke Yagi
       "Two Places Where We Need Plug-negation in Update Semantics"
-    * Noritsugu Hayashi
-      "Additivity in Attention Semantics"
     * Osamu Sawada
-      "The Japanese negative polarity item hitotsu ‘even’: An event semantics approach"
+      "The Japanese negative polarity item hitotsu `even': An event semantics approach"
 
 
 17:00-17:30:Break
@@ -124,10 +122,10 @@ Program:
 10:00-11:30:
     * Satoru Suzuki
       "Additively-Semiordered-Qualitative-Conditional-Probability-Theoretic Foundations of Logic of Probabilistic Indiscriminability"
+    * Noritsugu Hayashi
+      "Additivity in Attention Semantics"
     * Ka-Fat Chow
       "Internal Reading and Reciprocity"
-    * Shao-Yu Huang and I-Ta Hsieh
-      "On the Ye/Haishi alternation in Mandarin Concessive Conditionals"
 
 
 13:30-15:00:
@@ -210,8 +208,6 @@ Program:
 
 Alternates
 ----------
-    * Eri Tanaka and Kenta Mizutani
-      "The Semantics of Ordinals in Superlatives in Japanese"
     * Hitomi Yanaka
       "Compositional Account of Event Quantification in Dependent Type Semantics"
     * Kohei Kajikawa
@@ -219,13 +215,14 @@ Alternates
     * Daiki Matsumoto
       "Making Commitment Explicit: Case Study from the Japanese Discourse Particle Ne in Interrogatives"
   
+  
 
 
 
 
 Sponsor:
 ========
-LENLS is being organized by an alliance of "AI systems that can explain by language based on knowledge and reasoning (https://www.jst.go.jp/kisoken/crest/en/project/1111109/1111109_2020.html)" project (Grant Number JPMJCR20D2), funded by JST CREST Programs "Core technologies for trusted quality AI systems (https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2020-4.html)."  LENLS 20 is co-organized by Graduate School of Humanities, Osaka University.
+LENLS is being organized by an alliance of ``AI systems that can explain by language based on knowledge and reasoning (https://www.jst.go.jp/kisoken/crest/en/project/1111109/1111109_2020.html)'' project (Grant Number JPMJCR20D2), funded by JST CREST Programs ``Core technologies for trusted quality AI systems (https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2020-4.html).''  LENLS 20 is co-organized by Graduate School of Humanities, Osaka University.
 
 
 Code of Conduct:

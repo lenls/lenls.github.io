@@ -18,26 +18,42 @@
 \pagestyle{empty}
 
 \vspace*{1cm}
-\begin{Large}
+
 \begin{center}
-{\bf Proceedings of <xsl:value-of select="//FstLine" /> \\
-     <xsl:value-of select="//SndLine" /><xsl:text disable-output-escaping="yes">&#x20;</xsl:text>\\<xsl:value-of select="//TrdLine" /> (<xsl:value-of select="//short" />)}
-\end{center}
-\end{Large}
+
+\begin{Large}
+{\bf Proceedings of <xsl:value-of select="//FstLine" />}
+\end{Large} 
+\\
+\begin{huge}
+{\bf <xsl:value-of select="//SndLine" /> \\
+%<xsl:text disable-output-escaping="yes">&#x20;</xsl:text>\\
+<xsl:value-of select="//TrdLine" />} 
+\end{huge}
+\\\ \\
+\begin{huge}
+{\bf (<xsl:value-of select="//short" />)}
+\end{huge}
+
 \vspace*{1cm}
+
 \begin{Large}
-\begin{center}
-{\em hosted by <xsl:value-of select="//host" />}
-\end{center}
+{\em hosted by \\\ \\ <xsl:value-of select="//host" />}
 \end{Large}
+
 \begin{large}
 \vspace*{1cm}
-\begin{center}
 Workshop Chair\\ $\;$\\
-<xsl:value-of select="//pcmember[@role='chair']/@name" /> (<xsl:value-of select="//pcmember[@role='chair']/@affiliation" />)
-\end{center}
+<xsl:value-of select="//pcmember[@role='chair']/@name" /> (<xsl:value-of select="//pcmember[@role='chair']/@affiliation" />) \\
+\ \\
+Workshop Co-chairs\\ $\;$\\
+<xsl:for-each select="//pcmember[@role='cochair']">
+  <xsl:value-of select="@name" /> (<xsl:value-of select="@affiliation" />) \\
+</xsl:for-each>
 \end{large}
+
 \vspace*{3cm}
+
 %\begin{center}
 %\ifpdf{
 %\centerline{
@@ -52,16 +68,18 @@ Workshop Chair\\ $\;$\\
 %}
 %}
 %\end{center}
+
 \vspace*{1cm}
+
 \begin{large}
-\begin{center}
 <xsl:for-each select="//site">
   <xsl:value-of select="name" />, \\
 </xsl:for-each>
 <xsl:value-of select="//conferencedate" />
-\end{center}
 \end{large}
 \vfill
+
+\end{center}
 
 \newpage
 
@@ -78,9 +96,7 @@ Workshop Chair\\ $\;$\\
 \newpage
 \section*{Preface}
 %%%%%%%%%%%%%%%%%%
-<xsl:value-of select="//description1" />
-
-This proceedings volume contains selected and invited papers on topics in formal semantics, formal pragmatics, and related fields, including the following:
+This online proceedings volume contains selected and invited papers on topics in the inter-disciplinary fields of linguistics, logic, computation, and philosophy, including the following:
 \begin{itemize}<xsl:for-each select="//topic">
 \item[$\maltese$] <xsl:value-of select="text()" />
 </xsl:for-each>
@@ -136,7 +152,7 @@ This proceedings volume contains selected and invited papers on topics in formal
 <xsl:when test="@pages!=''">
 \talk{<xsl:value-of select="@author" />}
      {<xsl:value-of select="@title" />}
-     {p.<xsl:value-of select="@pages" />}</xsl:when>
+     {page <xsl:value-of select="@pages" />}</xsl:when>
 <xsl:otherwise>
 \talk{<xsl:value-of select="@author" />}
       {<xsl:value-of select="@title" />}
@@ -149,7 +165,7 @@ This proceedings volume contains selected and invited papers on topics in formal
 <xsl:when test="@pages!=''">
 \talk{<xsl:value-of select="@author" />}
      {<xsl:value-of select="@title" />}
-     {p.<xsl:value-of select="@pages" />}</xsl:when>
+     {page <xsl:value-of select="@pages" />}</xsl:when>
 <xsl:otherwise>
 \talkk{<xsl:value-of select="@author" />}
       {<xsl:value-of select="@title" />}

@@ -10,17 +10,17 @@ $frompage = 0; # 前の論文の終了ページ
 $topage = 0;     # この論文の終了ページ
 
 while(<>){
-  if(/(\s+)(page(\d+))/){
+  if(/(\s+)\{page (\d+)\}/){
     if($2 == 0){
       print TMP $1,"{}\n";
       } elsif($2 == 1){
       $frompage = $topage + 1;
       $topage = $topage + $2;
-      print TMP $1,"{",$frompage,"}\n";
+      print TMP $1,"{p.",$frompage,"}\n";
       } else{
       $frompage = $topage + 1;
       $topage = $topage + $2;
-      print TMP $1,"{",$frompage,"--",$topage,"}\n";
+      print TMP $1,"{pp.",$frompage,"--",$topage,"}\n";
       }
     }
   else{

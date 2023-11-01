@@ -448,6 +448,12 @@ Invited Speaker(s):
         <xsl:text disable-output-escaping="yes">&amp;nbsp;</xsl:text>
       </xsl:when>
     </xsl:choose>
+    <xsl:choose>
+      <xsl:when test="@exabst='none'">
+        <b><span style='color:red'>[No abstract]</span></b>
+        <xsl:text disable-output-escaping="yes">&amp;nbsp;</xsl:text>
+      </xsl:when>
+    </xsl:choose>
     <xsl:value-of select="@author" />
   </li>
   "<xsl:value-of select="@title" />"
