@@ -151,8 +151,8 @@ Program:
 17:00-17:30:Break
 
 17:30-18:30:
-    * Daisuke Bekki
-      "A Proof-theoretic Analysis of VP Ellipsis in Dependent Type Semantics"
+    * Kohei Kajikawa
+      "Analyzing Japanese Cleft Construction in Combinatory Categorial Grammar"
     * Philippe de Groote
       "On the semantics of dependencies: relative clauses and open clausal complements"
 
@@ -205,19 +205,19 @@ Program:
 18:30-18:40:Closing remark
 
 
-
 Alternates
 ----------
     * Hitomi Yanaka
       "Compositional Account of Event Quantification in Dependent Type Semantics"
-    * Kohei Kajikawa
-      "Analyzing Japanese Cleft Construction in Combinatory Categorial Grammar"
     * Daiki Matsumoto
       "Making Commitment Explicit: Case Study from the Japanese Discourse Particle Ne in Interrogatives"
-  
-  
 
 
+
+
+  
+  
+  
 
 
 Sponsor:

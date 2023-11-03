@@ -4,11 +4,11 @@
 
 <xsl:template match="/">
 \documentclass[12pt]{jarticle}
-\usepackage[dvips, twoside, bindingoffset=0.4cm, paper=a4paper, hmargin=1.8cm, top=3cm, bottom=1.5cm]{geometry}
+\usepackage[dvips, twoside, bindingoffset=0.4cm, paper=a4paper, hmargin=1.5cm, top=3cm, bottom=1.5cm]{geometry}
 \usepackage[psamsfonts]{amssymb}
 \usepackage[dvips]{graphicx}
 
-\setlength{\textheight}{24.45cm}
+\setlength{\textheight}{25cm}
 \setlength{\textwidth}{17.0cm}
 \setlength{\evensidemargin}{-0.5cm}
 \setlength{\oddsidemargin}{-0.5cm}
@@ -174,7 +174,7 @@ This online proceedings volume contains selected and invited papers on topics in
 </xsl:template>
 
 <xsl:template match="alternates">
-\noindent\textbf{Alternates}\\
+\noindent \underline{\textbf{Alternates}}\\
 <xsl:apply-templates /></xsl:template>
 
 <xsl:template match="bar">\ensuremath{\|}</xsl:template>

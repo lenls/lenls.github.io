@@ -117,7 +117,7 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 <event time="17:00-17:30" name="Break" />
 
 <session time="17:30-18:30" name="Invited talk" chair="Elin McCready">
-  <invitedtalk author="Gregoire Winterstein" title="Argumentative meaning - Semantics with a purpose" number="invited_gregoire" format="" exabst="none" pages="" />
+  <invitedtalk author="Gregoire Winterstein" title="Argumentative meaning - Semantics with a purpose" number="invited_gregoire" format="" exabst="submitted" pages="3" />
 </session>
 </day>
 
@@ -148,7 +148,7 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 <event time="17:00-17:30" name="Break" />
 
 <session time="17:30-18:30" name="" chair="Alastair Butler">
-  <talk author="Daisuke Bekki" title="A Proof-theoretic Analysis of VP Ellipsis in Dependent Type Semantics" number="12" cat="short" format="inperson" exabst="submitted" pages="6" />
+  <talk author="Kohei Kajikawa" title="Analyzing Japanese Cleft Construction in Combinatory Categorial Grammar" number="22" cat="alternate" format="inperson" exabst="submitted" pages="5" />
   <talk author="Philippe de Groote" title="On the semantics of dependencies: relative clauses and open clausal complements" number="42" cat="long" format="inperson" exabst="submitted" pages="6" />
 </session>
 
@@ -188,17 +188,18 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 
 <event time="18:30-18:40" name="Closing remark" />
 </day>
-</program>
 
 <alternates>
   <talk author="Hitomi Yanaka" title="Compositional Account of Event Quantification in Dependent Type Semantics" number="3" cat="alternate" format="inperson" exabst="submitted" pages="5" />
-  <talk author="Kohei Kajikawa" title="Analyzing Japanese Cleft Construction in Combinatory Categorial Grammar" number="22" cat="alternate" format="inperson" exabst="submitted" pages="5" />
   <talk author="Daiki Matsumoto" title="Making Commitment Explicit: Case Study from the Japanese Discourse Particle Ne in Interrogatives" number="8" cat="alternate" format="inperson;18(or20)" exabst="submitted" pages="6" />
+</alternates>
+</program>
+
+<withdrawal>
+  <!--talk author="Daisuke Bekki" title="A Proof-theoretic Analysis of VP Ellipsis in Dependent Type Semantics" number="12" cat="short" format="inperson" exabst="submitted" pages="6" /-->
   <!--talk author="Eri Tanaka and Kenta Mizutani" title="The Semantics of Ordinals in Superlatives in Japanese" number="31" cat="alternate" format="inperson" exabst="none" pages="" /-->
   <!--talk author="Katsuhiko Yabushita, Tomoshige Miyaguchi and Takahiro Tamura" title="On the Presence of the Word jo-i 'female-doctor' and the Absence of the Counterpart *dan-i 'male-doctor' in Japanese: Another Case for the Trade-Off Model" number="10" cat="alternate" format="inperson" exabst="submitted" pages="" /-->
-</alternates>
-
-<withdrawal />
+</withdrawal>
 
 <sponsor>
 LENLS is being organized by an alliance of ``<host url="https://www.jst.go.jp/kisoken/crest/en/project/1111109/1111109_2020.html">AI systems that can explain by language based on knowledge and reasoning</host>'' project (Grant Number JPMJCR20D2), funded by JST CREST Programs ``<host url="https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2020-4.html">Core technologies for trusted quality AI systems</host>.''  LENLS 20 is co-organized by Graduate School of Humanities, Osaka University.
