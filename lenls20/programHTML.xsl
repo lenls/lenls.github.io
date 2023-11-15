@@ -385,6 +385,16 @@ Invited Speaker(s):
 </ul>
 </xsl:template>
 
+<xsl:template match="lunchmap">
+  <a name="lunchmap" />
+  <h2>Lunch Map: </h2>
+  <a>
+  <xsl:attribute name="href">
+    <xsl:value-of select="@url" />
+  </xsl:attribute><xsl:value-of select="@url" />
+  </a>
+  </xsl:template>
+
 <xsl:template match="onlineproceedings">
   <a name="onlineproceedings" />
   <h2>Online Proceedings</h2>
