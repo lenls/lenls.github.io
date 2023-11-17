@@ -17,7 +17,7 @@
 Workshop Site : Osaka University Nakanoshima Center, 7th Floor, the room 7C,7D (+ Online)
                     　Nakanoshima 4-3-53, Kita-ku, Osaka (zip:530-0005)
                     　https://www.onc.osaka-u.ac.jp/
-Dates         : November 18(Sat)--20(Mon), 2023
+Dates         : November 18(Sat)-20(Mon), 2023
 Contact Person: Elin McCready (Aoyama Gakuin University)
 Contact Email : lenls20[[at]]easychair.org
 Website       : https://lenls.github.io/lenls20/
