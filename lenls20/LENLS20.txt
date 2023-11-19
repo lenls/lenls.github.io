@@ -174,8 +174,8 @@ Program:
 
 
 13:30-15:00:
-    * Kristina Liefke
-      "Perspective and the Self in Experiential Attitude Reports"
+    * Kata Balogh
+      "Negation and information structure in Tree-Wrapping Grammar"
     * Julie Goncharov
       "Actions and beliefs"
     * Stergios Chatzikyriakidis and Giorgos Spathas
@@ -189,8 +189,8 @@ Program:
       "Use, Compositionality and Prior's Puzzle"
     * Seyed Habib Hosseini Saravani, Sara Besharati and Gregoire Winterstein
       "Are Language Models Capable of Detecting the Topoi in Argumentative Statements?"
-    * Kata Balogh
-      "Negation and information structure in Tree-Wrapping Grammar"
+    * Kristina Liefke
+      "Perspective and the Self in Experiential Attitude Reports"
 
 
 17:00-17:30:Break
