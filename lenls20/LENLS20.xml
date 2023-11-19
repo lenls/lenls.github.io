@@ -141,7 +141,7 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 <event time="15:00-15:30" name="Coffee break" />
 
 <session time="15:30-17:00" name="" chair="Koji Mineshima">
-  <talk author="Daiki Matsuoka, Daisuke Bekki and Hitomi Yanaka" title="Appositive Projection as Implicit Context Extension in Dependent Type Semantics" number="17" cat="long" format="inperson" exabst="submitted" pages="6" />
+  <talk author="Daiki Matsuoka, Daisuke Bekki and Hitomi Yanaka" title="Appositive Projection as Implicit Context Extension in Dependent Type Semantics" number="17" cat="long" format="online" exabst="submitted" pages="6" />
   <talk author="Hayate Funakura" title="Focus Representation and Backward Underspecication in Dependent Type Semantics" number="19" cat="short" format="inperson" exabst="submitted" pages="5" />
   <talk author="Haruka Fukushima, Daniel Plesniak and Daisuke Bekki" title="Matrix and Relative Weak Crossover on the Level of the Individual: A Proposed Experimental Investigation" number="28" cat="long" format="inperson" exabst="submitted" pages="6" />
 </session>
