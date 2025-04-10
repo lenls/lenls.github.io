@@ -1,0 +1,9 @@
+#/usr/sh
+XSLT=xsltproc
+TEX="platex -kanji=utf8"
+NAME=LENLS20
+
+$XSLT programTeX.xsl $NAME.xml | sed 1d | ./pagenumber.pl > $NAME.tex
+$TEX $NAME.tex
+dvipsk -D1200 -t a5paper -Ppdf -G0 -f -z $NAME | bkmk2uni > $NAME.ps
+pwd | xargs -n 1 cygpath -m | xargs -I {} "/cygdrive/c/Program Files (x86)/Adobe/Acrobat 9.0/Acrobat/acrodist.exe" /F {}/$NAME.ps &

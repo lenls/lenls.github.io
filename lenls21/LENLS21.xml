@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE workshop>
+<workshop month="11月" place="ハイブリッド（名古屋＆オンライン）">
+
+<summary>
+  <title>CALL FOR PAPER</title>
+  <FstLine>the 21th International Workshop of</FstLine>
+  <SndLine>Logic and Engineering of</SndLine>
+  <TrdLine>Natural Language Semantics</TrdLine>
+  <short>LENLS21</short>
+  <site>
+    <name>Nagoya University + Online</name>
+    <!--address>Nakanoshima 4-3-53, Kita-ku, Osaka (zip:530-0005)</address-->
+    <url>https://en.nagoya-u.ac.jp/</url>
+  </site>
+  <conferencedate>November 28(Fri)-30(Sun), 2025</conferencedate>
+  <email>lenls21[[at]]easychair.org</email>
+  <website>https://lenls.github.io/lenls21/</website>
+  <isbn></isbn>
+
+  <invitedspeaker name="TBA" affiliation="TBA" />
+</summary>
+
+<description>
+<p>LENLS is an annual international conference on formal linguistics (i.e., syntax, semantics 
+and pragmatics), computational linguistics, the philosophy of language, and related fields, 
+including but not limited to the following:</p>
+<topics>
+<topic>Formal syntax, semantics and pragmatics of natural language</topic>
+<topic>Model-theoretic and/or proof-theoretic semantics of natural language</topic>
+<topic>Computational approaches to semantics and pragmatics</topic>
+<topic>Nonclassical logic and its relation to natural language 
+  (e.g. substructural, fuzzy, categorical, and topological logic)</topic>
+<topic>Formal philosophy of language</topic>
+<topic>Scientific methodology and/or experimental design in linguistics</topic>
+</topics>
+
+<p>LENLS21 is scheduled to take place in a in-person format (with a physical presence in Nagoya), 
+but with a limited option for a virtual presence via zoom. </p></description>
+
+<submission>
+Authors are required to choose from one of the following two submission categories: 
+<category>Abstract Only</category> and <category>Abstract+Full Paper</category>.  For both categories, authors must submit abstracts 
+(anonymous, up to 4 pages including figures and references, A4 size, 12-point font) 
+on original, unpublished research.  Abstracts must be submitted electronically in PDF at:
+
+<url>https://easychair.org/conferences/?conf=lenls21</url>
+
+<p>Upon acceptance, authors (both categories) are expected to submit extended abstracts 
+(up to 5 pages) before the workshop.  Note that abstracts submitted to the <category>Abstract+Full Paper</category> 
+category may be accepted in the <category>Abstract Only</category> category (but not vice versa).  
+The proceedings of the workshop will be made available online, including extended abstracts 
+(both categories).</p>
+
+<p>Authors submitting to the <category>Abstract+Full Paper</category> category are required to submit a full paper 
+(up to 15 pages) for the post-proceedings volume after the conference and must agree to review 
+at least one other full paper.</p>
+</submission>
+
+<!--selectedpaper>
+LENLS21 is held under the umbrella of <host url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</host>.  
+The collection of full papers will be published in the Lecture Notes in Computer Science (LNCS) 
+series, in accordance with the contract between Springer Nature Switzerland AG and FoLLI.
+</selectedpaper-->
+
+<importantdates>
+<importantdate name="Abstract submission deadline"     date="Aug. 31, 2025" />
+<importantdate name="Notification of acceptance"       date="Oct. 1, 2025" />
+<importantdate name="Deadline for early registration"  date="Oct. 20, 2025" />
+<importantdate name="Deadline for the revised abstract" date="Nov. 10, 2025" />
+<importantdate name="LENLS20"                          date="Nov. 28-30, 2025" />
+<importantdate name="Deadline for full papers"         date="Dec. 15, 2025" />
+</importantdates><!--registration
+  site="https://forms.gle/WgmYvoqv42CSJSWK7"
+  deadline="November 15, 2023 23:59 (JST)">
+  The registration for on-site participation is closed due to the limited number of participants at the venue. Only the registration for virtual participation is available via the link below. The zoom link will be shared only among the registered participants.
+  </registration--><!--onlineproceedings url="https://lenls.github.io/lenls19/LENLS19OnlineProceedings.pdf" /-->
+
+<sponsor>
+LENLS is being organized by an alliance of "<host url="https://www.jst.go.jp/kisoken/crest/en/project/1111109/1111109_2020.html">AI systems that can explain by language based on knowledge and reasoning</host>" project (Grant Number JPMJCR20D2), funded by JST CREST Programs "<host url="https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2020-4.html">Core technologies for trusted quality AI systems</host>."  LENLS 20 is co-organized by Nagoya University.
+</sponsor>
+
+<code>
+<cp>All attendees, speakers, sponsors and volunteers at our conference are required to adhire to the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everyone.</cp>
+<ct>The Quick Version</ct>
+<cp>The organizers are dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, and social media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the organisers.</cp>
+<ct>The Less Quick Version</ct>
+<cp>Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, and religion (or lack thereof), as well as sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.</cp>
+<cp>Participants asked to stop harassing behavior are expected to comply immediately.</cp>
+<cp>If a participant engages in harassing behavior, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference without a refund.</cp>
+<cp>If you experience harassment, notice that someone else is being harassed, or have any other concerns, please contact the following conference staff members immediately: Elin McCready and Daisuke Bekki</cp>
+<cp>THe conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.</cp>
+<cp>We expect participants to follow these rules at conference and workshop venues as well as conference-related social events.</cp>
+</code>
+
+<pcmembers>
+  <pcmember name="David Y. Oshima"     affiliation="Nagoya University"             role="chair" />
+  <pcmember name="Daisuke Bekki"       affiliation="Ochanomizu University"         role="cochair" />
+  <pcmember name="Koji Mineshima"      affiliation="Keio University"               role="cochair" />
+  <!--pcmember name="Alastair Butler"     affiliation="Hirosaki University" />
+  <pcmember name="Naoya Fujikawa"      affiliation="University of Tokyo" />
+  <pcmember name="Hitomi Hirayama"     affiliation="Keio University" />
+  <pcmember name="Magdalena Kaufmann"  affiliation="University of Connecticut" />
+  <pcmember name="Elin McCready"       affiliation="Aoyama Gakuin University" />
+  <pcmember name="Yoshiki Mori"        affiliation="University of Tokyo" />
+  <pcmember name="Katsuhiko Sano"      affiliation="Hokkaido University" />
+  <pcmember name="Osamu Sawada"        affiliation="Kobe University" />
+  <pcmember name="Eri Tanaka"          affiliation="Osaka University" />
+  <pcmember name="Wataru Uegaki"       affiliation="University of Edinburgh" />
+  <pcmember name="Katsuhiko Yabushita" affiliation="Naruto University of Education" />
+  <pcmember name="Kei Yoshimoto"       affiliation="Tohoku University" /-->
+  <!--pcmember name="Richard Dietz"       affiliation="University of Tokyo" /-->
+  <!--pcmember name="Patrick D. Elliott"  affiliation="Heinrich-Heine University of Dusseldorf" /-->
+  <!--pcmember name="Yurie Hara"          affiliation="Hokkaido University" /-->
+  <!--pcmember name="Robert Henderson"    affiliation="University of Arizona" /-->
+  <!--pcmember name="Kristina Liefke"     affiliation="Ruhr University Bochum" /-->
+  <!--pcmember name="Shunsuke Yatabe"     affiliation="Ochanomizu University" /-->
+</pcmembers>
+<localorganizers>
+  <localorganizer name="David Y. Oshima" affiliation="Nagoya University" />
+</localorganizers>
+</workshop>

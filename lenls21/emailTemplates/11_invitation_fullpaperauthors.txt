@@ -1,0 +1,73 @@
+We will publish the LENLS20 post-proceedings volume in the Lecture Notes in Computer Science (LNCS) series in accordance with the contract between Springer Nature Switzerland AG and The Association for Logic, Language and Information (FoLLI).  This email is both an instruction to the authors and an invitation to the reviewers of the volume.
+
+Schedule
+========
+Here are some important dates for the production of the volume:
+
+Deadline of the full paper: December 20 (AoE), 2023
+Paper bidding: December 21-24, 2023
+Review period: December 25, 2023 - February 10 (AoE), 2024
+Deadline of the camera-ready version: March 10 (AoE), 2024
+
+I will send you detailed instructions on submitting the camera-ready version later.
+
+Reviewing Round
+===============
+Recall that each author group has already agreed to provide one or more reviewers for the volume.  This email is sent to all corresponding authors in each group, but only one reviewer per group is required to accept the invitation, and a maximum of one review per group is requested.  Someone other than the corresponding author may do the review; please use Easychair's subreviewer system.
+
+Paper Format
+============
+The full paper is up to 16 pages including figures and appendices (excluding acknowledgment and references).  Please use the Springer LNCS format:
+
+https://www.dropbox.com/scl/fi/habmind5lnno6lg898z60/Springer_Instructions_for_Authors_of_Proceedings_CS_2023.pdf?rlkey=e0krh7nia2lu6bmerocpzvfbq&dl=0
+
+You will find LaTeX and Word templates at (the bottom of) the following page:
+
+https://www.springer.com/jp/authors-editors/conference-proceedings/conference-proceedings-guidelines
+
+Paper Submission
+================
+To submit your paper, please log in to the easychair site
+
+https://www.easychair.org/my/conference?conf=lenls20postproc
+
+as an "Author," select "New Submission" from the menu bar, fill in the form, and submit the paper.
+
+If you have any questions, please do not hesitate to ask me.
+
+Daisuke Bekki <bekki@is.ocha.ac.jp>
+
+
+
+
+
+
+Kristina Liefke <Kristina.Liefke@ruhr-uni-bochum.de>
+Ka-Fat Chow <kfzhouy@yahoo.com>
+Oleg Kiselyov <oleg@okmij.org>
+Roussanka Loukanova <rloukanova@gmail.com>
+Yusuke Yagi <yusuke.yagi@uconn.edu>
+Noritsugu Hayashi <ac@hayashi-lin.net>
+Kata Balogh <balogh@hhu.de>
+Daiki Matsuoka <daiki.matsuoka@is.s.u-tokyo.ac.jp>
+Daisuke Bekki <bekki@is.ocha.ac.jp>
+Hitomi Yanaka <hyanaka@is.s.u-tokyo.ac.jp>
+Ivan Rygaev <irygaev@gmail.com>
+Alastair Butler <ajb129@hotmail.com>
+Zhuang Chen <chenzhuangcq@gmail.com>
+Yael Greenberg <yaelgree@gmail.com>
+Haruka Fukushima <fukushima.haruka@is.ocha.ac.jp>
+Daniel Plesniak <plesniak@usc.edu>
+Philippe de Groote <philippe.degroote@inria.fr>
+Maxime Guillaume <mguillaume@yseop.com>
+Agathe Helman <ahelman@yseop.com>
+Sylvain Pogodalla <sylvain.pogodalla@inria.fr>
+Raphael Salmon <rsalmon@yseop.com>
+Pola Osher <poliapolina@gmail.com>
+Julie Goncharov <julie.goncharov@gmail.com>
+Lukas Rieser <lukasjrieser@gmail.com>
+Philippe de Groote <Philippe.deGroote@inria.fr>
+Kohei Kishida <kishidakohei@gmail.com>
+Stergios Chatzikyriakidis <kafouroutsos@hotmail.com>
+Giorgos Spathas <g.spathas@gmail.com>
+Takanobu Nakamura <t.nakamura@uva.nl>

@@ -1,0 +1,10 @@
+#/usr/sh
+XSLT=xsltproc
+TEX="platex -kanji=utf8"
+NAME=LENLS21
+$XSLT programText.xsl $NAME.xml | sed 1d > $NAME.txt
+$XSLT programHTML.xsl $NAME.xml > $NAME.html
+$XSLT programJSAIhtml.xsl $NAME.xml | sed 1d > $NAME.JSAI.html
+cat $NAME.html > index.html
+$XSLT programTeX.xsl $NAME.xml | sed 1d | ./pagenumber.pl > $NAME.tex
+# rm temp.tex

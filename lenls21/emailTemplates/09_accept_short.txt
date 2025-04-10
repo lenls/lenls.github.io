@@ -1,0 +1,19 @@
+Dear [*NAME*]:
+
+We are happy to inform you that the following submission for the upcoming LENLS20 has been accepted in the [Abstract Only] category by the program committee:
+
+12: A Proof-theoretic Analysis of VP Ellipsis in Dependent Type Semantics
+
+At the end of this message, you will find comments on your abstract made by the reviewers. 
+
+In a separate email, we will send you the information regarding the following:
+
+- the (unanonymized) abstract submission for the online proceedings (deadline: 29. Oct (AoE), 5-pages)
+- the conference registration (deadline: 14. Oct (AoE))
+
+We look forward to welcoming you to LENLS20.
+
+
+Best regards,
+
+LENLS20 committee
