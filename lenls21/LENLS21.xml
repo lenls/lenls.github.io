@@ -38,7 +38,7 @@ including but not limited to the following:</p>
 <p>LENLS21 is scheduled to take place in a in-person format (with a physical presence in Nagoya), 
 but with a limited option for a virtual presence via zoom. </p></description>
 
-<submission>
+<!--submission>
 Authors are required to choose from one of the following two submission categories: 
 <category>Abstract Only</category> and <category>Abstract+Full Paper</category>.  For both categories, authors must submit abstracts 
 (anonymous, up to 4 pages including figures and references, A4 size, 12-point font) 
@@ -55,7 +55,7 @@ The proceedings of the workshop will be made available online, including extende
 <p>Authors submitting to the <category>Abstract+Full Paper</category> category are required to submit a full paper 
 (up to 15 pages) for the post-proceedings volume after the conference and must agree to review 
 at least one other full paper.</p>
-</submission>
+</submission-->
 
 <!--selectedpaper>
 LENLS21 is held under the umbrella of <host url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</host>.  
@@ -66,8 +66,8 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 <importantdates>
 <importantdate name="Abstract submission deadline"     date="Aug. 31, 2025" />
 <importantdate name="Notification of acceptance"       date="Oct. 1, 2025" />
-<importantdate name="Deadline for early registration"  date="Oct. 20, 2025" />
-<importantdate name="Deadline for the revised abstract" date="Nov. 10, 2025" />
+<importantdate name="Deadline for early registration"  date="Oct. 15, 2025" />
+<importantdate name="Deadline for the revised abstract" date="Nov. 15, 2025" />
 <importantdate name="LENLS20"                          date="Nov. 28-30, 2025" />
 <importantdate name="Deadline for full papers"         date="Dec. 15, 2025" />
 </importantdates><!--registration
@@ -77,7 +77,7 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
   </registration--><!--onlineproceedings url="https://lenls.github.io/lenls19/LENLS19OnlineProceedings.pdf" /-->
 
 <sponsor>
-LENLS is being organized by an alliance of "<host url="https://www.jst.go.jp/kisoken/crest/en/project/1111109/1111109_2020.html">AI systems that can explain by language based on knowledge and reasoning</host>" project (Grant Number JPMJCR20D2), funded by JST CREST Programs "<host url="https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2020-4.html">Core technologies for trusted quality AI systems</host>."  LENLS 20 is co-organized by Nagoya University.
+LENLS is being organized by an alliance of "<host url="https://www.jst.go.jp/kisoken/crest/en/project/1111109/1111109_2020.html">AI systems that can explain by language based on knowledge and reasoning</host>" project (Grant Number JPMJCR20D2), funded by JST CREST Programs "<host url="https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2020-4.html">Core technologies for trusted quality AI systems</host>."  LENLS 21 is co-organized by Nagoya University.
 </sponsor>
 
 <code>
@@ -119,4 +119,27 @@ LENLS is being organized by an alliance of "<host url="https://www.jst.go.jp/kis
 <localorganizers>
   <localorganizer name="David Y. Oshima" affiliation="Nagoya University" />
 </localorganizers>
+
+<archives>
+  <!--archive name="LENLS1"  year="2004" website="lenls1"  proceedings="" /-->
+  <archive name="LENLS2"  year="2005" website="lenls2"  proceedings="https://link.springer.com/book/10.1007/11780496" />
+  <archive name="LENLS3"  year="2006" website="lenls3"  proceedings="https://link.springer.com/book/10.1007/978-3-540-69902-6" />
+  <archive name="LENLS4"  year="2007" website="lenls4"  proceedings="https://link.springer.com/book/10.1007/978-3-540-78197-4" />
+  <archive name="LENLS5"  year="2008" website="lenls5"  proceedings="https://link.springer.com/book/10.1007/978-3-642-00609-8" />
+  <archive name="LENLS6"  year="2009" website="lenls6"  proceedings="https://link.springer.com/book/10.1007/978-3-642-14888-0" />
+  <archive name="LENLS7"  year="2010" website="lenls7"  proceedings="https://link.springer.com/book/10.1007/978-3-642-25655-4" />
+  <archive name="LENLS8"  year="2011" website="lenls8"  proceedings="https://link.springer.com/book/10.1007/978-3-642-32090-3" />
+  <archive name="LENLS9"  year="2012" website="lenls9"  proceedings="https://link.springer.com/book/10.1007/978-3-642-39931-2" />
+  <archive name="LENLS10" year="2013" website="lenls10" proceedings="https://link.springer.com/book/10.1007/978-3-319-10061-6" />
+  <archive name="LENLS11" year="2014" website="lenls11" proceedings="https://link.springer.com/book/10.1007/978-3-662-48119-6" />
+  <archive name="LENLS12" year="2015" website="lenls12" proceedings="https://link.springer.com/book/10.1007/978-3-319-50953-2" />
+  <archive name="LENLS13" year="2016" website="lenls13" proceedings="https://link.springer.com/book/10.1007/978-3-319-61572-1" />
+  <archive name="LENLS14" year="2017" website="lenls14" proceedings="https://link.springer.com/book/10.1007/978-3-319-93794-6" />
+  <archive name="LENLS15" year="2018" website="lenls15" proceedings="https://link.springer.com/book/10.1007/978-3-030-31605-1" />
+  <archive name="LENLS16" year="2019" website="lenls16" proceedings="https://link.springer.com/book/10.1007/978-3-030-58790-1" />
+  <archive name="LENLS17" year="2020" website="lenls17" proceedings="https://link.springer.com/book/10.1007/978-3-030-79942-7" />
+  <archive name="LENLS18" year="2021" website="lenls18" proceedings="https://link.springer.com/book/10.1007/978-3-031-36190-6" />
+  <archive name="LENLS19" year="2022" website="lenls19" proceedings="https://link.springer.com/book/10.1007/978-3-031-43977-3" />
+  <archive name="LENLS20" year="2023" website="lenls20" proceedings="" />
+</archives>
 </workshop>
