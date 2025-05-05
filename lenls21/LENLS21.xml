@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE workshop>
-<workshop month="11月" place="ハイブリッド（名古屋＆オンライン）">
+<workshop month="11月" place="名古屋">
 
 <summary>
   <title>CALL FOR PAPER</title>
@@ -9,8 +9,8 @@
   <TrdLine>Natural Language Semantics</TrdLine>
   <short>LENLS21</short>
   <site>
-    <name>Nagoya University + Online</name>
-    <!--address>Nakanoshima 4-3-53, Kita-ku, Osaka (zip:530-0005)</address-->
+    <name>Nagoya University</name>
+    <!--address> (zip:)</address-->
     <url>https://en.nagoya-u.ac.jp/</url>
   </site>
   <conferencedate>November 28(Fri)-30(Sun), 2025</conferencedate>
@@ -68,7 +68,7 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 <importantdate name="Notification of acceptance"       date="Oct. 1, 2025" />
 <importantdate name="Deadline for early registration"  date="Oct. 15, 2025" />
 <importantdate name="Deadline for the revised abstract" date="Nov. 15, 2025" />
-<importantdate name="LENLS20"                          date="Nov. 28-30, 2025" />
+<importantdate name="LENLS21"                          date="Nov. 28-30, 2025" />
 <importantdate name="Deadline for full papers"         date="Dec. 15, 2025" />
 </importantdates><!--registration
   site="https://forms.gle/WgmYvoqv42CSJSWK7"
@@ -76,9 +76,11 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
   The registration for on-site participation is closed due to the limited number of participants at the venue. Only the registration for virtual participation is available via the link below. The zoom link will be shared only among the registered participants.
   </registration--><!--onlineproceedings url="https://lenls.github.io/lenls19/LENLS19OnlineProceedings.pdf" /-->
 
-<sponsor>
-LENLS is being organized by an alliance of "<host url="https://www.jst.go.jp/kisoken/crest/en/project/1111109/1111109_2020.html">AI systems that can explain by language based on knowledge and reasoning</host>" project (Grant Number JPMJCR20D2), funded by JST CREST Programs "<host url="https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2020-4.html">Core technologies for trusted quality AI systems</host>."  LENLS 21 is co-organized by Nagoya University.
-</sponsor>
+<sponsors>
+<sponsor url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</sponsor>
+<sponsor url="https://www.jst.go.jp/kisoken/crest/en/project/1111109/1111109_2020.html">"AI systems that can explain by language based on knowledge and reasoning" project (Grant Number JPMJCR20D2), funded by JST CREST Programs "Core technologies for trusted quality AI systems"</sponsor>
+<sponsor>Nagoya University</sponsor>
+</sponsors>
 
 <code>
 <cp>All attendees, speakers, sponsors and volunteers at our conference are required to adhire to the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everyone.</cp>
@@ -140,6 +142,6 @@ LENLS is being organized by an alliance of "<host url="https://www.jst.go.jp/kis
   <archive name="LENLS17" year="2020" website="lenls17" proceedings="https://link.springer.com/book/10.1007/978-3-030-79942-7" />
   <archive name="LENLS18" year="2021" website="lenls18" proceedings="https://link.springer.com/book/10.1007/978-3-031-36190-6" />
   <archive name="LENLS19" year="2022" website="lenls19" proceedings="https://link.springer.com/book/10.1007/978-3-031-43977-3" />
-  <archive name="LENLS20" year="2023" website="lenls20" proceedings="" />
+  <archive name="LENLS20" year="2023" website="lenls20" proceedings="https://link.springer.com/book/10.1007/978-3-031-60878-0" />
 </archives>
 </workshop>

@@ -345,10 +345,15 @@ Invited Speaker(s):
 <br/>
 </xsl:template>
 
-<xsl:template match="sponsor">
+<xsl:template match="sponsors">
 <h2>Sponsor</h2>
 <a name="sponsor" />
-<p><xsl:apply-templates /></p>
+<p>LENLS is being organized by an alliance of the following sponsors.</p>
+<ul>
+<xsl:for-each select="sponsor">
+<li><xsl:value-of select="." /> <a><xsl:attribute name="href"><xsl:value-of select="@url" /></xsl:attribute>[URL]</a></li>
+</xsl:for-each>
+</ul>
 </xsl:template>
 
 <xsl:template match="code">

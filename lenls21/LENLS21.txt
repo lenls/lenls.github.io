@@ -1,6 +1,6 @@
 （重複して受け取られた場合はご容赦ください）
 
-今年の11月にハイブリッド（名古屋＆オンライン）で開催される LENLS21 
+今年の11月に名古屋で開催される LENLS21 
 国際学会のご案内をお送り致します。皆様のご参加をお待ちし
 ております。
 
@@ -14,7 +14,7 @@
                   Logic and Engineering of
              Natural Language Semantics (LENLS21)
 
-Workshop Site : Nagoya University + Online
+Workshop Site : Nagoya University
                     　https://en.nagoya-u.ac.jp/
 Dates         : November 28(Fri)-30(Sun), 2025
 Contact Person: David Y. Oshima (Nagoya University)
@@ -55,13 +55,17 @@ Abstract submission deadline: Aug. 31, 2025
 Notification of acceptance: Oct. 1, 2025
 Deadline for early registration: Oct. 15, 2025
 Deadline for the revised abstract: Nov. 15, 2025
-LENLS20: Nov. 28-30, 2025
+LENLS21: Nov. 28-30, 2025
 Deadline for full papers: Dec. 15, 2025
 
 
+
 Sponsor:
-========
-LENLS is being organized by an alliance of "AI systems that can explain by language based on knowledge and reasoning (https://www.jst.go.jp/kisoken/crest/en/project/1111109/1111109_2020.html)" project (Grant Number JPMJCR20D2), funded by JST CREST Programs "Core technologies for trusted quality AI systems (https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2020-4.html)."  LENLS 20 is co-organized by Nagoya University.
+========The Association for Logic, Language and Information (FoLLI)
+Sponsor:
+========"AI systems that can explain by language based on knowledge and reasoning" project (Grant Number JPMJCR20D2), funded by JST CREST Programs "Core technologies for trusted quality AI systems"
+Sponsor:
+========Nagoya University
 
 
 Code of Conduct:
