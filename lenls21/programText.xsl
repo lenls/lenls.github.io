@@ -144,8 +144,12 @@ Abstract
 --------<xsl:value-of select="//abstract" />
 </xsl:template>
 
-<xsl:template match="sponsor">Sponsor:
-========<xsl:apply-templates />
+<xsl:template match="sponsors">Sponsors:
+========
+LENLS is being organized by an alliance of the following sponsors.
+<xsl:for-each select="sponsor">
+- <xsl:value-of select="." />
+</xsl:for-each>
 </xsl:template>
 
 <xsl:template match="code">Code of Conduct:
@@ -164,7 +168,8 @@ Student Session:
 
 <xsl:template match="pcmembers">Program Committee:
 ======================================
-<xsl:for-each select="pcmember">  - <xsl:value-of select="@name" /> (<xsl:value-of select="@affiliation" />)<xsl:text disable-output-escaping="yes">&#xD;&#xA;</xsl:text></xsl:for-each></xsl:template>
+<xsl:for-each select="pcmember">  - <xsl:value-of select="@name" /> (<xsl:value-of select="@affiliation" />)<xsl:text disable-output-escaping="yes">&#xD;&#xA;</xsl:text></xsl:for-each>
+</xsl:template>
 
 <xsl:template match="localorganizers">Local Organizers:
 ======================================

@@ -102,7 +102,12 @@ This online proceedings volume contains selected and invited papers on topics in
 </xsl:for-each>
 \end{itemize}
 
-<xsl:value-of select="//sponsor" />
+\subsection*{Sponsors}
+LENLS is being organized by an alliance of the following sponsors.
+\begin{itemize}<xsl:for-each select="//sponsor">
+\item <xsl:value-of select="." />
+</xsl:for-each>
+\end{itemize}
 
 \subsection*{Workship Organizers/Program Committee}
 \begin{flushleft}

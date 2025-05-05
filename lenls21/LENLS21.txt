@@ -59,14 +59,13 @@ LENLS21: Nov. 28-30, 2025
 Deadline for full papers: Dec. 15, 2025
 
 
+Sponsors:
+========
+LENLS is being organized by an alliance of the following sponsors.
 
-Sponsor:
-========The Association for Logic, Language and Information (FoLLI)
-Sponsor:
-========"AI systems that can explain by language based on knowledge and reasoning" project (Grant Number JPMJCR20D2), funded by JST CREST Programs "Core technologies for trusted quality AI systems"
-Sponsor:
-========Nagoya University
-
+- The Association for Logic, Language and Information (FoLLI)
+- "AI systems that can explain by language based on knowledge and reasoning" project (Grant Number JPMJCR20D2), funded by JST CREST Programs "Core technologies for trusted quality AI systems"
+- Nagoya University
 
 Code of Conduct:
 ================
