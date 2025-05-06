@@ -13,7 +13,7 @@
     <!--address> (zip:)</address-->
     <url>https://en.nagoya-u.ac.jp/</url>
   </site>
-  <conferencedate>November 28(Fri)-30(Sun), 2025</conferencedate>
+  <conferencedate>November 28 (Fri) - 30 (Sun), 2025</conferencedate>
   <email>lenls21[[at]]easychair.org</email>
   <website>https://lenls.github.io/lenls21/</website>
   <isbn></isbn>
@@ -38,7 +38,7 @@ including but not limited to the following:</p>
 <p>LENLS21 is scheduled to take place in a in-person format (with a physical presence in Nagoya), 
 but with a limited option for a virtual presence via zoom. </p></description>
 
-<!--submission>
+<submission>
 Authors are required to choose from one of the following two submission categories: 
 <category>Abstract Only</category> and <category>Abstract+Full Paper</category>.  For both categories, authors must submit abstracts 
 (anonymous, up to 4 pages including figures and references, A4 size, 12-point font) 
@@ -47,15 +47,15 @@ on original, unpublished research.  Abstracts must be submitted electronically i
 <url>https://easychair.org/conferences/?conf=lenls21</url>
 
 <p>Upon acceptance, authors (both categories) are expected to submit extended abstracts 
-(up to 5 pages) before the workshop.  Note that abstracts submitted to the <category>Abstract+Full Paper</category> 
+(up to 5 pages) before Oct 15.  Note that abstracts submitted to the <category>Abstract+Full Paper</category> 
 category may be accepted in the <category>Abstract Only</category> category (but not vice versa).  
 The proceedings of the workshop will be made available online, including extended abstracts 
 (both categories).</p>
 
 <p>Authors submitting to the <category>Abstract+Full Paper</category> category are required to submit a full paper 
-(up to 15 pages) for the post-proceedings volume after the conference and must agree to review 
+(up to 15 pages) for the post-proceedings volume after the conference and at least one of them must agree to review 
 at least one other full paper.</p>
-</submission-->
+</submission>
 
 <!--selectedpaper>
 LENLS21 is held under the umbrella of <host url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</host>.  
@@ -79,7 +79,7 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 <sponsors>
 <sponsor url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</sponsor>
 <sponsor url="https://www.jst.go.jp/kisoken/crest/en/project/1111109/1111109_2020.html">"AI systems that can explain by language based on knowledge and reasoning" project (Grant Number JPMJCR20D2), funded by JST CREST Programs "Core technologies for trusted quality AI systems"</sponsor>
-<sponsor>Nagoya University</sponsor>
+<sponsor url="https://en.nagoya-u.ac.jp/">Nagoya University</sponsor>
 </sponsors>
 
 <code>
@@ -96,27 +96,35 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 </code>
 
 <pcmembers>
-  <pcmember name="David Y. Oshima"     affiliation="Nagoya University"             role="chair" />
-  <pcmember name="Daisuke Bekki"       affiliation="Ochanomizu University"         role="cochair" />
-  <pcmember name="Koji Mineshima"      affiliation="Keio University"               role="cochair" />
-  <!--pcmember name="Alastair Butler"     affiliation="Hirosaki University" />
-  <pcmember name="Naoya Fujikawa"      affiliation="University of Tokyo" />
-  <pcmember name="Hitomi Hirayama"     affiliation="Keio University" />
-  <pcmember name="Magdalena Kaufmann"  affiliation="University of Connecticut" />
-  <pcmember name="Elin McCready"       affiliation="Aoyama Gakuin University" />
-  <pcmember name="Yoshiki Mori"        affiliation="University of Tokyo" />
-  <pcmember name="Katsuhiko Sano"      affiliation="Hokkaido University" />
-  <pcmember name="Osamu Sawada"        affiliation="Kobe University" />
-  <pcmember name="Eri Tanaka"          affiliation="Osaka University" />
-  <pcmember name="Wataru Uegaki"       affiliation="University of Edinburgh" />
-  <pcmember name="Katsuhiko Yabushita" affiliation="Naruto University of Education" />
-  <pcmember name="Kei Yoshimoto"       affiliation="Tohoku University" /-->
-  <!--pcmember name="Richard Dietz"       affiliation="University of Tokyo" /-->
-  <!--pcmember name="Patrick D. Elliott"  affiliation="Heinrich-Heine University of Dusseldorf" /-->
-  <!--pcmember name="Yurie Hara"          affiliation="Hokkaido University" /-->
-  <!--pcmember name="Robert Henderson"    affiliation="University of Arizona" /-->
-  <!--pcmember name="Kristina Liefke"     affiliation="Ruhr University Bochum" /-->
-  <!--pcmember name="Shunsuke Yatabe"     affiliation="Ochanomizu University" /-->
+  <pcmember name="David Y. Oshima"      affiliation="Nagoya University"             role="chair" />
+  <pcmember name="Daisuke Bekki"        affiliation="Ochanomizu University"         role="cochair" />
+  <pcmember name="Koji Mineshima"       affiliation="Keio University"               role="cochair" />
+  <!--pcmember name="Alastair Butler"      affiliation="Hirosaki University" /-->
+  <pcmember name="Patrick D. Elliott"   affiliation="Heinrich-Heine University of Dusseldorf" />
+  <!--pcmember name="Naoya Fujikawa"       affiliation="University of Tokyo" /-->
+  <!--pcmember name="Yurie Hara"           affiliation="Hokkaido University" /-->
+  <!--pcmember name="Robert Henderson"     affiliation="University of Arizona" /-->
+  <!--pcmember name="Hitomi Hirayama"      affiliation="Keio University" /-->
+  <!--pcmember name="Magdalena Kaufmann"   affiliation="University of Connecticut" /-->
+  <!--pcmember name="Kristina Liefke"      affiliation="Ruhr University Bochum" /-->
+  <!--pcmember name="Elin McCready"        affiliation="Aoyama Gakuin University" /-->
+  <pcmember name="Yoshiki Mori"         affiliation="University of Tokyo" />
+  <!--pcmember name="Katsuhiko Sano"       affiliation="Hokkaido University" /-->
+  <pcmember name="Osamu Sawada"         affiliation="Kobe University" />
+  <pcmember name="Eri Tanaka"           affiliation="Osaka University" />
+  <!--pcmember name="Wataru Uegaki"        affiliation="University of Edinburgh" /-->
+  <!--pcmember name="Katsuhiko Yabushita"  affiliation="Naruto University of Education" /-->
+  <pcmember name="Shunsuke Yatabe"      affiliation="Ochanomizu University" />
+  <!--pcmember name="Kei Yoshimoto"        affiliation="Tohoku University" /-->
+  <!--pcmember name="Yu Izumi"             affiliation="Nanzan University" /-->
+  <!--pcmember name="Takeshi Yamada"       affiliation="Kobe University" /-->
+  <!--pcmember name="Shinya Okano"         affiliation="University of Tokyo" /-->
+  <pcmember name="Teruyuki Mizuno"      affiliation="Ochanomizu University" />
+  <pcmember name="Yang Muyi"            affiliation="Osaka University" />
+  <pcmember name="Akitaka Yamada"       affiliation="Keio University" />
+  <!--pcmember name="Kenta Mizutani"       affiliation="Aichi Prefectural University" /-->
+  <!--pcmember name="Lukas Rieser"         affiliation="Tokyo University of Agriculture and Technology" /-->
+  <pcmember name="Gregoire Winterstein" affiliation="Université du Québec à Montréal" />
 </pcmembers>
 <localorganizers>
   <localorganizer name="David Y. Oshima" affiliation="Nagoya University" />

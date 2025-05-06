@@ -16,7 +16,7 @@
 
 Workshop Site : Nagoya University
                     　https://en.nagoya-u.ac.jp/
-Dates         : November 28(Fri)-30(Sun), 2025
+Dates         : November 28 (Fri) - 30 (Sun), 2025
 Contact Person: David Y. Oshima (Nagoya University)
 Contact Email : lenls21[[at]]easychair.org
 Website       : https://lenls.github.io/lenls21/
@@ -45,6 +45,25 @@ including but not limited to the following:
 LENLS21 is scheduled to take place in a in-person format (with a physical presence in Nagoya), 
 but with a limited option for a virtual presence via zoom. 
 
+
+Submissions:
+============
+Authors are required to choose from one of the following two submission categories: 
+[Abstract Only] and [Abstract+Full Paper].  For both categories, authors must submit abstracts 
+(anonymous, up to 4 pages including figures and references, A4 size, 12-point font) 
+on original, unpublished research.  Abstracts must be submitted electronically in PDF at:
+
+https://easychair.org/conferences/?conf=lenls21
+
+Upon acceptance, authors (both categories) are expected to submit extended abstracts 
+(up to 5 pages) before Oct 15.  Note that abstracts submitted to the [Abstract+Full Paper] 
+category may be accepted in the [Abstract Only] category (but not vice versa).  
+The proceedings of the workshop will be made available online, including extended abstracts 
+(both categories).
+
+Authors submitting to the [Abstract+Full Paper] category are required to submit a full paper 
+(up to 15 pages) for the post-proceedings volume after the conference and at least one of them must agree to review 
+at least one other full paper.
 
 
 
@@ -88,6 +107,15 @@ Program Committee:
   - David Y. Oshima (Nagoya University)
   - Daisuke Bekki (Ochanomizu University)
   - Koji Mineshima (Keio University)
+  - Patrick D. Elliott (Heinrich-Heine University of Dusseldorf)
+  - Yoshiki Mori (University of Tokyo)
+  - Osamu Sawada (Kobe University)
+  - Eri Tanaka (Osaka University)
+  - Shunsuke Yatabe (Ochanomizu University)
+  - Teruyuki Mizuno (Ochanomizu University)
+  - Yang Muyi (Osaka University)
+  - Akitaka Yamada (Keio University)
+  - Gregoire Winterstein (Université du Québec à Montréal)
 
 Local Organizers:
 ======================================
