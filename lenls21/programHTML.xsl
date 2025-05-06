@@ -27,7 +27,7 @@ A:visited {
 		color: gray;
 		}
 A:active {
-		color: #FF0066;
+		color: fuchsia;
 		}
 td {
 		color:black;
@@ -54,27 +54,27 @@ td {
 		}
 .tab {}
 .c2 {	
-		background: #F8F8FF;
+		background: azure;
 		}
 .c1 {	
-		background: #F0F8FF;
+		background: aliceblue;
 		}
 .c0 {	
-		background: #CFECEC;
+		background: lightskyblue;
 		}
 h1 {	
-		color: #79BAEC;
+		color: skyblue;
 		font-size: 30px;}
 h2 {	
 		color: white;
 		font-weight: bold;
 		font-size: 18px;
-		background-color: #CFECEC;
+		background-color: skyblue;
 		background-repeat: no-repeat;
 		background-position: left bottom;
   		}
 h3 {	
-		color: #87CEEB;
+		color: lightskyblue;
 		font-size: 16px;
 		}
 h4 {	

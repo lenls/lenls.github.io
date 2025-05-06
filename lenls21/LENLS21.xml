@@ -96,19 +96,19 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 </code>
 
 <pcmembers>
-  <pcmember name="David Y. Oshima"      affiliation="Nagoya University"             role="chair" />
   <pcmember name="Daisuke Bekki"        affiliation="Ochanomizu University"         role="cochair" />
-  <pcmember name="Koji Mineshima"       affiliation="Keio University"               role="cochair" />
   <!--pcmember name="Alastair Butler"      affiliation="Hirosaki University" /-->
   <pcmember name="Patrick D. Elliott"   affiliation="Heinrich-Heine University of Dusseldorf" />
   <!--pcmember name="Naoya Fujikawa"       affiliation="University of Tokyo" /-->
   <!--pcmember name="Yurie Hara"           affiliation="Hokkaido University" /-->
   <!--pcmember name="Robert Henderson"     affiliation="University of Arizona" /-->
   <!--pcmember name="Hitomi Hirayama"      affiliation="Keio University" /-->
-  <!--pcmember name="Magdalena Kaufmann"   affiliation="University of Connecticut" /-->
+  <pcmember name="Magdalena Kaufmann"   affiliation="University of Connecticut" />
   <!--pcmember name="Kristina Liefke"      affiliation="Ruhr University Bochum" /-->
   <!--pcmember name="Elin McCready"        affiliation="Aoyama Gakuin University" /-->
+  <pcmember name="Koji Mineshima"       affiliation="Keio University"               role="cochair" />
   <pcmember name="Yoshiki Mori"         affiliation="University of Tokyo" />
+  <pcmember name="David Y. Oshima"      affiliation="Nagoya University"             role="chair" />
   <!--pcmember name="Katsuhiko Sano"       affiliation="Hokkaido University" /-->
   <pcmember name="Osamu Sawada"         affiliation="Kobe University" />
   <pcmember name="Eri Tanaka"           affiliation="Osaka University" />
@@ -118,7 +118,7 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
   <!--pcmember name="Kei Yoshimoto"        affiliation="Tohoku University" /-->
   <!--pcmember name="Yu Izumi"             affiliation="Nanzan University" /-->
   <!--pcmember name="Takeshi Yamada"       affiliation="Kobe University" /-->
-  <!--pcmember name="Shinya Okano"         affiliation="University of Tokyo" /-->
+  <pcmember name="Shinya Okano"         affiliation="University of Tokyo" />
   <pcmember name="Teruyuki Mizuno"      affiliation="Ochanomizu University" />
   <pcmember name="Yang Muyi"            affiliation="Osaka University" />
   <pcmember name="Akitaka Yamada"       affiliation="Keio University" />
