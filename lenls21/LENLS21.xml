@@ -57,11 +57,11 @@ The proceedings of the workshop will be made available online, including extende
 at least one other full paper.</p>
 </submission>
 
-<!--selectedpaper>
+<selectedpaper>
 LENLS21 is held under the umbrella of <host url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</host>.  
 The collection of full papers will be published in the Lecture Notes in Computer Science (LNCS) 
 series, in accordance with the contract between Springer Nature Switzerland AG and FoLLI.
-</selectedpaper-->
+</selectedpaper>
 
 <importantdates>
 <importantdate name="Abstract submission deadline"     date="Aug. 31, 2025" />
