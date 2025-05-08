@@ -105,18 +105,24 @@ We expect participants to follow these rules at conference and workshop venues a
 Program Committee:
 ======================================
   - Daisuke Bekki (Ochanomizu University)
+  - Alastair Butler (Hirosaki University)
   - Patrick D. Elliott (Heinrich-Heine University of Dusseldorf)
+  - Naoya Fujikawa (University of Tokyo)
   - Magdalena Kaufmann (University of Connecticut)
+  - Elin McCready (Aoyama Gakuin University)
   - Koji Mineshima (Keio University)
   - Yoshiki Mori (University of Tokyo)
   - David Y. Oshima (Nagoya University)
   - Osamu Sawada (Kobe University)
   - Eri Tanaka (Osaka University)
   - Shunsuke Yatabe (Ochanomizu University)
+  - Kei Yoshimoto (Tohoku University)
+  - Yu Izumi (Nanzan University)
   - Shinya Okano (University of Tokyo)
   - Teruyuki Mizuno (Ochanomizu University)
   - Yang Muyi (Osaka University)
   - Akitaka Yamada (Keio University)
+  - Kenta Mizutani (Aichi Prefectural University)
   - Gregoire Winterstein (Université du Québec à Montréal)
 
 Local Organizers:
