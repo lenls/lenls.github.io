@@ -15,7 +15,9 @@
              Natural Language Semantics (LENLS21)
 
 Workshop Site : Nagoya University
-                    　https://en.nagoya-u.ac.jp/
+                    　Conference Hall (Integrated Research Bldg. for Humanities and
+Social Sciences) (B4(4) in the following map)
+                    　https://en.nagoya-u.ac.jp/map/index.html
 Dates         : November 28 (Fri) - 30 (Sun), 2025
 Contact Person: David Y. Oshima (Nagoya University)
 Contact Email : lenls21[[at]]easychair.org
