@@ -17,7 +17,7 @@
 Workshop Site : Nagoya University
                     　Conference Hall (Integrated Research Bldg. for Humanities and
 Social Sciences) (B4(4) in the following map)
-                    　https://en.nagoya-u.ac.jp/map/index.html
+                    　https://en.nagoya-u.ac.jp/map/
 Dates         : November 28 (Fri) - 30 (Sun), 2025
 Contact Person: David Y. Oshima (Nagoya University)
 Contact Email : lenls21[[at]]easychair.org
@@ -130,6 +130,7 @@ Program Committee:
   - Yang Muyi (Osaka University)
   - Akitaka Yamada (Keio University)
   - Kenta Mizutani (Aichi Prefectural University)
+  - Lukas Rieser (Tokyo University of Agriculture and Technology)
   - Gregoire Winterstein (Université du Québec à Montréal)
 
 Local Organizers:
