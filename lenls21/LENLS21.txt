@@ -30,7 +30,7 @@ Co-chair: Daisuke Bekki (Ochanomizu University)
           
 Invited Speakers:
 - Luca Gasparri (CNRS)
-- (TBA) (TBA)
+- TBA (TBA)
 
 
 LENLS is an annual international conference on formal linguistics (i.e., syntax, semantics 
