@@ -117,7 +117,7 @@ Program Committee:
   - Patrick D. Elliott (Heinrich-Heine University of Dusseldorf)
   - Naoya Fujikawa (University of Tokyo)
   - Magdalena Kaufmann (University of Connecticut)
-  - Elin McCready (Aoyama Gakuin University)
+  - Elin McCready (ICREA/Autonomous University of Barcelona)
   - Koji Mineshima (Keio University)
   - Yoshiki Mori (University of Tokyo)
   - David Y. Oshima (Nagoya University)
