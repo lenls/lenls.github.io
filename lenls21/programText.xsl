@@ -8,9 +8,8 @@
 
 <xsl:template match="workshop">（重複して受け取られた場合はご容赦ください）
 
-今年の<xsl:value-of select="@month" />に<xsl:value-of select="@place" />で開催される <xsl:value-of select="//short" /> 
-国際学会のご案内をお送り致します。皆様のご参加をお待ちし
-ております。
+今年の<xsl:value-of select="@month" />に<xsl:value-of select="@place" />で開催される <xsl:value-of select="//short" /> 国際学会のご案内をお送り致します。
+皆様のご参加をお待ちしております。
 
 戸次大介（お茶の水女子大学）
 <xsl:apply-templates/>
@@ -26,12 +25,12 @@
 
 Workshop Site : <xsl:for-each select="//site">
                   <xsl:value-of select="name" />
-                  <xsl:for-each select="address">
-                    　<xsl:value-of select="." />
-                    </xsl:for-each>
-                  <xsl:for-each select="url">
-                    　<xsl:value-of select="." />
-                    </xsl:for-each>
+                  　<xsl:for-each select="address">
+                  <xsl:value-of select="." />
+                  </xsl:for-each>
+                  　<xsl:for-each select="url">
+                  <xsl:value-of select="." />
+                  </xsl:for-each>
                   </xsl:for-each>
 Dates         : <xsl:value-of select="conferencedate" />
 Contact Person: <xsl:value-of select="ancestor::workshop/pcmembers/pcmember[@role='chair']/@name" /> (<xsl:value-of select="ancestor::workshop/pcmembers/pcmember[@role='chair']/@affiliation" />)
