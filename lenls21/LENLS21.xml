@@ -3,7 +3,7 @@
 <workshop month="11月" place="名古屋">
 
 <summary>
-  <title>CALL FOR PAPER</title>
+  <title>CALL FOR PARTICIPATION</title>
   <FstLine>the 21th International Workshop of</FstLine>
   <SndLine>Logic and Engineering of</SndLine>
   <TrdLine>Natural Language Semantics 21</TrdLine>
@@ -40,7 +40,7 @@ including but not limited to the following:</p>
 <p>LENLS21 is scheduled to take place in a in-person format (with a physical presence in Nagoya), 
 but with a limited option for a virtual presence via zoom. </p></description>
 
-<submission>
+<!--submission>
 Authors are required to choose from one of the following two submission categories: 
 <category>Abstract Only</category> and <category>Abstract+Full Paper</category>.  For both categories, authors must submit abstracts 
 (anonymous, up to 4 pages including figures and references, A4 size, 12-point font) 
@@ -57,7 +57,7 @@ The proceedings of the workshop will be made available online, including extende
 <p>Authors submitting to the <category>Abstract+Full Paper</category> category are required to submit a full paper 
 (up to 15 pages) for the post-proceedings volume after the conference and at least one of them must agree to review 
 at least one other full paper.</p>
-</submission>
+</submission-->
 
 <selectedpaper>
 LENLS21 is held under the umbrella of <host url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</host>.  
@@ -66,22 +66,117 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 </selectedpaper>
 
 <importantdates>
-<importantdate name="Abstract submission deadline"     date="Aug. 31, 2025" />
-<importantdate name="Notification of acceptance"       date="Oct. 1, 2025" />
-<importantdate name="Deadline for early registration"  date="Oct. 15, 2025" />
-<importantdate name="Deadline for the revised abstract" date="Nov. 15, 2025" />
+<importantdate name="Abstract submission deadline"     date="Aug. 31, 2025 (AoE)" done="yes" />
+<importantdate name="Notification of acceptance"       date="Oct. 1, 2025 (AoE)" done="yes" />
+<importantdate name="Deadline for early registration"  date="Oct. 31, 2025 (AoE)" />
+<importantdate name="Deadline for the extended abstract" date="Nov. 13, 2025 (AoE)" />
 <importantdate name="LENLS21"                          date="Nov. 28-30, 2025" />
-<importantdate name="Deadline for full papers"         date="Dec. 15, 2025" />
-</importantdates><!--registration
-  site="https://forms.gle/WgmYvoqv42CSJSWK7"
-  deadline="November 15, 2023 23:59 (JST)">
+<importantdate name="Deadline for full papers"         date="Dec. 11, 2025 (AoE)" />
+</importantdates>
+
+<registration
+  site="https://forms.gle/LyLkTAsH2xosAqXe9"
+  deadline="October 31, 2025 23:59 (JST)">
   The registration for on-site participation is closed due to the limited number of participants at the venue. Only the registration for virtual participation is available via the link below. The zoom link will be shared only among the registered participants.
-  </registration--><!--onlineproceedings url="https://lenls.github.io/lenls19/LENLS19OnlineProceedings.pdf" /-->
+  </registration><!--onlineproceedings url="https://lenls.github.io/lenls19/LENLS19OnlineProceedings.pdf" /-->
+
+<program>
+<day date="1st Day: November 28 (Fri)">
+
+<event time="9:50-10:00" name="Opening remark" />
+
+<session time="10:00-11:30" name="" chair="Teruyuki Mizuno">
+  <talk author="Linmin Zhang" title="Deriving the diminishing effect" number="30" cat="long" pages="" note="only 28 and 29" />
+  <talk author="Ka-Fat Chow" title="Scope Ambiguity of Polar / Alternative Questions" number="12" cat="long" pages=""  note="Nov 28 morning only" />
+  <talk author="Christian Fermuller" title="On the semantics of good, better, and ought" number="11" cat="short" pages="" note="only 28 and 29" />
+</session>
+
+<session time="13:30-15:00" name="Online Session" chair="Naoya Fujikawa">
+  <talk author="Satoru Suzuki" title="On Multidimensional Predicates: Social-Choice Model Versus Additive-Difference Model" number="32" cat="long" pages="" />
+  <talk author="Arka Banerjee" title="Ignorance with Domain Widening in Bangla" number="35" cat="short" pages="" />
+  <talk author="Samuel Laperle" title="“I like Metallica, but...”: the Overton window as a model of acceptable persona" number="24" cat="short" pages="" />
+</session>
+
+<session time="15:30-17:00" name="" chair="Lukas Rieser"> 
+  <talk author="Elin McCready, Giuseppe Varaschin and Antonio Machicao Y Priemer" title="Explicitness, Honorification and Indices" number="17" cat="short" pages="" />
+  <talk author="Christopher Davis and Gregoire Winterstein" title="Beyond personas: honest failures in projecting social meaning" number="23" cat="long" pages="" />
+  <talk author="Maeva Sillaire, Gregoire Winterstein and Mathilde Dargnat" title="Concessive marking in French: pourtant vs. quand meme" number="29" cat="long" pages="" />
+ </session>
+
+<session time="17:30-18:30" name="Invited Talk" chair="Elin McCready"> 
+  <invitedtalk author="Luca Gasparri" title="" number="invited_luca" format="" pages="" />
+</session>
+</day>
+
+<day date="2nd Day: November 29 (Sat)">
+
+<session time="10:00-11:30" name="" chair="Kenta Mizutani">
+  <talk author="Richard Zuber" title="On the semantics of together, separately and alone" number="7" cat="short" pages="" note="2nd day only" />
+  <talk author="Chungmin Lee, Dongsik Lim and Myounghyoun Song" title="Noncanonical whether in English: in parallel with Korean/Japanese expletive negation" number="27" cat="short" pages="" />
+  <talk author="Zhuang Chen" title="Cracking the mystery of Mandarin hyperbolic comparatives with incremental hai : Correlating with a salient scale" number="2" cat="long" pages="" note="only 28 and 29" />
+</session>
+
+<session time="13:30-15:00" name="" chair="Daisuke Bekki">
+  <talk author="Shuichi Yatabe" title="The semantics of split-antecedent reciprocals" number="20" cat="short" pages="" note="Saturday afternoon or Sunday" />
+  <talk author="Alastair Butler" title="Dependency relations inform quantificational scope" number="15" cat="long" pages="" />
+  <talk author="Oleg Kiselyov" title="Local Skolemization: Predicate Logic with Anaphora, Calmed Down" number="13" cat="long" pages="" />
+</session>
+
+<session time="15:30-17:00" name="" chair="Koji Mineshima">
+  <talk author="Daisuke Bekki" title="A Proof-theoretic Analysis of VP Ellipsis" number="10" cat="long" pages="" />
+  <talk author="Daiki Matsuoka and Hitomi Yanaka" title="Split and compose: Deriving long-distance dependencies in a continuation-based grammar" number="40" cat="short" pages="" />
+  <talk author="Timothee Bernard and Philippe de Groote" title="Individuals as sets of perspectives" number="8" cat="long" pages="" />
+</session>
+
+<session time="17:30-18:30" name="" chair="Alastair Butler">
+  <talk author="Marina Perez del Valle" title="Logic and Linguistic Intuitions in Dynamic Semantics" number="6" cat="long" pages="" />
+  <talk author="Yu Tomita" title="Rightward and Covert Movement: a Formulation with Directional Minimalist Grammar" number="39" cat="short" pages="" note="29-30" />
+</session>
+
+<event time="19:00-" name="Conference dinner" />
+</day>
+
+<day date="3rd Day: November 30 (Sun)">
+
+<session time="10:00-11:30" name="" chair="Hitomi Hirayama">
+  <talk author="Toshiko Oda" title="Phrasal Comparatives of Gilgiti-Shina" number="19" cat="long" pages="" />
+  <talk author="Peter Rossyaykin, Ruoying Zhao and Mariia Onoeva" title="Scalar NPIs in polar questions: evidence from Balkar, Kumyk, and elsewhere" number="34" cat="short" pages="" />
+  <talk author="Jiayuan Chen" title="Where does anti-uniqueness come from? A case study of English demonstratives" number="31" cat="long" pages="" />
+</session>
+
+<session time="13:30-15:00" name="" chair="Ikumi Imani">
+  <talk author="Shuyang Sun and Antoine Venant" title="Evaluating the Compositional Treatment of Quantification in Large Language Models" number="37" cat="short" pages="" />
+  <talk author="Philippe de Groote and Santiago Arambillete" title="On the use of binary relations as collective predicates in natural mathematics" number="18" cat="long" pages="" />
+  <talk author="Andrew Kato" title="The scope and reporting of correction" number="38" cat="long" pages="" />
+</session>
+
+<session time="15:30-17:00" name="" chair="Shinya Okano">
+  <talk author="Lukas Rieser" title="Japanese modalities of (non)-existence" number="41" cat="alternate" pages="" />
+  <talk author="Osamu Sawada" title="The semantics and pragmatics of the Japanese emphatic expression hodo-ga aru ‘there is a limit’" number="28" cat="long" pages="" />
+  <talk author="Muyi Yang, Teruyuki Mizuno, Eri Tanaka and Stephanie Solt" title="Lemons to vitamin C: Mapping between amounts with Japanese bun ‘amount’" number="25" cat="long" pages="" />
+</session>
+
+<session time="17:30-18:30" name="Invited Talk" chair="David Y. Oshima">
+  <invitedtalk author="Dorothy Ahn" title="" number="invited_drothy" format="" pages="" />
+</session>
+
+<event time="18:30-18:40" name="Closing remark" />
+</day>
+</program>
+
+<alternates>
+  <talk author="Roussanka Loukanova" title="Algorithmic Type Rising of Nominal Phrases in Type-Theory of Acyclic Recursion" number="14" cat="short" pages="" />
+  <talk author="Kristina Liefke" title="Propositions in the wild: Towards a non-ideal(ized) theory of communicated content" number="1" cat="alternate" pages="" />
+  <talk author="Simon Wimmer" title="Wahnen and presupposition triggering" number="5" cat="alternate" pages="" />
+</alternates>
+
+<withdrawal /> 
+  
 
 <sponsors>
 <sponsor url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</sponsor>
 <sponsor url="https://www.jst.go.jp/kisoken/crest/en/project/1111109/1111109_2020.html">"AI systems that can explain by language based on knowledge and reasoning" project (Grant Number JPMJCR20D2), funded by JST CREST Programs "Core technologies for trusted quality AI systems"</sponsor>
-<sponsor url="https://en.nagoya-u.ac.jp/">Nagoya University</sponsor>
+<sponsor url="https://www.hum.nagoya-u.ac.jp/en/">Graduate School of Humanities, Nagoya University</sponsor>
 </sponsors>
 
 <code>

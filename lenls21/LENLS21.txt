@@ -8,7 +8,7 @@
 
 [Apologies for multiple copies]
 =================================================================
-                      CALL FOR PAPER
+                      CALL FOR PARTICIPATION
 
                   Logic and Engineering of
              Natural Language Semantics 21 (LENLS21)
@@ -48,25 +48,6 @@ LENLS21 is scheduled to take place in a in-person format (with a physical presen
 but with a limited option for a virtual presence via zoom. 
 
 
-Submissions:
-============
-Authors are required to choose from one of the following two submission categories: 
-[Abstract Only] and [Abstract+Full Paper].  For both categories, authors must submit abstracts 
-(anonymous, up to 4 pages including figures and references, A4 size, 12-point font) 
-on original, unpublished research.  Abstracts must be submitted electronically in PDF at:
-
-https://easychair.org/conferences/?conf=lenls21
-
-Upon acceptance, authors (both categories) are expected to submit extended abstracts 
-(up to 5 pages) before Oct 15.  Note that abstracts submitted to the [Abstract+Full Paper] 
-category may be accepted in the [Abstract Only] category (but not vice versa).  
-The proceedings of the workshop will be made available online, including extended abstracts 
-(both categories).
-
-Authors submitting to the [Abstract+Full Paper] category are required to submit a full paper 
-(up to 15 pages) for the post-proceedings volume after the conference and at least one of them must agree to review 
-at least one other full paper.
-
 
 Selected Papers:
 ================
@@ -77,13 +58,144 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 
 Important dates:
 ================
-Abstract submission deadline: Aug. 31, 2025
-Notification of acceptance: Oct. 1, 2025
-Deadline for early registration: Oct. 15, 2025
-Deadline for the revised abstract: Nov. 15, 2025
+Deadline for early registration: Oct. 31, 2025 (AoE)
+Deadline for the extended abstract: Nov. 13, 2025 (AoE)
 LENLS21: Nov. 28-30, 2025
-Deadline for full papers: Dec. 15, 2025
+Deadline for full papers: Dec. 11, 2025 (AoE)
 
+
+Registration:
+=============
+
+
+Program:
+========
+1st Day: November 28 (Fri)--------------------------
+
+9:50-10:00:Opening remark
+
+10:00-11:30:
+    * Linmin Zhang
+      "Deriving the diminishing effect"
+    * Ka-Fat Chow
+      "Scope Ambiguity of Polar / Alternative Questions"
+    * Christian Fermuller
+      "On the semantics of good, better, and ought"
+
+
+13:30-15:00:Online Session
+    * Satoru Suzuki
+      "On Multidimensional Predicates: Social-Choice Model Versus Additive-Difference Model"
+    * Arka Banerjee
+      "Ignorance with Domain Widening in Bangla"
+    * Samuel Laperle
+      "“I like Metallica, but...”: the Overton window as a model of acceptable persona"
+
+
+15:30-17:00: 
+    * Elin McCready, Giuseppe Varaschin and Antonio Machicao Y Priemer
+      "Explicitness, Honorification and Indices"
+    * Christopher Davis and Gregoire Winterstein
+      "Beyond personas: honest failures in projecting social meaning"
+    * Maeva Sillaire, Gregoire Winterstein and Mathilde Dargnat
+      "Concessive marking in French: pourtant vs. quand meme"
+ 
+
+17:30-18:30:Invited Talk 
+    * Luca Gasparri
+      ""
+
+
+
+2nd Day: November 29 (Sat)--------------------------
+
+10:00-11:30:
+    * Richard Zuber
+      "On the semantics of together, separately and alone"
+    * Chungmin Lee, Dongsik Lim and Myounghyoun Song
+      "Noncanonical whether in English: in parallel with Korean/Japanese expletive negation"
+    * Zhuang Chen
+      "Cracking the mystery of Mandarin hyperbolic comparatives with incremental hai : Correlating with a salient scale"
+
+
+13:30-15:00:
+    * Shuichi Yatabe
+      "The semantics of split-antecedent reciprocals"
+    * Alastair Butler
+      "Dependency relations inform quantificational scope"
+    * Oleg Kiselyov
+      "Local Skolemization: Predicate Logic with Anaphora, Calmed Down"
+
+
+15:30-17:00:
+    * Daisuke Bekki
+      "A Proof-theoretic Analysis of VP Ellipsis"
+    * Daiki Matsuoka and Hitomi Yanaka
+      "Split and compose: Deriving long-distance dependencies in a continuation-based grammar"
+    * Timothee Bernard and Philippe de Groote
+      "Individuals as sets of perspectives"
+
+
+17:30-18:30:
+    * Marina Perez del Valle
+      "Logic and Linguistic Intuitions in Dynamic Semantics"
+    * Yu Tomita
+      "Rightward and Covert Movement: a Formulation with Directional Minimalist Grammar"
+
+
+19:00-:Conference dinner
+
+
+3rd Day: November 30 (Sun)--------------------------
+
+10:00-11:30:
+    * Toshiko Oda
+      "Phrasal Comparatives of Gilgiti-Shina"
+    * Peter Rossyaykin, Ruoying Zhao and Mariia Onoeva
+      "Scalar NPIs in polar questions: evidence from Balkar, Kumyk, and elsewhere"
+    * Jiayuan Chen
+      "Where does anti-uniqueness come from? A case study of English demonstratives"
+
+
+13:30-15:00:
+    * Shuyang Sun and Antoine Venant
+      "Evaluating the Compositional Treatment of Quantification in Large Language Models"
+    * Philippe de Groote and Santiago Arambillete
+      "On the use of binary relations as collective predicates in natural mathematics"
+    * Andrew Kato
+      "The scope and reporting of correction"
+
+
+15:30-17:00:
+    * Lukas Rieser
+      "Japanese modalities of (non)-existence"
+    * Osamu Sawada
+      "The semantics and pragmatics of the Japanese emphatic expression hodo-ga aru ‘there is a limit’"
+    * Muyi Yang, Teruyuki Mizuno, Eri Tanaka and Stephanie Solt
+      "Lemons to vitamin C: Mapping between amounts with Japanese bun ‘amount’"
+
+
+17:30-18:30:Invited Talk
+    * Dorothy Ahn
+      ""
+
+
+18:30-18:40:Closing remark
+
+
+
+Alternates
+----------
+    * Roussanka Loukanova
+      "Algorithmic Type Rising of Nominal Phrases in Type-Theory of Acyclic Recursion"
+    * Kristina Liefke
+      "Propositions in the wild: Towards a non-ideal(ized) theory of communicated content"
+    * Simon Wimmer
+      "Wahnen and presupposition triggering"
+
+
+ 
+  
 
 Sponsors:
 ========
@@ -91,8 +203,7 @@ LENLS is being organized by an alliance of the following sponsors.
 
 - The Association for Logic, Language and Information (FoLLI)
 - "AI systems that can explain by language based on knowledge and reasoning" project (Grant Number JPMJCR20D2), funded by JST CREST Programs "Core technologies for trusted quality AI systems"
-- Nagoya University
-
+- Graduate School of Humanities, Nagoya University
 
 Code of Conduct:
 ================
