@@ -165,7 +165,7 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 </program>
 
 <alternates>
-  <talk author="Roussanka Loukanova" title="Algorithmic Type Rising of Nominal Phrases in Type-Theory of Acyclic Recursion" number="14" cat="short" pages="" />
+  <!--talk author="Roussanka Loukanova" title="Algorithmic Type Rising of Nominal Phrases in Type-Theory of Acyclic Recursion" number="14" cat="short" pages="" /-->
   <talk author="Kristina Liefke" title="Propositions in the wild: Towards a non-ideal(ized) theory of communicated content" number="1" cat="alternate" pages="" />
   <talk author="Simon Wimmer" title="Wahnen and presupposition triggering" number="5" cat="alternate" pages="" />
 </alternates>

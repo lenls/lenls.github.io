@@ -186,8 +186,7 @@ Program:
 
 Alternates
 ----------
-    * Roussanka Loukanova
-      "Algorithmic Type Rising of Nominal Phrases in Type-Theory of Acyclic Recursion"
+  
     * Kristina Liefke
       "Propositions in the wild: Towards a non-ideal(ized) theory of communicated content"
     * Simon Wimmer
