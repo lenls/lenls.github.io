@@ -184,13 +184,6 @@ Program:
 
 
 
-Alternates
-----------
-  
-    * Kristina Liefke
-      "Propositions in the wild: Towards a non-ideal(ized) theory of communicated content"
-    * Simon Wimmer
-      "Wahnen and presupposition triggering"
 
 
  
