@@ -112,7 +112,7 @@ Program:
 
 17:30-18:30:Invited Talk 
     * Luca Gasparri
-      ""
+      "(TBA)"
 
 
 
@@ -195,11 +195,6 @@ Program:
 
 
 
-
-    * Roussanka Loukanova
-      "Algorithmic Type Rising of Nominal Phrases in Type-Theory of Acyclic Recursion"
-    * Shuyang Sun and Antoine Venant
-      "Evaluating the Compositional Treatment of Quantification in Large Language Models"
  
   
 Sponsors:
@@ -254,6 +249,7 @@ Program Committee:
 Local Organizers:
 ======================================
   - David Y. Oshima (Nagoya University)
+  - Ikumi Imani (Nagoya Gakuin University)
 
 
 

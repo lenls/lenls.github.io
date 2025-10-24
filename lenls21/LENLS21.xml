@@ -113,7 +113,7 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
  </session>
 
 <session time="17:30-18:30" name="Invited Talk" chair="Elin McCready"> 
-  <invitedtalk author="Luca Gasparri" title="" number="invited_luca" format="" pages="" />
+  <invitedtalk author="Luca Gasparri" title="(TBA)" number="invited_luca" format="" pages="" />
 </session>
 </day>
 
@@ -177,10 +177,10 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
   <talk author="Simon Wimmer" title="Wahnen and presupposition triggering" number="5" cat="alternate" pages="" />
 </alternates-->
 
-<withdrawal>
+<!--withdrawal>
   <talk author="Roussanka Loukanova" title="Algorithmic Type Rising of Nominal Phrases in Type-Theory of Acyclic Recursion" number="14" cat="short" pages="" />
   <talk author="Shuyang Sun and Antoine Venant" title="Evaluating the Compositional Treatment of Quantification in Large Language Models" number="37" cat="short" pages="" />
-</withdrawal> 
+</withdrawal--> 
   
 <sponsors>
 <sponsor url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</sponsor>
@@ -234,6 +234,7 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 </pcmembers>
 <localorganizers>
   <localorganizer name="David Y. Oshima" affiliation="Nagoya University" />
+  <localorganizer name="Ikumi Imani" affiliation="Nagoya Gakuin University" />
 </localorganizers>
 
 <archives>
