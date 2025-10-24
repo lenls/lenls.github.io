@@ -78,7 +78,8 @@ The registration is available via the link below. https://forms.gle/LyLkTAsH2xos
 
 Program:
 ========
-1st Day: November 28 (Fri)--------------------------
+1st Day: November 28 (Fri)
+--------------------------
 
 9:50-10:00:Opening remark
 
@@ -115,7 +116,8 @@ Program:
 
 
 
-2nd Day: November 29 (Sat)--------------------------
+2nd Day: November 29 (Sat)
+--------------------------
 
 10:00-11:30:
     * Richard Zuber
@@ -154,7 +156,8 @@ Program:
 19:00-:Conference dinner
 
 
-3rd Day: November 30 (Sun)--------------------------
+3rd Day: November 30 (Sun)
+--------------------------
 
 10:00-11:30:
     * Toshiko Oda
@@ -165,9 +168,7 @@ Program:
       "Where does anti-uniqueness come from? A case study of English demonstratives"
 
 
-13:30-15:00:
-    * Shuyang Sun and Antoine Venant
-      "Evaluating the Compositional Treatment of Quantification in Large Language Models"
+14:00-15:00:
     * Philippe de Groote and Santiago Arambillete
       "On the use of binary relations as collective predicates in natural mathematics"
     * Andrew Kato
@@ -185,7 +186,7 @@ Program:
 
 17:30-18:30:Invited Talk
     * Dorothy Ahn
-      ""
+      "Reconsidering the role of iota and presupposition in reference"
 
 
 18:30-18:40:Closing remark
@@ -194,9 +195,13 @@ Program:
 
 
 
+
+    * Roussanka Loukanova
+      "Algorithmic Type Rising of Nominal Phrases in Type-Theory of Acyclic Recursion"
+    * Shuyang Sun and Antoine Venant
+      "Evaluating the Compositional Treatment of Quantification in Large Language Models"
  
   
-
 Sponsors:
 ========
 LENLS is being organized by an alliance of the following sponsors.

@@ -153,8 +153,7 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
   <talk author="Jiayuan Chen" title="Where does anti-uniqueness come from? A case study of English demonstratives" number="31" cat="long" pages="" />
 </session>
 
-<session time="13:30-15:00" name="" chair="Muyi Yang">
-  <talk author="Shuyang Sun and Antoine Venant" title="Evaluating the Compositional Treatment of Quantification in Large Language Models" number="37" cat="short" pages="" />
+<session time="14:00-15:00" name="" chair="Muyi Yang">
   <talk author="Philippe de Groote and Santiago Arambillete" title="On the use of binary relations as collective predicates in natural mathematics" number="18" cat="long" pages="" />
   <talk author="Andrew Kato" title="The scope and reporting of correction" number="38" cat="long" pages="" />
 </session>
@@ -166,7 +165,7 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 </session>
 
 <session time="17:30-18:30" name="Invited Talk" chair="David Y. Oshima">
-  <invitedtalk author="Dorothy Ahn" title="" number="invited_drothy" format="" pages="" />
+  <invitedtalk author="Dorothy Ahn" title="Reconsidering the role of iota and presupposition in reference" number="invited_drothy" format="" pages="" />
 </session>
 
 <event time="18:30-18:40" name="Closing remark" />
@@ -174,14 +173,15 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 </program>
 
 <!--alternates>
-  <talk author="Roussanka Loukanova" title="Algorithmic Type Rising of Nominal Phrases in Type-Theory of Acyclic Recursion" number="14" cat="short" pages="" />
   <talk author="Kristina Liefke" title="Propositions in the wild: Towards a non-ideal(ized) theory of communicated content" number="1" cat="alternate" pages="" />
   <talk author="Simon Wimmer" title="Wahnen and presupposition triggering" number="5" cat="alternate" pages="" />
 </alternates-->
 
-<withdrawal /> 
+<withdrawal>
+  <talk author="Roussanka Loukanova" title="Algorithmic Type Rising of Nominal Phrases in Type-Theory of Acyclic Recursion" number="14" cat="short" pages="" />
+  <talk author="Shuyang Sun and Antoine Venant" title="Evaluating the Compositional Treatment of Quantification in Large Language Models" number="37" cat="short" pages="" />
+</withdrawal> 
   
-
 <sponsors>
 <sponsor url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</sponsor>
 <sponsor url="https://www.jst.go.jp/kisoken/crest/en/project/1111109/1111109_2020.html">"AI systems that can explain by language based on knowledge and reasoning" project (Grant Number JPMJCR20D2), funded by JST CREST Programs "Core technologies for trusted quality AI systems"</sponsor>

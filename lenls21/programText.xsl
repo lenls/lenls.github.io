@@ -102,7 +102,8 @@ Student Session:
 ========<xsl:apply-templates /></xsl:template>
 
 <xsl:template match="day">
-<xsl:value-of select="@date" />--------------------------<xsl:apply-templates /></xsl:template>
+<xsl:value-of select="@date" />
+--------------------------<xsl:apply-templates /></xsl:template>
 
 <xsl:template match="event">
 <xsl:value-of select="@time" />:<xsl:value-of select="@name" /></xsl:template>
