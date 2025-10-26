@@ -112,7 +112,7 @@ Program:
 
 17:30-18:30:Invited Talk 
     * Luca Gasparri
-      "(TBA)"
+      "Singular generic 'the' and uniqueness"
 
 
 
