@@ -3,7 +3,7 @@
 <xsl:output method="xml" encoding="UTF-8"/>
 
 <xsl:template match="/">
-\documentclass[12pt]{jarticle}
+\documentclass[12pt]{ltjarticle}
 \usepackage[dvips, twoside, bindingoffset=0.4cm, paper=a4paper, hmargin=1.5cm, top=3cm, bottom=1.5cm]{geometry}
 \usepackage[psamsfonts]{amssymb}
 \usepackage[dvips]{graphicx}
