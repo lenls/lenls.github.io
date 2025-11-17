@@ -109,7 +109,7 @@ LENLS is being organized by an alliance of the following sponsors.
 </xsl:for-each>
 \end{itemize}
 
-\subsection*{Workship Organizers/Program Committee}
+\subsection*{Workshop Organizers/Program Committee}
 \begin{flushleft}
 \begin{tabular}{l}
 <xsl:for-each select="//pcmember">

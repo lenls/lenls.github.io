@@ -11,7 +11,7 @@
                       CALL FOR PARTICIPATION
 
                   Logic and Engineering of
-             Natural Language Semantics 21 (LENLS21)
+             Natural Language Semantics (LENLS21)
 
 Workshop Site : Nagoya University
                   　Conference Hall (Integrated Research Bldg. for Humanities and
