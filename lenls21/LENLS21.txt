@@ -60,8 +60,6 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 
 Important dates:
 ================
-Deadline for the extended abstract: Nov. 13, 2025 (AoE)
-Deadline for online registration: Nov. 16, 2025 (AoE)
 LENLS21: Nov. 28-30, 2025
 Deadline for full papers: Dec. 11, 2025 (AoE)
 
@@ -228,23 +226,23 @@ Program Committee:
   - Patrick D. Elliott (Heinrich-Heine University of Dusseldorf)
   - Naoya Fujikawa (University of Tokyo)
   - Hitomi Hirayama (Keio University)
+  - Yu Izumi (Nanzan University)
   - Magdalena Kaufmann (University of Connecticut)
   - Elin McCready (ICREA/Autonomous University of Barcelona)
   - Koji Mineshima (Keio University)
+  - Teruyuki Mizuno (Ochanomizu University)
+  - Kenta Mizutani (Aichi Prefectural University)
   - Yoshiki Mori (University of Tokyo)
+  - Yang Muyi (Osaka University)
+  - Shinya Okano (University of Tokyo)
   - David Y. Oshima (Nagoya University)
+  - Lukas Rieser (Tokyo University of Agriculture and Technology)
   - Osamu Sawada (Kobe University)
   - Eri Tanaka (Osaka University)
+  - Gregoire Winterstein (Université du Québec à Montréal)
+  - Akitaka Yamada (Keio University)
   - Shunsuke Yatabe (Ochanomizu University)
   - Kei Yoshimoto (Tohoku University)
-  - Yu Izumi (Nanzan University)
-  - Shinya Okano (University of Tokyo)
-  - Teruyuki Mizuno (Ochanomizu University)
-  - Yang Muyi (Osaka University)
-  - Akitaka Yamada (Keio University)
-  - Kenta Mizutani (Aichi Prefectural University)
-  - Lukas Rieser (Tokyo University of Agriculture and Technology)
-  - Gregoire Winterstein (Université du Québec à Montréal)
 
 Local Organizers:
 ======================================
