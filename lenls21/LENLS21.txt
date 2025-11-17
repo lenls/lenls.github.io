@@ -170,7 +170,7 @@ Program:
     * Philippe de Groote and Santiago Arambillete
       "On the use of binary relations as collective predicates in natural mathematics"
     * Andrew Kato
-      "The scope and reporting of correction"
+      "Correcting context updates"
 
 
 15:30-17:00:
