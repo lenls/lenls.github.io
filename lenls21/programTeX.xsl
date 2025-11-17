@@ -73,7 +73,7 @@ Workshop Co-chairs\\ $\;$\\
 
 \begin{large}
 <xsl:for-each select="//site">
-  <xsl:value-of select="name" />, \\
+  <xsl:value-of select="name" /> \\
 </xsl:for-each>
 <xsl:value-of select="//conferencedate" />
 \end{large}
