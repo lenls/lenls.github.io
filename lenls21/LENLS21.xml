@@ -98,7 +98,7 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 <session time="10:00-11:30" name="" chair="Teruyuki Mizuno">
   <talk author="Linmin Zhang" title="Deriving the diminishing effect" number="30" cat="long" exabst="submitted" pages="6" note="only 28 and 29" />
   <talk author="Ka-Fat Chow" title="Scope Ambiguity of Polar / Alternative Questions" number="12" cat="long" exabst="submitted" pages="7" note="Nov 28 morning only" />
-  <talk author="Christian Fermuller" title="On the semantics of good, better, and ought" number="11" cat="short" exabst="submitted" pages="6" note="only 28 and 29" />
+  <talk author="Christian Fermüller" title="On the semantics of good, better, and ought" number="11" cat="short" exabst="submitted" pages="6" note="only 28 and 29" />
 </session>
 
 <session time="13:30-15:00" name="Online Session" chair="Naoya Fujikawa">
@@ -109,7 +109,7 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 
 <session time="15:30-17:00" name="" chair="Lukas Rieser"> 
   <talk author="Elin McCready, Giuseppe Varaschin and Antonio Machicao Y Priemer" title="Explicitness, Honorification and Indices" number="17" cat="short" exabst="submitted" pages="3" />
-  <talk author="Christopher Davis and Gregoire Winterstein" title="Beyond personas: honest failures in projecting social meaning" number="23" cat="long" exabst="submitted" pages="5" />
+  <talk author="Christopher Davis and Grégoire Winterstein" title="Beyond personas: honest failures in projecting social meaning" number="23" cat="long" exabst="submitted" pages="5" />
   <talk author="Maeva Sillaire, Gregoire Winterstein and Mathilde Dargnat" title="Concessive marking in French: pourtant vs. quand meme" number="29" cat="long" exabst="submitted" pages="5" />
  </session>
 
@@ -127,7 +127,7 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 </session>
 
 <session time="13:30-15:00" name="" chair="Daisuke Bekki">
-  <talk author="Shuichi Yatabe" title="The semantics of split-antecedent reciprocals" number="20" cat="short" exabst="submitted" pages="5" note="Saturday afternoon or Sunday" />
+  <talk author="Shûichi Yatabe" title="The semantics of split-antecedent reciprocals" number="20" cat="short" exabst="submitted" pages="5" note="Saturday afternoon or Sunday" />
   <talk author="Alastair Butler" title="Dependency relations inform quantificational scope" number="15" cat="long" exabst="submitted" pages="6" />
   <talk author="Oleg Kiselyov" title="Local Skolemization: Predicate Logic with Anaphora, Calmed Down" number="13" cat="long" exabst="submitted" pages="6" />
 </session>
@@ -135,11 +135,11 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 <session time="15:30-17:00" name="" chair="Koji Mineshima">
   <talk author="Daisuke Bekki" title="A Proof-theoretic Analysis of VP Ellipsis" number="10" cat="long" exabst="submitted" pages="7" />
   <talk author="Daiki Matsuoka and Hitomi Yanaka" title="Split and compose: Deriving long-distance dependencies in a continuation-based grammar" number="40" cat="short" exabst="submitted" pages="6" />
-  <talk author="Timothee Bernard and Philippe de Groote" title="Individuals as sets of perspectives" number="8" cat="long" exabst="submitted" pages="5" />
+  <talk author="Timothée Bernard and Philippe de Groote" title="Individuals as sets of perspectives" number="8" cat="long" exabst="submitted" pages="5" />
 </session>
 
 <session time="17:30-18:30" name="" chair="Alastair Butler">
-  <talk author="Marina Perez del Valle" title="Logic and Linguistic Intuitions in Dynamic Semantics" number="6" cat="long" exabst="submitted" pages="6" />
+  <talk author="Marina Pérez del Valle" title="Logic and Linguistic Intuitions in Dynamic Semantics" number="6" cat="long" exabst="submitted" pages="6" />
   <talk author="Yu Tomita" title="Rightward and Covert Movement: a Formulation with Directional Minimalist Grammar" number="39" cat="short" exabst="submitted" pages="7" note="29-30" />
 </session>
 

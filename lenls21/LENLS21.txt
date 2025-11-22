@@ -86,7 +86,7 @@ Program:
       "Deriving the diminishing effect"
     * Ka-Fat Chow
       "Scope Ambiguity of Polar / Alternative Questions"
-    * Christian Fermuller
+    * Christian Fermüller
       "On the semantics of good, better, and ought"
 
 
@@ -102,7 +102,7 @@ Program:
 15:30-17:00: 
     * Elin McCready, Giuseppe Varaschin and Antonio Machicao Y Priemer
       "Explicitness, Honorification and Indices"
-    * Christopher Davis and Gregoire Winterstein
+    * Christopher Davis and Grégoire Winterstein
       "Beyond personas: honest failures in projecting social meaning"
     * Maeva Sillaire, Gregoire Winterstein and Mathilde Dargnat
       "Concessive marking in French: pourtant vs. quand meme"
@@ -127,7 +127,7 @@ Program:
 
 
 13:30-15:00:
-    * Shuichi Yatabe
+    * Shûichi Yatabe
       "The semantics of split-antecedent reciprocals"
     * Alastair Butler
       "Dependency relations inform quantificational scope"
@@ -140,12 +140,12 @@ Program:
       "A Proof-theoretic Analysis of VP Ellipsis"
     * Daiki Matsuoka and Hitomi Yanaka
       "Split and compose: Deriving long-distance dependencies in a continuation-based grammar"
-    * Timothee Bernard and Philippe de Groote
+    * Timothée Bernard and Philippe de Groote
       "Individuals as sets of perspectives"
 
 
 17:30-18:30:
-    * Marina Perez del Valle
+    * Marina Pérez del Valle
       "Logic and Linguistic Intuitions in Dynamic Semantics"
     * Yu Tomita
       "Rightward and Covert Movement: a Formulation with Directional Minimalist Grammar"
