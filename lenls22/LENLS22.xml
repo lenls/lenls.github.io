@@ -39,7 +39,7 @@ including but not limited to the following:</p>
 <p>LENLS22 will be held in a hybrid format. Most presentations will take place in person at Kobe University, with the exception of a few remote talks. We will also provide a Zoom live stream for remote attendance. However, please note that the Zoom link will only be shared with registered participants.
 </p></description>
 
-<!--submission>
+<submission>
 Authors are required to choose from one of the following two submission categories: 
 <category>Abstract Only</category> and <category>Abstract+Full Paper</category>.  For both categories, authors must submit abstracts 
 (anonymous, up to 4 pages including figures and references, A4 size, 12-point font) 
@@ -48,15 +48,15 @@ on original, unpublished research.  Abstracts must be submitted electronically i
 <url>https://easychair.org/conferences/?conf=lenls22</url>
 
 <p>Upon acceptance, authors (both categories) are expected to submit extended abstracts 
-(up to 5 pages) before Oct 15.  Note that abstracts submitted to the <category>Abstract+Full Paper</category> 
+(up to 5 pages) before Nov 13.  Note that abstracts submitted to the <category>Abstract+Full Paper</category> 
 category may be accepted in the <category>Abstract Only</category> category (but not vice versa).  
 The proceedings of the workshop will be made available online, including extended abstracts 
 (both categories).</p>
 
 <p>Authors submitting to the <category>Abstract+Full Paper</category> category are required to submit a full paper 
-(up to 15 pages) for the post-proceedings volume after the conference and at least one of them must agree to review 
+(up to 16 pages, excluding references and appendices) for the post-proceedings volume after the conference and at least one of them must agree to review 
 at least one other full paper.</p>
-</submission-->
+</submission>
 
 <!--selectedpaper>
 LENLS22 is held under the umbrella of <host url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</host>.  
