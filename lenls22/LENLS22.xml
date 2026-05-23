@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE workshop>
+<workshop month="11月" place="神戸">
+
+<summary>
+  <title>CALL FOR PAPER</title>
+  <FstLine>the 22nd International Conference of</FstLine>
+  <SndLine>Logic and Engineering of</SndLine>
+  <TrdLine>Natural Language Semantics</TrdLine>
+  <short>LENLS22</short>
+  <site>
+    <name>Kobe University</name>
+    <address></address>
+    <url></url>
+  </site>
+  <conferencedate>November 26 (Thu) - 28 (Sat), 2026</conferencedate>
+  <email>lenls22[[at]]easychair.org</email>
+  <website>https://lenls.github.io/lenls22/</website>
+  <isbn></isbn>
+
+  <invitedspeaker name="(TBA)" affiliation="" />
+  <invitedspeaker name="(TBA)" affiliation="" />
+</summary>
+
+<description>
+<p>LENLS is an annual international conference on formal linguistics (i.e., syntax, semantics 
+and pragmatics), computational linguistics, the philosophy of language, and related fields, 
+including but not limited to the following:</p>
+<topics>
+<topic>Formal syntax, semantics and pragmatics of natural language</topic>
+<topic>Model-theoretic and/or proof-theoretic semantics of natural language</topic>
+<topic>Computational approaches to semantics and pragmatics</topic>
+<topic>Nonclassical logic and its relation to natural language 
+  (e.g. substructural, fuzzy, categorical, and topological logic)</topic>
+<topic>Formal philosophy of language</topic>
+<topic>Scientific methodology and/or experimental design in linguistics</topic>
+</topics>
+
+<p>LENLS22 will be held in a hybrid format. Most presentations will take place in person at Kobe University, with the exception of a few remote talks. We will also provide a Zoom live stream for remote attendance. However, please note that the Zoom link will only be shared with registered participants.
+</p></description>
+
+<!--submission>
+Authors are required to choose from one of the following two submission categories: 
+<category>Abstract Only</category> and <category>Abstract+Full Paper</category>.  For both categories, authors must submit abstracts 
+(anonymous, up to 4 pages including figures and references, A4 size, 12-point font) 
+on original, unpublished research.  Abstracts must be submitted electronically in PDF at:
+
+<url>https://easychair.org/conferences/?conf=lenls22</url>
+
+<p>Upon acceptance, authors (both categories) are expected to submit extended abstracts 
+(up to 5 pages) before Oct 15.  Note that abstracts submitted to the <category>Abstract+Full Paper</category> 
+category may be accepted in the <category>Abstract Only</category> category (but not vice versa).  
+The proceedings of the workshop will be made available online, including extended abstracts 
+(both categories).</p>
+
+<p>Authors submitting to the <category>Abstract+Full Paper</category> category are required to submit a full paper 
+(up to 15 pages) for the post-proceedings volume after the conference and at least one of them must agree to review 
+at least one other full paper.</p>
+</submission-->
+
+<!--selectedpaper>
+LENLS22 is held under the umbrella of <host url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</host>.  
+The collection of full papers will be published in the Lecture Notes in Computer Science (LNCS) 
+series, in accordance with the contract between Springer Nature Switzerland AG and FoLLI.
+</selectedpaper-->
+
+<importantdates>
+<importantdate name="Abstract submission deadline"     date="Aug. 31, 2026 (AoE)" />
+<importantdate name="Notification of acceptance"       date="Oct. 1, 2026 (AoE)" />
+<importantdate name="Deadline for early registration"  date="Oct. 31, 2026 (AoE)" />
+<importantdate name="Deadline for the extended abstract" date="Nov. 13, 2026 (AoE)" />
+<importantdate name="Deadline for online registration"  date="Nov. 16, 2026 (AoE)" />
+<importantdate name="LENLS22"                          date="Nov. 26-28, 2026" />
+<importantdate name="Deadline for full papers"         date="Dec. 11, 2026 (AoE)" />
+</importantdates>
+
+<!--registration>
+  <site>https://forms.gle/LyLkTAsH2xosAqXe9</site>
+  <description1>The registration is available via the link below. </description1>
+  <description2>
+    The registration fee will be collected on-site at the reception desk (cash only).  
+    The zoom link will be shared only among the registered participants.
+    The deadline for the registration with the conference dinner is October 31, 2026 (AoE).
+    The registration with the conference dinner is closed.
+    The deadline for the registration without the conference dinner is November 16, 2026 (AoE).
+  </description2>
+  <fee type="Registration fee for in-person participation: " price="5,000 yen" />
+  <fee type="Registration fee for online participation: " price="free of charge" />
+  <fee type="Conference dinner fee: " price="5,000 yen" />
+  </registration--><!--onlineproceedings url="https://lenls.github.io/lenls22/LENLS22OnlineProceedings.pdf" /-->
+  
+<sponsors>
+<!--sponsor url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</sponsor-->
+<sponsor url="https://daisukebekki.github.io/crest2025.html">"The Nexus of Human-LLM Interaction: A Multidisciplinary Linguistic Approach to Building a Collaborative Feedback Loop" project (Grant Number JPMJCR2565), funded by JST CREST Programs "Creation of an Interdisciplinary System Foundation for Realizing a Society of Human-AI Coexistence and Collaboration"</sponsor>
+<sponsor url="https://www.kobe-u.ac.jp/en/">Kobe University</sponsor>
+</sponsors>
+
+<code>
+<cp>All attendees, speakers, sponsors and volunteers at our conference are required to adhere to the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everyone.</cp>
+<ct>The Quick Version</ct>
+<cp>The organizers are dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of conference participants in any form. Sexual language and imagery are not appropriate for any conference venue, including talks, workshops, parties, and social media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the organisers.</cp>
+<ct>The Less Quick Version</ct>
+<cp>Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, and religion (or lack thereof), as well as sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.</cp>
+<cp>Participants asked to stop harassing behavior are expected to comply immediately.</cp>
+<cp>If a participant engages in harassing behavior, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference without a refund.</cp>
+<cp>If you experience harassment, notice that someone else is being harassed, or have any other concerns, please contact the following conference staff members immediately: Elin McCready and Daisuke Bekki</cp>
+<cp>The conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.</cp>
+<cp>We expect participants to follow these rules at conference and workshop venues as well as conference-related social events.</cp>
+</code>
+
+<pcmembers>
+  <pcmember name="Daisuke Bekki"        affiliation="Ochanomizu University"         role="cochair" />
+  <!--pcmember name="Alastair Butler"      affiliation="Hirosaki University" /-->
+  <!--pcmember name="Patrick D. Elliott"   affiliation="Heinrich-Heine University of Dusseldorf" /-->
+  <!--pcmember name="Naoya Fujikawa"       affiliation="University of Tokyo" /-->
+  <!--pcmember name="Yurie Hara"           affiliation="Hokkaido University" /-->
+  <!--pcmember name="Robert Henderson"     affiliation="University of Arizona" /-->
+  <!--pcmember name="Hitomi Hirayama"      affiliation="Keio University" /-->
+  <!--pcmember name="Yu Izumi"             affiliation="Nanzan University" /-->
+  <!--pcmember name="Magdalena Kaufmann"   affiliation="University of Connecticut" /-->
+  <!--pcmember name="Kristina Liefke"      affiliation="Ruhr University Bochum" /-->
+  <!--pcmember name="Elin McCready"        affiliation="ICREA/Autonomous University of Barcelona" /-->
+  <pcmember name="Koji Mineshima"       affiliation="Keio University"               role="cochair" />
+  <!--pcmember name="Teruyuki Mizuno"      affiliation="Ochanomizu University" /-->
+  <!--pcmember name="Kenta Mizutani"       affiliation="Aichi Prefectural University" /-->
+  <!--pcmember name="Yoshiki Mori"         affiliation="University of Tokyo" /-->
+  <!--pcmember name="Yang Muyi"            affiliation="Osaka University" /-->
+  <!--pcmember name="Shinya Okano"         affiliation="University of Tokyo" /-->
+  <!--pcmember name="David Y. Oshima"      affiliation="Nagoya University" /-->
+  <!--pcmember name="Lukas Rieser"         affiliation="Tokyo University of Agriculture and Technology" /-->
+  <!--pcmember name="Katsuhiko Sano"       affiliation="Hokkaido University" /-->
+  <pcmember name="Osamu Sawada"         affiliation="Kobe University" role="chair" />
+  <!--pcmember name="Eri Tanaka"           affiliation="Osaka University" /-->
+  <!--pcmember name="Wataru Uegaki"        affiliation="University of Edinburgh" /-->
+  <!--pcmember name="Gregoire Winterstein" affiliation="Université du Québec à Montréal" /-->
+  <!--pcmember name="Katsuhiko Yabushita"  affiliation="Naruto University of Education" /-->
+  <!--pcmember name="Akitaka Yamada"       affiliation="Keio University" /-->
+  <!--pcmember name="Takeshi Yamada"       affiliation="Kobe University" /-->
+  <!--pcmember name="Shunsuke Yatabe"      affiliation="Ochanomizu University" /-->
+  <!--pcmember name="Kei Yoshimoto"        affiliation="Tohoku University" /-->
+
+</pcmembers>
+<localorganizers>
+  <localorganizer name="Osamu Sawada" affiliation="Kobe University" />
+</localorganizers>
+
+<archives>
+  <!--archive name="LENLS1"  year="2004" website="lenls1"  proceedings="" /-->
+  <archive name="LENLS2"  year="2005" website="lenls2"  proceedings="https://link.springer.com/book/10.1007/11780496" />
+  <archive name="LENLS3"  year="2006" website="lenls3"  proceedings="https://link.springer.com/book/10.1007/978-3-540-69902-6" />
+  <archive name="LENLS4"  year="2007" website="lenls4"  proceedings="https://link.springer.com/book/10.1007/978-3-540-78197-4" />
+  <archive name="LENLS5"  year="2008" website="lenls5"  proceedings="https://link.springer.com/book/10.1007/978-3-642-00609-8" />
+  <archive name="LENLS6"  year="2009" website="lenls6"  proceedings="https://link.springer.com/book/10.1007/978-3-642-14888-0" />
+  <archive name="LENLS7"  year="2010" website="lenls7"  proceedings="https://link.springer.com/book/10.1007/978-3-642-25655-4" />
+  <archive name="LENLS8"  year="2011" website="lenls8"  proceedings="https://link.springer.com/book/10.1007/978-3-642-32090-3" />
+  <archive name="LENLS9"  year="2012" website="lenls9"  proceedings="https://link.springer.com/book/10.1007/978-3-642-39931-2" />
+  <archive name="LENLS10" year="2013" website="lenls10" proceedings="https://link.springer.com/book/10.1007/978-3-319-10061-6" />
+  <archive name="LENLS11" year="2014" website="lenls11" proceedings="https://link.springer.com/book/10.1007/978-3-662-48119-6" />
+  <archive name="LENLS12" year="2015" website="lenls12" proceedings="https://link.springer.com/book/10.1007/978-3-319-50953-2" />
+  <archive name="LENLS13" year="2016" website="lenls13" proceedings="https://link.springer.com/book/10.1007/978-3-319-61572-1" />
+  <archive name="LENLS14" year="2017" website="lenls14" proceedings="https://link.springer.com/book/10.1007/978-3-319-93794-6" />
+  <archive name="LENLS15" year="2018" website="lenls15" proceedings="https://link.springer.com/book/10.1007/978-3-030-31605-1" />
+  <archive name="LENLS16" year="2019" website="lenls16" proceedings="https://link.springer.com/book/10.1007/978-3-030-58790-1" />
+  <archive name="LENLS17" year="2020" website="lenls17" proceedings="https://link.springer.com/book/10.1007/978-3-030-79942-7" />
+  <archive name="LENLS18" year="2021" website="lenls18" proceedings="https://link.springer.com/book/10.1007/978-3-031-36190-6" />
+  <archive name="LENLS19" year="2022" website="lenls19" proceedings="https://link.springer.com/book/10.1007/978-3-031-43977-3" />
+  <archive name="LENLS20" year="2023" website="lenls20" proceedings="https://link.springer.com/book/10.1007/978-3-031-60878-0" />
+  <!--archive name="LENLS21" year="2025" website="lenls21" proceedings="" /-->
+</archives>
+</workshop>
