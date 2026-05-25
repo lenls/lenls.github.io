@@ -91,7 +91,7 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
   
 <sponsors>
 <!--sponsor url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</sponsor-->
-<sponsor url="https://daisukebekki.github.io/crest2025.html">"The Nexus of Human-LLM Interaction: A Multidisciplinary Linguistic Approach to Building a Collaborative Feedback Loop" project (Grant Number JPMJCR2565), funded by JST CREST Programs "Creation of an Interdisciplinary System Foundation for Realizing a Society of Human-AI Coexistence and Collaboration"</sponsor>
+<!--sponsor url="https://daisukebekki.github.io/crest2025.html">"The Nexus of Human-LLM Interaction: A Multidisciplinary Linguistic Approach to Building a Collaborative Feedback Loop" project (Grant Number JPMJCR2565), funded by JST CREST Programs "Creation of an Interdisciplinary System Foundation for Realizing a Society of Human-AI Coexistence and Collaboration"</sponsor-->
 <sponsor url="https://www.kobe-u.ac.jp/en/">Kobe University</sponsor>
 </sponsors>
 
@@ -110,29 +110,29 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 
 <pcmembers>
   <pcmember name="Daisuke Bekki"        affiliation="Ochanomizu University"         role="cochair" />
-  <!--pcmember name="Alastair Butler"      affiliation="Hirosaki University" /-->
+  <pcmember name="Alastair Butler"      affiliation="Hirosaki University" />
   <pcmember name="Patrick D. Elliott"   affiliation="Heinrich-Heine University of Dusseldorf" />
-  <!--pcmember name="Naoya Fujikawa"       affiliation="University of Tokyo" /-->
+  <pcmember name="Naoya Fujikawa"       affiliation="University of Tokyo" />
   <!--pcmember name="Yurie Hara"           affiliation="Hokkaido University" /-->
   <!--pcmember name="Robert Henderson"     affiliation="University of Arizona" /-->
   <!--pcmember name="Hitomi Hirayama"      affiliation="Keio University" /-->
-  <!--pcmember name="Yu Izumi"             affiliation="Nanzan University" /-->
+  <pcmember name="Yu Izumi"             affiliation="Nanzan University" />
   <!--pcmember name="Magdalena Kaufmann"   affiliation="University of Connecticut" /-->
   <!--pcmember name="Kristina Liefke"      affiliation="Ruhr University Bochum" /-->
-  <!--pcmember name="Elin McCready"        affiliation="ICREA/Autonomous University of Barcelona" /-->
+  <pcmember name="Elin McCready"        affiliation="ICREA/Autonomous University of Barcelona" />
   <pcmember name="Koji Mineshima"       affiliation="Keio University"               role="cochair" />
   <pcmember name="Teruyuki Mizuno"      affiliation="Ochanomizu University" />
   <pcmember name="Kenta Mizutani"       affiliation="Aichi Prefectural University" />
   <!--pcmember name="Yoshiki Mori"         affiliation="University of Tokyo" /-->
-  <!--pcmember name="Yang Muyi"            affiliation="Osaka University" /-->
+  <pcmember name="Yang Muyi"            affiliation="Osaka University" />
   <pcmember name="Shinya Okano"         affiliation="University of Tokyo" />
   <pcmember name="David -Y. Oshima"      affiliation="Nagoya University" />
-  <!--pcmember name="Lukas Rieser"         affiliation="Tokyo University of Agriculture and Technology" /-->
+  <pcmember name="Lukas Rieser"         affiliation="Tokyo University of Agriculture and Technology" />
   <!--pcmember name="Katsuhiko Sano"       affiliation="Hokkaido University" /-->
   <pcmember name="Osamu Sawada"         affiliation="Kobe University" role="chair" />
-  <!--pcmember name="Eri Tanaka"           affiliation="Osaka University" /-->
+  <pcmember name="Eri Tanaka"           affiliation="Osaka University" />
   <pcmember name="Wataru Uegaki"        affiliation="University of Edinburgh" />
-  <!--pcmember name="Gregoire Winterstein" affiliation="Université du Québec à Montréal" /-->
+  <pcmember name="Gregoire Winterstein" affiliation="Université du Québec à Montréal" />
   <!--pcmember name="Katsuhiko Yabushita"  affiliation="Naruto University of Education" /-->
   <!--pcmember name="Akitaka Yamada"       affiliation="Keio University" /-->
   <!--pcmember name="Takeshi Yamada"       affiliation="Kobe University" /-->
