@@ -123,7 +123,7 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
   <pcmember name="Koji Mineshima"       affiliation="Keio University"               role="cochair" />
   <pcmember name="Teruyuki Mizuno"      affiliation="Ochanomizu University" />
   <pcmember name="Kenta Mizutani"       affiliation="Aichi Prefectural University" />
-  <!--pcmember name="Yoshiki Mori"         affiliation="University of Tokyo" /-->
+  <pcmember name="Yoshiki Mori"         affiliation="University of Tokyo" />
   <pcmember name="Yang Muyi"            affiliation="Osaka University" />
   <pcmember name="Shinya Okano"         affiliation="University of Tokyo" />
   <pcmember name="David -Y. Oshima"      affiliation="Nagoya University" />
@@ -134,7 +134,7 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
   <pcmember name="Wataru Uegaki"        affiliation="University of Edinburgh" />
   <pcmember name="Gregoire Winterstein" affiliation="Université du Québec à Montréal" />
   <!--pcmember name="Katsuhiko Yabushita"  affiliation="Naruto University of Education" /-->
-  <!--pcmember name="Akitaka Yamada"       affiliation="Keio University" /-->
+  <pcmember name="Akitaka Yamada"       affiliation="Keio University" />
   <!--pcmember name="Takeshi Yamada"       affiliation="Kobe University" /-->
   <pcmember name="Shunsuke Yatabe"      affiliation="Ochanomizu University" />
   <!--pcmember name="Kei Yoshimoto"        affiliation="Tohoku University" /-->
