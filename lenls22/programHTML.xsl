@@ -475,9 +475,10 @@
           <a>
             <xsl:attribute name="href"><xsl:value-of select="@url" /></xsl:attribute>
             <xsl:if test="@logo">
-              <img style="height:2rem;vertical-align:middle;margin-right:.6rem;margin-bottom:.2rem">
+              <img style="vertical-align:middle;margin-right:.6rem;margin-bottom:.2rem">
                 <xsl:attribute name="src"><xsl:value-of select="@logo" /></xsl:attribute>
                 <xsl:attribute name="alt"><xsl:value-of select="." /></xsl:attribute>
+                <xsl:attribute name="style">height:<xsl:choose><xsl:when test="@logoheight"><xsl:value-of select="@logoheight"/></xsl:when><xsl:otherwise>2rem</xsl:otherwise></xsl:choose>;vertical-align:middle;margin-right:.6rem;margin-bottom:.2rem</xsl:attribute>
               </img>
             </xsl:if>
             <xsl:value-of select="." />
