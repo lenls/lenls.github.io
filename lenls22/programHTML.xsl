@@ -474,6 +474,12 @@
         <li>
           <a>
             <xsl:attribute name="href"><xsl:value-of select="@url" /></xsl:attribute>
+            <xsl:if test="@logo">
+              <img style="height:2rem;vertical-align:middle;margin-right:.6rem;margin-bottom:.2rem">
+                <xsl:attribute name="src"><xsl:value-of select="@logo" /></xsl:attribute>
+                <xsl:attribute name="alt"><xsl:value-of select="." /></xsl:attribute>
+              </img>
+            </xsl:if>
             <xsl:value-of select="." />
           </a>
         </li>
