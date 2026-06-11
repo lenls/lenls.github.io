@@ -90,7 +90,7 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
   </registration--><!--onlineproceedings url="https://lenls.github.io/lenls22/LENLS22OnlineProceedings.pdf" /-->
   
 <sponsors>
-<!--sponsor url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</sponsor-->
+<sponsor url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</sponsor>
 <sponsor url="https://daisukebekki.github.io/crest2025.html" logo="images/crest_logo.svg" logoheight="0.725rem">"The Nexus of Human-LLM Interaction: A Multidisciplinary Linguistic Approach to Building a Collaborative Feedback Loop" project (Grant Number JPMJCR2565), funded by JST CREST Programs "Creation of an Interdisciplinary System Foundation for Realizing a Society of Human-AI Coexistence and Collaboration"</sponsor>
 <sponsor url="https://www.jst.go.jp/" logo="images/jst_logo.svg">Japan Science and Technology Agency (JST)</sponsor>
 <sponsor url="https://www.kobe-u.ac.jp/en/">Kobe University</sponsor>
