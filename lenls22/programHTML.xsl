@@ -50,6 +50,7 @@
     <xsl:if test="registration!=''"><a href="#registration">Registration</a></xsl:if>
     <xsl:if test="program!=''"><a href="#program">Program</a></xsl:if>
     <xsl:if test="sponsors!=''"><a href="#sponsors">Sponsors</a></xsl:if>
+    <xsl:if test="aipolicy!=''"><a href="#aipolicy">AI Use Policy</a></xsl:if>
     <xsl:if test="code!=''"><a href="#code">Code of Conduct</a></xsl:if>
     <a href="#committee">Program Committee</a>
     <a href="#localorganizers">Local Organizers</a>
@@ -486,6 +487,13 @@
         </li>
       </xsl:for-each>
     </ul>
+  </section>
+</xsl:template>
+
+<xsl:template match="aipolicy">
+  <section id="aipolicy">
+    <h2 class="section-heading">AI Use Policy</h2>
+    <div class="coc-section"><xsl:apply-templates /></div>
   </section>
 </xsl:template>
 

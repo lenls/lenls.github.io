@@ -58,6 +58,11 @@ The proceedings of the workshop will be made available online, including extende
 at least one other full paper.</p>
 </submission>
 
+<aipolicy>
+<cp>Authors bear full responsibility for all content in their submissions, regardless of whether AI tools were used in their preparation. AI systems may not be listed as co-authors. Submissions found to contain hallucinated content (e.g., fabricated references or citations) will be desk-rejected.</cp>
+<cp>All submissions must include an AI Use Statement (not counted towards the page limit). If no AI tools were used, authors may simply state: "No AI tools were used in preparing this submission." If AI tools were used, authors should specify the tool(s) and the nature of their use. The program committee will take the disclosed use into account in its evaluation.</cp>
+</aipolicy>
+
 <!--selectedpaper>
 LENLS22 is held under the umbrella of <host url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</host>.  
 The collection of full papers will be published in the Lecture Notes in Computer Science (LNCS) 

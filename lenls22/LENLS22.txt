@@ -14,8 +14,8 @@
              Natural Language Semantics (LENLS22)
 
 Workshop Site : Kobe University
-                  　
-                  　
+                  　Takigawa Memorial Hall 2F, Large Conference Room, 1-1 Rokkodai-cho, Nada-ku, Kobe 657-8501
+                  　https://www.kobe-u.ac.jp/en/campus-life/maps/rokkodai2/
 Dates         : November 26 (Thu) - 28 (Sat), 2026
 Contact Person: Osamu Sawada (Kobe University)
 Contact Email : lenls22[[at]]easychair.org
@@ -27,8 +27,8 @@ Co-chair: Daisuke Bekki (Ochanomizu University)
           Koji Mineshima (Keio University)
           
 Invited Speakers:
-- (TBA) ()
-- (TBA) ()
+- Thomas Grano (Indiana University)
+- Daniel Lassiter (University of Edinburgh)
 
 
 LENLS is an annual international conference on formal linguistics (i.e., syntax, semantics 
@@ -46,6 +46,32 @@ including but not limited to the following:
 LENLS22 will be held in a hybrid format. Most presentations will take place in person at Kobe University, with the exception of a few remote talks. We will also provide a Zoom live stream for remote attendance. However, please note that the Zoom link will only be shared with registered participants.
 
 
+
+Submissions:
+============
+Authors are required to choose from one of the following two submission categories: 
+[Abstract Only] and [Abstract+Full Paper].  For both categories, authors must submit abstracts 
+(anonymous, up to 4 pages including figures and references, A4 size, 12-point font) 
+on original, unpublished research.  Abstracts must be submitted electronically in PDF at:
+
+https://easychair.org/conferences/?conf=lenls22
+
+Upon acceptance, authors (both categories) are expected to submit extended abstracts 
+(up to 5 pages) before Nov 13.  Note that abstracts submitted to the [Abstract+Full Paper] 
+category may be accepted in the [Abstract Only] category (but not vice versa).  
+The proceedings of the workshop will be made available online, including extended abstracts 
+(both categories).
+
+Authors submitting to the [Abstract+Full Paper] category are required to submit a full paper 
+(up to 16 pages, excluding references and appendices) for the post-proceedings volume after the conference and at least one of them must agree to review 
+at least one other full paper.
+
+
+AI Use Policy:
+==============
+
+Authors bear full responsibility for all content in their submissions, regardless of whether AI tools were used in their preparation. AI systems may not be listed as co-authors. Submissions found to contain hallucinated content (e.g., fabricated references or citations) will be desk-rejected.
+All submissions must include an AI Use Statement (not counted towards the page limit). If no AI tools were used, authors may simply state: "No AI tools were used in preparing this submission." If AI tools were used, authors should specify the tool(s) and the nature of their use. The program committee will take the disclosed use into account in its evaluation.
 
 
 
@@ -67,7 +93,9 @@ Sponsors:
 ========
 LENLS is being organized by an alliance of the following sponsors.
 
+- The Association for Logic, Language and Information (FoLLI)
 - "The Nexus of Human-LLM Interaction: A Multidisciplinary Linguistic Approach to Building a Collaborative Feedback Loop" project (Grant Number JPMJCR2565), funded by JST CREST Programs "Creation of an Interdisciplinary System Foundation for Realizing a Society of Human-AI Coexistence and Collaboration"
+- Japan Science and Technology Agency (JST)
 - Kobe University
 
 Code of Conduct:
@@ -89,12 +117,34 @@ We expect participants to follow these rules at conference and workshop venues a
 Program Committee:
 ======================================
   - Daisuke Bekki (Ochanomizu University)
+  - Alastair Butler (Hirosaki University)
+  - Patrick D. Elliott (Heinrich-Heine University of Dusseldorf)
+  - Naoya Fujikawa (University of Tokyo)
+  - Robert Henderson (University of Arizona)
+  - Yu Izumi (Nanzan University)
+  - Magdalena Kaufmann (University of Connecticut)
+  - Elin McCready (ICREA/Autonomous University of Barcelona)
   - Koji Mineshima (Keio University)
+  - Teruyuki Mizuno (Ochanomizu University)
+  - Kenta Mizutani (Aichi Prefectural University)
+  - Yoshiki Mori (University of Tokyo)
+  - Yang Muyi (Osaka University)
+  - Shinya Okano (University of Tokyo)
+  - David -Y. Oshima (Nagoya University)
+  - Lukas Rieser (Tokyo University of Agriculture and Technology)
   - Osamu Sawada (Kobe University)
+  - Eri Tanaka (Osaka University)
+  - Wataru Uegaki (University of Edinburgh)
+  - Gregoire Winterstein (Université du Québec à Montréal)
+  - Akitaka Yamada (Keio University)
+  - Shunsuke Yatabe (Ochanomizu University)
+  - Kei Yoshimoto (Tohoku University)
 
 Local Organizers:
 ======================================
   - Osamu Sawada (Kobe University)
+  - Zicheng Xu (Kobe University)
+  - Asa Tomita (Ochanomizu University)
 
 
 

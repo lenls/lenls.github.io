@@ -152,6 +152,11 @@ LENLS is being organized by an alliance of the following sponsors.
 </xsl:for-each>
 </xsl:template>
 
+<xsl:template match="aipolicy">AI Use Policy:
+==============
+<xsl:apply-templates />
+</xsl:template>
+
 <xsl:template match="code">Code of Conduct:
 ================<xsl:apply-templates />
 </xsl:template>
