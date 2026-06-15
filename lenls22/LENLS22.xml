@@ -173,6 +173,6 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
   <archive name="LENLS18" year="2021" website="lenls18" proceedings="https://link.springer.com/book/10.1007/978-3-031-36190-6" />
   <archive name="LENLS19" year="2022" website="lenls19" proceedings="https://link.springer.com/book/10.1007/978-3-031-43977-3" />
   <archive name="LENLS20" year="2023" website="lenls20" proceedings="https://link.springer.com/book/10.1007/978-3-031-60878-0" />
-  <!--archive name="LENLS21" year="2025" website="lenls21" proceedings="" /-->
+  <archive name="LENLS21" year="2025" website="lenls21" proceedings="" />
 </archives>
 </workshop>
