@@ -6,7 +6,7 @@
   <title>CALL FOR PAPER</title>
   <FstLine>the 22nd International Conference of</FstLine>
   <SndLine>Logic and Engineering of</SndLine>
-  <TrdLine>Natural Language Semantics</TrdLine>
+  <TrdLine>Natural Language Semantics 22</TrdLine>
   <short>LENLS22</short>
   <site>
     <name>Kobe University</name>
@@ -23,6 +23,7 @@
 </summary>
 
 <description>
+
 <p>LENLS is an annual international conference on formal linguistics (i.e., syntax, semantics 
 and pragmatics), computational linguistics, the philosophy of language, and related fields, 
 including but not limited to the following:</p>
@@ -36,8 +37,7 @@ including but not limited to the following:</p>
 <topic>Scientific methodology and/or experimental design in linguistics</topic>
 </topics>
 
-<p>LENLS22 will be held in a hybrid format. Most presentations will take place in person at Kobe University, with the exception of a few remote talks. We will also provide a Zoom live stream for remote attendance. However, please note that the Zoom link will only be shared with registered participants.
-</p></description>
+<p>LENLS22 will be held in a hybrid format. Most presentations will take place in person at Kobe University, with the exception of a few remote talks. We will also provide a Zoom live stream for remote attendance. However, please note that the Zoom link will only be shared with registered participants.</p></description>
 
 <submission>
 Authors are required to choose from one of the following two submission categories: 
@@ -54,21 +54,18 @@ The proceedings of the workshop will be made available online, including extende
 (both categories).</p>
 
 <p>Authors submitting to the <category>Abstract+Full Paper</category> category are required to submit a full paper 
-(up to 16 pages, excluding references and appendices) for the post-proceedings volume after the conference and at least one of them must agree to review 
-at least one other full paper.</p>
+(up to 16 pages, excluding references and appendices) for the post-proceedings volume after the conference and at least one of them must agree to review at least one other full paper.</p>
 </submission>
 
-<aipolicy>
-<cp>Authors bear full responsibility for all content in their submissions, regardless of whether AI tools were used in their preparation. AI systems may not be listed as co-authors. Submissions found to contain hallucinated content (e.g., fabricated references or citations) will be desk-rejected.</cp>
+<aipolicy><cp>Authors bear full responsibility for all content in their submissions, regardless of whether AI tools were used in their preparation. AI systems may not be listed as co-authors. Submissions found to contain hallucinated content (e.g., fabricated references or citations) will be desk-rejected.</cp>
+
 <cp>At the time of submission, all authors must complete the AI Use Statement field in the EasyChair submission form. If no AI tools were used, authors may simply state: "No AI tools were used in preparing this submission." If AI tools were used, authors should specify the tool(s) and the nature of their use. The program committee will take the disclosed use into account in its evaluation.</cp>
 </aipolicy>
-
 <!--selectedpaper>
-LENLS22 is held under the umbrella of <host url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</host>.  
-The collection of full papers will be published in the Lecture Notes in Computer Science (LNCS) 
+LENLS22 is held under the umbrella of <host url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</host>.
+The collection of full papers will be published in the Lecture Notes in Computer Science (LNCS)
 series, in accordance with the contract between Springer Nature Switzerland AG and FoLLI.
 </selectedpaper-->
-
 <importantdates>
 <importantdate name="Abstract submission deadline"     date="Aug. 31, 2026 (AoE)" />
 <importantdate name="Notification of acceptance"       date="Oct. 1, 2026 (AoE)" />
@@ -78,7 +75,6 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 <importantdate name="LENLS22"                          date="Nov. 26-28, 2026" />
 <importantdate name="Deadline for full papers"         date="Dec. 11, 2026 (AoE)" />
 </importantdates>
-
 <!--registration>
   <site>https://forms.gle/LyLkTAsH2xosAqXe9</site>
   <description1>The registration is available via the link below. </description1>
@@ -93,13 +89,13 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
   <fee type="Registration fee for online participation: " price="free of charge" />
   <fee type="Conference dinner fee: " price="5,000 yen" />
   </registration--><!--onlineproceedings url="https://lenls.github.io/lenls22/LENLS22OnlineProceedings.pdf" /-->
-  
 <sponsors>
 <sponsor url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</sponsor>
 <sponsor url="https://daisukebekki.github.io/crest2025.html" logo="images/crest_logo.svg" logoheight="0.725rem">"The Nexus of Human-LLM Interaction: A Multidisciplinary Linguistic Approach to Building a Collaborative Feedback Loop" project (Grant Number JPMJCR2565), funded by JST CREST Programs "Creation of an Interdisciplinary System Foundation for Realizing a Society of Human-AI Coexistence and Collaboration"</sponsor>
 <sponsor url="https://www.jst.go.jp/" logo="images/jst_logo.svg">Japan Science and Technology Agency (JST)</sponsor>
 <sponsor url="https://www.kobe-u.ac.jp/en/">Kobe University</sponsor>
 </sponsors>
+
 
 <code>
 <cp>All attendees, speakers, sponsors and volunteers at our conference are required to adhere to the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everyone.</cp>

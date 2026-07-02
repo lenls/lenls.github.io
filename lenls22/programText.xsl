@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:output method="xml" encoding="UTF-8"/>
+<xsl:strip-space elements="workshop"/>
 
 <xsl:template match="/">
   <xsl:apply-templates/>
@@ -12,6 +13,8 @@
 皆様のご参加をお待ちしております。
 
 戸次大介（お茶の水女子大学）
+
+
 <xsl:apply-templates/>
 </xsl:template>
 
@@ -66,6 +69,8 @@ Aims and topics:
 </xsl:template>
 
 <xsl:template match="submission">
+
+
 Submissions:
 ============<xsl:apply-templates /></xsl:template>
 
@@ -93,7 +98,9 @@ Student Session:
 ================<xsl:value-of select="." />
 </xsl:template>
 
-<xsl:template match="importantdates">Important dates:
+<xsl:template match="importantdates">
+
+Important dates:
 ================
 <xsl:for-each select="importantdate">
 <xsl:choose><xsl:when test="@done='yes'"></xsl:when><xsl:otherwise>  <xsl:value-of select="@name" />: <xsl:value-of select="@date" /><xsl:text disable-output-escaping="yes">&#xD;&#xA;</xsl:text></xsl:otherwise></xsl:choose></xsl:for-each></xsl:template>
@@ -120,6 +127,8 @@ Student Session:
 <xsl:template match="alternates">Alternates
 ----------<xsl:apply-templates /></xsl:template>
 
+<xsl:template match="archives" />
+
 <xsl:template match="code" />
 
 <xsl:template match="tutorial">Tutorial Lecture:
@@ -144,20 +153,27 @@ Abstract
 --------<xsl:value-of select="//abstract" />
 </xsl:template>
 
-<xsl:template match="sponsors">Sponsors:
-========
+<xsl:template match="sponsors">
+
+Sponsors:
+=========
 LENLS is being organized by an alliance of the following sponsors.
 <xsl:for-each select="sponsor">
 - <xsl:value-of select="." />
 </xsl:for-each>
 </xsl:template>
 
-<xsl:template match="aipolicy">AI Use Policy:
+<xsl:template match="aipolicy">
+
+AI Use Policy:
 ==============
 <xsl:apply-templates />
 </xsl:template>
 
-<xsl:template match="code">Code of Conduct:
+<xsl:template match="code">
+
+
+Code of Conduct:
 ================<xsl:apply-templates />
 </xsl:template>
 
@@ -171,13 +187,17 @@ Student Session:
 ================<xsl:value-of select="." />
 </xsl:template>
 
-<xsl:template match="pcmembers">Program Committee:
-======================================
+<xsl:template match="pcmembers">
+
+Program Committee:
+==================
 <xsl:for-each select="pcmember">  - <xsl:value-of select="@name" /> (<xsl:value-of select="@affiliation" />)<xsl:text disable-output-escaping="yes">&#xD;&#xA;</xsl:text></xsl:for-each>
 </xsl:template>
 
-<xsl:template match="localorganizers">Local Organizers:
-======================================
+<xsl:template match="localorganizers">
+
+Local Organizers:
+=================
 <xsl:for-each select="localorganizer">  - <xsl:value-of select="@name" /> (<xsl:value-of select="@affiliation" />)<xsl:text disable-output-escaping="yes">&#xD;&#xA;</xsl:text></xsl:for-each></xsl:template>
 
 <xsl:template match="bar"> | </xsl:template>
