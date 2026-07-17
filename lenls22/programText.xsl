@@ -76,7 +76,9 @@ Submissions:
 
 <xsl:template match="category">[<xsl:value-of select="." />]</xsl:template>
 
-<xsl:template match="selectedpaper">Selected Papers:
+<xsl:template match="selectedpaper">
+
+Selected Papers:
 ================<xsl:value-of select="." /></xsl:template>
 
 <xsl:template match="registration">Registration:

@@ -61,11 +61,11 @@ The proceedings of the workshop will be made available online, including extende
 
 <cp>At the time of submission, all authors must complete the AI Use Statement field in the EasyChair submission form. If no AI tools were used, authors may simply state: "No AI tools were used in preparing this submission." If AI tools were used, authors should specify the tool(s) and the nature of their use. The program committee will take the disclosed use into account in its evaluation.</cp>
 </aipolicy>
-<!--selectedpaper>
+<selectedpaper>
 LENLS22 is held under the umbrella of <host url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</host>.
 The collection of full papers will be published in the Lecture Notes in Computer Science (LNCS)
 series, in accordance with the contract between Springer Nature Switzerland AG and FoLLI.
-</selectedpaper-->
+</selectedpaper>
 <importantdates>
 <importantdate name="Abstract submission deadline"     date="Aug. 31, 2026 (AoE)" />
 <importantdate name="Notification of acceptance"       date="Oct. 1, 2026 (AoE)" />

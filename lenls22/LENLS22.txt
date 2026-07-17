@@ -71,6 +71,13 @@ Authors bear full responsibility for all content in their submissions, regardles
 At the time of submission, all authors must complete the AI Use Statement field in the EasyChair submission form. If no AI tools were used, authors may simply state: "No AI tools were used in preparing this submission." If AI tools were used, authors should specify the tool(s) and the nature of their use. The program committee will take the disclosed use into account in its evaluation.
 
 
+Selected Papers:
+================
+LENLS22 is held under the umbrella of The Association for Logic, Language and Information (FoLLI).
+The collection of full papers will be published in the Lecture Notes in Computer Science (LNCS)
+series, in accordance with the contract between Springer Nature Switzerland AG and FoLLI.
+
+
 Important dates:
 ================
 Abstract submission deadline: Aug. 31, 2026 (AoE)
