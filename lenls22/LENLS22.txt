@@ -78,6 +78,19 @@ The collection of full papers will be published in the Lecture Notes in Computer
 series, in accordance with the contract between Springer Nature Switzerland AG and FoLLI.
 
 
+Pre-conference Event:
+=====================
+Joint Symposium of JST CREST "Symbiotic AI Interdisciplinary System" and PRESTO "Symbiotic AI Fundamentals 2026"
+
+  Date: Nov. 25 (Wed), 2026, 13:30–17:00
+  Venue: Takigawa Memorial Hall 2F, Large Conference Room, Kobe University (+ Zoom)
+  Language: English
+
+  This symposium is held at the same venue on the day preceding LENLS22.
+  Participation does not require LENLS22 registration; separate registration
+  will be arranged by JST (details TBA).
+
+
 Important dates:
 ================
 Abstract submission deadline: Aug. 31, 2026 (AoE)

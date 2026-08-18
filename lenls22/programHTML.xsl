@@ -43,6 +43,7 @@
     <a href="#topics">Aim &amp; Topics</a>
     <xsl:if test="submission!=''"><a href="#submissions">Submission</a></xsl:if>
     <xsl:if test="selectedpaper!=''"><a href="#selectedpapers">Selected Papers</a></xsl:if>
+    <xsl:if test="satelliteevent"><a href="#satelliteevent">Pre-conference Event</a></xsl:if>
     <xsl:if test="onlineproceedings">
       <xsl:if test="onlineproceedings/@url!=''"><a href="#onlineproceedings">Online Proceedings</a></xsl:if>
     </xsl:if>
@@ -334,6 +335,33 @@
       </div>
     </section>
   </xsl:if>
+</xsl:template>
+
+<!-- ════════════════════════════════════════════════════
+     satelliteevent
+     ════════════════════════════════════════════════════ -->
+<xsl:template match="satelliteevent">
+  <section id="satelliteevent">
+    <h2 class="section-heading">Pre-conference Event</h2>
+    <p style="font-size:.92rem;font-weight:600;margin-bottom:.6rem"><xsl:value-of select="@name" /></p>
+    <table class="dates-table">
+      <tr>
+        <td class="dt-name">Date &amp; Time</td>
+        <td><span class="dt-date"><xsl:value-of select="@date" /></span></td>
+      </tr>
+      <tr>
+        <td class="dt-name">Venue</td>
+        <td><span class="dt-date">Takigawa Memorial Hall 2F, Large Conference Room, Kobe University (+ Zoom)</span></td>
+      </tr>
+      <tr>
+        <td class="dt-name">Language</td>
+        <td><span class="dt-date">English</span></td>
+      </tr>
+    </table>
+    <p style="font-size:.88rem;margin-top:.7rem;color:#4a5568">
+      This symposium is held at the same venue on the day preceding LENLS22. Participation in this event does not require LENLS22 registration; separate registration will be arranged by JST (details to be announced).
+    </p>
+  </section>
 </xsl:template>
 
 <!-- ════════════════════════════════════════════════════

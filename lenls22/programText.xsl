@@ -155,6 +155,21 @@ Abstract
 --------<xsl:value-of select="//abstract" />
 </xsl:template>
 
+<xsl:template match="satelliteevent">
+
+Pre-conference Event:
+=====================
+<xsl:value-of select="@name" />
+
+  Date: <xsl:value-of select="@date" />
+  Venue: Takigawa Memorial Hall 2F, Large Conference Room, Kobe University (+ Zoom)
+  Language: English
+
+  This symposium is held at the same venue on the day preceding LENLS22.
+  Participation does not require LENLS22 registration; separate registration
+  will be arranged by JST (details TBA).
+</xsl:template>
+
 <xsl:template match="sponsors">
 
 Sponsors:
