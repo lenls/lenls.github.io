@@ -39,23 +39,23 @@ including but not limited to the following:</p>
 
 <p>LENLS22 will be held in a hybrid format. Most presentations will take place in person at Kobe University, with the exception of a few remote talks. We will also provide a Zoom live stream for remote attendance. However, please note that the Zoom link will only be shared with registered participants.</p></description>
 
-<submission>
-Authors are required to choose from one of the following two submission categories: 
-<category>Abstract Only</category> and <category>Abstract+Full Paper</category>.  For both categories, authors must submit abstracts 
-(anonymous, up to 4 pages including figures and references, A4 size, 12-point font) 
+<!--submission>
+Authors are required to choose from one of the following two submission categories:
+<category>Abstract Only</category> and <category>Abstract+Full Paper</category>.  For both categories, authors must submit abstracts
+(anonymous, up to 4 pages including figures and references, A4 size, 12-point font)
 on original, unpublished research.  Abstracts must be submitted electronically in PDF at:
 
 <url>https://easychair.org/conferences/?conf=lenls22</url>
 
-<p>Upon acceptance, authors (both categories) are expected to submit extended abstracts 
-(up to 5 pages) before Nov 13.  Note that abstracts submitted to the <category>Abstract+Full Paper</category> 
-category may be accepted in the <category>Abstract Only</category> category (but not vice versa).  
-The proceedings of the workshop will be made available online, including extended abstracts 
+<p>Upon acceptance, authors (both categories) are expected to submit extended abstracts
+(up to 5 pages) before Nov 13.  Note that abstracts submitted to the <category>Abstract+Full Paper</category>
+category may be accepted in the <category>Abstract Only</category> category (but not vice versa).
+The proceedings of the workshop will be made available online, including extended abstracts
 (both categories).</p>
 
-<p>Authors submitting to the <category>Abstract+Full Paper</category> category are required to submit a full paper 
+<p>Authors submitting to the <category>Abstract+Full Paper</category> category are required to submit a full paper
 (up to 16 pages, excluding references and appendices) for the post-proceedings volume after the conference and at least one of them must agree to review at least one other full paper.</p>
-</submission>
+</submission-->
 
 <aipolicy><cp>Authors bear full responsibility for all content in their submissions, regardless of whether AI tools were used in their preparation. AI systems may not be listed as co-authors. Submissions found to contain hallucinated content (e.g., fabricated references or citations) will be desk-rejected.</cp>
 
@@ -71,7 +71,7 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
   date="Nov. 25 (Wed), 2026, 13:30–17:00"
 />
 <importantdates>
-<importantdate name="Abstract submission deadline"     date="Sep. 2, 2026 (AoE, extended)" />
+<importantdate name="Abstract submission deadline"     date="Sep. 2, 2026 (AoE, extended)" done="yes" />
 <importantdate name="Notification of acceptance"       date="Oct. 1, 2026 (AoE)" />
 <importantdate name="Deadline for early registration"  date="Oct. 31, 2026 (AoE)" />
 <importantdate name="Deadline for the extended abstract" date="Nov. 13, 2026 (AoE)" />
