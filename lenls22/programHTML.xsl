@@ -84,6 +84,7 @@
     </a>
     <nav class="header-nav">
       <a href="#topics">Topics</a>
+      <xsl:if test="satelliteevent"><a href="#satelliteevent">Event</a></xsl:if>
       <xsl:if test="importantdates!=''"><a href="#dates">Dates</a></xsl:if>
       <xsl:if test="registration!=''"><a href="#registration">Registration</a></xsl:if>
       <xsl:if test="program!=''"><a href="#program">Program</a></xsl:if>
