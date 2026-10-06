@@ -87,7 +87,7 @@ LENLS is being organized by an alliance of the following sponsors.
 
 - The Association for Logic, Language and Information (FoLLI)
 - "The Nexus of Human-LLM Interaction: A Multidisciplinary Linguistic Approach to Building a Collaborative Feedback Loop" project (Grant Number JPMJCR2565), funded by JST CREST Programs "Creation of an Interdisciplinary System Foundation for Realizing a Society of Human-AI Coexistence and Collaboration"
-- Kobe University
+- Graduate School of Humanities, Kobe University
 - JSPS KAKENHI Grant Number JP23H03452, Japan.
 
 
