@@ -79,7 +79,7 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 <importantdate name="LENLS22"                          date="Nov. 26-28, 2026" />
 <importantdate name="Deadline for full papers"         date="Dec. 11, 2026 (AoE)" />
 </importantdates>
-<!--registration>
+<registration>
   <site>https://forms.gle/k9N5zGMRYH3rU3j38</site>
   <description1>The registration is available via the link below. </description1>
   <description2>
@@ -91,7 +91,7 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
   <fee type="Registration fee for in-person participation: " price="5,000 yen" />
   <fee type="Registration fee for online participation: " price="free of charge" />
   <fee type="Conference dinner fee: " price="5,000 yen" />
-  </registration--><!--onlineproceedings url="https://lenls.github.io/lenls22/LENLS22OnlineProceedings.pdf" /-->
+  </registration><!--onlineproceedings url="https://lenls.github.io/lenls22/LENLS22OnlineProceedings.pdf" /-->
 <program status="tentative">
 <day date="1st Day: November 26 (Thu)">
 
