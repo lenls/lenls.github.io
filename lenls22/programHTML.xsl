@@ -358,10 +358,20 @@
         <td class="dt-name">Language</td>
         <td><span class="dt-date">English</span></td>
       </tr>
+      <tr>
+        <td class="dt-name">Registration</td>
+        <td><span class="dt-date">Free of charge; separate registration required (deadline: <xsl:value-of select="@regdeadline" />)</span></td>
+      </tr>
     </table>
     <p style="font-size:.88rem;margin-top:.7rem;color:#4a5568">
-      This symposium is held at the same venue on the day preceding LENLS22. Participation in this event does not require LENLS22 registration; separate registration will be arranged by JST (details to be announced).
+      This symposium is held as a pre-conference event of LENLS22 at the same venue. Participation in this event does not require LENLS22 registration, and individuals who are not participating in LENLS22 are also welcome. Whether online or in person, please register separately via the official page below. On-site registration closes when the capacity is reached.
     </p>
+    <xsl:if test="@url">
+      <a class="reg-link" style="margin-top:.8rem">
+        <xsl:attribute name="href"><xsl:value-of select="@url" /></xsl:attribute>
+        Official Page &amp; Registration
+      </a>
+    </xsl:if>
   </section>
 </xsl:template>
 

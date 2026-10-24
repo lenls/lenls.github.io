@@ -151,9 +151,15 @@ Pre-conference Event:
   Venue: Takigawa Memorial Hall 2F, Large Conference Room, Kobe University (+ Zoom)
   Language: English
 
-  This symposium is held at the same venue on the day preceding LENLS22.
-  Participation does not require LENLS22 registration; separate registration
-  will be arranged by JST (details TBA).
+  Registration: free of charge; separate registration required
+  (deadline: <xsl:value-of select="@regdeadline" />)
+
+  This symposium is held as a pre-conference event of LENLS22 at the
+  same venue. Participation does not require LENLS22 registration, and
+  those who are not participating in LENLS22 are also welcome. Whether
+  online or in person, please register separately via the official
+  page:
+  <xsl:value-of select="@url" />
 </xsl:template>
 
 <xsl:template match="sponsors">

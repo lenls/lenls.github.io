@@ -16,7 +16,7 @@
 Workshop Site : Kobe University
                 Takigawa Memorial Hall 2F, Large Conference Room, 1-1 Rokkodai-cho, Nada-ku, Kobe 657-8501
                 https://www.kobe-u.ac.jp/en/campus-life/maps/rokkodai2/
-Dates         : November 26 (Thu) - 28 (Sat), 2026
+Dates         : November 25 (Wed) - 28 (Sat), 2026
 Contact Person: Osamu Sawada (Kobe University)
 Contact Email : lenls22[[at]]easychair.org
 Website       : https://lenls.github.io/lenls22/
@@ -53,22 +53,28 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 
 Pre-conference Event:
 =====================
-Joint Symposium of JST CREST "Symbiotic AI Interdisciplinary System" and PRESTO "Symbiotic AI Fundamentals 2026"
+Joint Symposium of JST CREST "Symbiotic AI Interdisciplinary System" and PRESTO "Symbiotic AI Fundamentals" 2026
 
   Date: Nov. 25 (Wed), 2026, 13:30–18:00
   Venue: Takigawa Memorial Hall 2F, Large Conference Room, Kobe University (+ Zoom)
   Language: English
 
-  This symposium is held at the same venue on the day preceding LENLS22.
-  Participation does not require LENLS22 registration; separate registration
-  will be arranged by JST (details TBA).
+  Registration: free of charge; separate registration required
+  (deadline: Nov. 20 (Fri), 2026, 12:00 (JST))
 
+  This symposium is held as a pre-conference event of LENLS22 at the
+  same venue. Participation does not require LENLS22 registration, and
+  those who are not participating in LENLS22 are also welcome. Whether
+  online or in person, please register separately via the official
+  page:
+  https://www.jst.go.jp/kisoken/aip/result/event/jointsympo_symbio2026/index.html
 
 Important dates:
 ================
 Deadline for early registration: Oct. 31, 2026 (AoE)
 Deadline for the extended abstract: Nov. 13, 2026 (AoE)
 Deadline for online registration: Nov. 16, 2026 (AoE)
+Pre-conference Event (JST CREST-PRESTO Joint Symposium): Nov. 25, 2026
 LENLS22: Nov. 26-28, 2026
 Deadline for full papers: Dec. 11, 2026 (AoE)
 
@@ -89,6 +95,11 @@ https://forms.gle/k9N5zGMRYH3rU3j38
 Program (tentative):
 ====================
 The program is tentative and may be subject to change.
+
+Pre-conference Event: November 25 (Wed)
+--------------------------
+
+13:30-18:00: JST CREST-PRESTO Joint Symposium (separate registration)
 
 1st Day: November 26 (Thu)
 --------------------------
@@ -235,7 +246,7 @@ Program Committee:
   - Yoshiki Mori (University of Tokyo)
   - Yang Muyi (Osaka University)
   - Shinya Okano (University of Tokyo)
-  - David -Y. Oshima (Nagoya University)
+  - David Y. Oshima (Nagoya University)
   - Lukas Rieser (Tokyo University of Agriculture and Technology)
   - Osamu Sawada (Kobe University)
   - Eri Tanaka (Osaka University)
