@@ -416,7 +416,7 @@
      ════════════════════════════════════════════════════ -->
 <xsl:template match="program">
   <section id="program">
-    <h2 class="section-heading">Program</h2>
+    <h2 class="section-heading">Program<xsl:if test="@status='tentative'"> (tentative)</xsl:if></h2>
     <xsl:apply-templates />
   </section>
 </xsl:template>

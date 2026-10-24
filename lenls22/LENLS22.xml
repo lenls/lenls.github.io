@@ -80,19 +80,102 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 <importantdate name="Deadline for full papers"         date="Dec. 11, 2026 (AoE)" />
 </importantdates>
 <!--registration>
-  <site>https://forms.gle/LyLkTAsH2xosAqXe9</site>
+  <site>https://forms.gle/k9N5zGMRYH3rU3j38</site>
   <description1>The registration is available via the link below. </description1>
   <description2>
     The registration fee will be collected on-site at the reception desk (cash only).  
     The zoom link will be shared only among the registered participants.
     The deadline for the registration with the conference dinner is October 31, 2026 (AoE).
-    The registration with the conference dinner is closed.
     The deadline for the registration without the conference dinner is November 16, 2026 (AoE).
   </description2>
   <fee type="Registration fee for in-person participation: " price="5,000 yen" />
   <fee type="Registration fee for online participation: " price="free of charge" />
   <fee type="Conference dinner fee: " price="5,000 yen" />
   </registration--><!--onlineproceedings url="https://lenls.github.io/lenls22/LENLS22OnlineProceedings.pdf" /-->
+<program status="tentative">
+<day date="1st Day: November 26 (Thu)">
+
+<event time="9:50-10:00" name="Opening remark" />
+
+<session time="10:00-11:30" name="Anaphora and dynamic semantics" chair="Daisuke Bekki">
+  <talk author="Patrick Elliott and Alexandros Kalomoiros" title="Complement subordination" number="19" cat="long" pages="" />
+  <talk author="Oleg Kiselyov" title="From Dependent Anaphora to Paycheck Pronouns in Static Orthodox First-Order Logic" number="15" cat="long" pages="" />
+  <talk author="Hajime Mori and Soichiro Kinoshita" title="A CDRT Analysis of the Indefinite Interpretation of Russian Pronouns as Predicate Anaphora" number="21" cat="short" pages="" />
+</session>
+
+<session time="13:30-15:00" name="Social meaning and perspective" chair="Yoshiki Mori">
+  <talk author="Elin McCready" title="Formalizing Perspectives" number="25" cat="long" pages="" />
+  <talk author="Elin McCready and Grégoire Winterstein" title="Just Asking Questions?" number="26" cat="long" pages="" />
+  <talk author="Samuel Laperle" title="French gym bros are bad roommates: an attempt to characterize the semantics of personae" number="28" cat="short" pages="" />
+</session>
+
+<session time="15:30-17:00" name="Logic and proof theory" chair="Koji Mineshima">
+  <talk author="Hinari Daido and Daisuke Bekki" title="Disjunctive Anaphora in Dependent Type Semantics and its Automated Theorem Prover" number="4" cat="long" pages="" />
+  <talk author="Shunsuke Yatabe" title="Trinity" number="10" cat="short" pages="" />
+  <talk author="Kohei Kishida" title="Aristotle’s Substructural Sequent Calculus (Extended Abstract)" number="37" cat="long" pages="" />
+</session>
+
+<session time="17:30-18:30" name="Invited Talk" chair="Osamu Sawada">
+  <invitedtalk author="Thomas Grano" title="TBA" number="invited_grano" format="" pages="1" />
+</session>
+</day>
+
+<day date="2nd Day: November 27 (Fri)">
+
+<session time="10:00-11:30" name="Modality and pragmatics in Japanese and beyond" chair="Shinya Okano">
+  <talk author="Taro Hiraoka" title="Monotonic and non-monotonic confirmation-seeking: A scoreboard analysis of daroo? and daroo-ne? in Japanese" number="9" cat="short" pages="" />
+  <talk author="Yu Izumi" title="A Minimal Participant-Structure Semantics for Japanese Affixal Designation Terms" number="29" cat="short" pages="" />
+  <talk author="Christopher Davis, Tim Jantarungsee and Yasutada Sudo" title="How to Build a Modal: A Semantic Typology of Conditional Evaluative Constructions" number="16" cat="short" pages="" />
+</session>
+
+<session time="13:30-15:00" name="Experimental and computational approaches" chair="Grégoire Winterstein">
+  <talk author="Yixuan Yan" title="Dissociating Disjunctive Meaning from Clause-type Restrictions: Evidence from Child Mandarin" number="3" cat="long" pages="" />
+  <talk author="Kotomi Fujita, Daniel Plesniak, Haruka Fukushima and Daisuke Bekki" title="Analysis and Experimental Verification of Weak Crossover in the Double Object and Oblique Dative Constructions" number="32" cat="long" pages="" />
+  <talk author="Lisa Bylinina" title="Augustinian Language Learning: What Ostensive Definition Can and Cannot Teach a Small Language Model" number="24" cat="short" pages="" />
+</session>
+
+<session time="15:30-17:00" name="Expressives and evaluativity" chair="Yu Izumi">
+  <talk author="Linmin Zhang" title="What-exclamatives, indescribability, and extremeness" number="33" cat="long" pages="" />
+  <talk author="Osamu Sawada" title="Two types of rhetorical wh-expressives in Japanese" number="14" cat="short" pages="" />
+  <talk author="Frank Sode" title="The Use Conditions of Melioratives and Tense/Mood-Marking" number="17" cat="long" pages="" />
+</session>
+
+<session time="17:30-18:30" name="Quantification and genericity" chair="Patrick Elliott">
+  <talk author="Emil Eva Rosina, Michaela Hulmanová and Marcin Wągiel" title="Events are times" number="22" cat="short" pages="" />
+  <talk author="Satoru Suzuki" title="Intuitionistic-Bayesian Semantics of Generics Based on Belief Contraction" number="39" cat="short" pages="" />
+</session>
+
+<event time="19:30-" name="Conference dinner" />
+</day>
+
+<day date="3rd Day: November 28 (Sat)">
+
+<session time="10:00-11:30" name="Vagueness and degrees" chair="Kenta Mizutani">
+  <talk author="Ka-Fat Chow" title="A Boolean Many-Valued Treatment of Vague Quantified Statements" number="1" cat="long" pages="" />
+  <talk author="Linmin Zhang and Hanxi Zheng" title="Estimating the positive threshold of gradable adjectives with implicit comparison" number="36" cat="long" pages="" />
+  <talk author="Yi-Hsun Chen" title="A degree-semantic analysis of possessive measure phrases" number="5" cat="short" pages="" />
+</session>
+
+<session time="13:30-15:00" name="Nominals, kinds and mass" chair="Naoya Fujikawa">
+  <talk author="Yi-Hsun Chen and Ryan Smith" title="Two types of nominal similatives: the case of Mandarin Chinese" number="13" cat="short" pages="" />
+  <talk author="Ruoying Zhao, Abdullah Almuhaysh, Victoria Noble, Luca Molinari and Marcin Wągiel" title="What a mass! Counting Hasawi Arabic mass nouns without coercion" number="18" cat="long" pages="" />
+  <talk author="Timothée Bernard and Philippe de Groote" title="Two ways to be a singer: eventive and dispositional readings in perspective semantics" number="30" cat="long" pages="" />
+</session>
+
+<session time="15:30-17:00" name="Incrementality and scalar particles" chair="Eri Tanaka">
+  <talk author="Yu-Lun Huang and I-Ta Chris Hsieh" title="On the incremental use of again: a view from Mandarin" number="11" cat="long" pages="" />
+  <talk author="Chungmin Lee and Dongsik Lim" title="Incrementality and even-like particles in Korean" number="35" cat="short" pages="" />
+  <talk author="Ruoying Zhao and Moreno Mitrovic" title="Almost at-issue negative inference licenses expletive negation and more" number="7" cat="long" pages="" />
+</session>
+
+<session time="17:30-18:30" name="Invited Talk" chair="Elin McCready">
+  <invitedtalk author="Daniel Lassiter" title="TBA" number="invited_lassiter" format="" pages="1" />
+</session>
+
+<event time="18:30-18:40" name="Closing remark" />
+</day>
+
+</program>
 <sponsors>
 <sponsor url="http://www.folli.info/">The Association for Logic, Language and Information (FoLLI)</sponsor>
 <sponsor url="https://daisukebekki.github.io/crest2025.html" logo="images/crest_logo.svg" logoheight="0.725rem">"The Nexus of Human-LLM Interaction: A Multidisciplinary Linguistic Approach to Building a Collaborative Feedback Loop" project (Grant Number JPMJCR2565), funded by JST CREST Programs "Creation of an Interdisciplinary System Foundation for Realizing a Society of Human-AI Coexistence and Collaboration"</sponsor>

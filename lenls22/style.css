@@ -349,7 +349,9 @@ a:hover { color: var(--teal); text-decoration: underline; }
 }
 
 /* タイムライン縦線: 時刻列(4rem) + gap(1.4rem) → 中心 = 1.4 + 4 + 0.7 = 6.1rem */
+/* セッション・イベントごとの左罫線と2本に見えるので非表示（2026-10-24） */
 .program-timeline::before {
+  display: none;
   content: '';
   position: absolute;
   left: 6.1rem;
@@ -375,9 +377,10 @@ a:hover { color: var(--teal); text-decoration: underline; }
   position: relative;
 }
 
-/* ドット（タイムライン交点） */
+/* ドット（タイムライン交点）: 位置がずれて見栄えが悪いので非表示（2026-10-24） */
 .program-session::after,
 .program-event::after {
+  display: none;
   content: '';
   position: absolute;
   left: 5.75rem;
@@ -427,10 +430,11 @@ a:hover { color: var(--teal); text-decoration: underline; }
   margin-bottom: .45rem;
   align-items: baseline;
 }
+/* セッション名は著者名（.talk-author）より控えめに（2026-10-24） */
 .session-name {
-  font-weight: 600;
-  font-size: .88rem;
-  color: var(--primary);
+  font-weight: 500;
+  font-size: .8rem;
+  color: #718096;
 }
 .session-chair {
   font-size: .78rem;
