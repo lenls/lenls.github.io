@@ -131,7 +131,7 @@ Pre-conference Event: November 25 (Wed)
 
 17:30-18:30: Invited Talk
     * Thomas Grano
-      "TBA"
+      "The fine-grained modal semantics of English for-to infinitives"
 
 2nd Day: November 27 (Fri)
 --------------------------
