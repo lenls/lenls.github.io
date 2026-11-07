@@ -179,7 +179,7 @@ Pre-conference Event: November 25 (Wed)
     * Yi-Hsun Chen
       "A degree-semantic analysis of possessive measure phrases"
 
-13:30-15:00: Nominals, kinds and mass
+13:30-15:00: Atoms, Units, and Counting
     * Yi-Hsun Chen and Ryan Smith
       "Two types of nominal similatives: the case of Mandarin Chinese"
     * Ruoying Zhao, Abdullah Almuhaysh, Victoria Noble, Luca Molinari and Marcin Wągiel
