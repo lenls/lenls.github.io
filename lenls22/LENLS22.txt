@@ -124,8 +124,8 @@ Pre-conference Event: November 25 (Wed)
 15:30-17:00: Logic and proof theory
     * Hinari Daido and Daisuke Bekki
       "Disjunctive Anaphora in Dependent Type Semantics and its Automated Theorem Prover"
-    * Shunsuke Yatabe
-      "Trinity"
+    * Timothée Bernard and Philippe de Groote
+      "Two ways to be a singer: eventive and dispositional readings in perspective semantics"
     * Kohei Kishida
       "Aristotle’s Substructural Sequent Calculus (Extended Abstract)"
 
@@ -184,8 +184,8 @@ Pre-conference Event: November 25 (Wed)
       "Two types of nominal similatives: the case of Mandarin Chinese"
     * Ruoying Zhao, Abdullah Almuhaysh, Victoria Noble, Luca Molinari and Marcin Wągiel
       "What a mass! Counting Hasawi Arabic mass nouns without coercion"
-    * Timothée Bernard and Philippe de Groote
-      "Two ways to be a singer: eventive and dispositional readings in perspective semantics"
+    * Shunsuke Yatabe
+      "Trinity"
 
 15:30-17:00: Incrementality and scalar particles
     * Yu-Lun Huang and I-Ta Chris Hsieh
