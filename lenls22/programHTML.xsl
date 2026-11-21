@@ -405,10 +405,12 @@
   <section id="registration">
     <h2 class="section-heading">Registration</h2>
     <p style="font-size:.9rem;margin-bottom:.6rem"><xsl:value-of select="description1" /></p>
-    <a class="reg-link">
-      <xsl:attribute name="href"><xsl:value-of select="site" /></xsl:attribute>
-      Register Here
-    </a>
+    <xsl:if test="site!=''">
+      <a class="reg-link">
+        <xsl:attribute name="href"><xsl:value-of select="site" /></xsl:attribute>
+        Register Here
+      </a>
+    </xsl:if>
     <p style="font-size:.88rem;margin-top:.8rem;color:#4a5568"><xsl:value-of select="description2" /></p>
     <table class="fee-table">
       <xsl:for-each select="fee">

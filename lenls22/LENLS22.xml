@@ -77,19 +77,17 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
 <importantdate name="Notification of acceptance"       date="Oct. 1, 2026 (AoE)" done="yes" />
 <importantdate name="Deadline for early registration"  date="Oct. 31, 2026 (AoE)" done="yes" />
 <importantdate name="Deadline for the extended abstract" date="Nov. 13, 2026 (AoE)" />
-<importantdate name="Deadline for online registration"  date="Nov. 16, 2026 (AoE)" />
+<importantdate name="Deadline for online registration"  date="Nov. 16, 2026 (AoE)" done="yes" />
 <importantdate name="Pre-conference Event (JST CREST-PRESTO Joint Symposium)" date="Nov. 25, 2026" />
 <importantdate name="LENLS22"                          date="Nov. 26-28, 2026" />
 <importantdate name="Deadline for full papers"         date="Dec. 11, 2026 (AoE)" />
 </importantdates>
 <registration>
-  <site>https://forms.gle/k9N5zGMRYH3rU3j38</site>
-  <description1>The registration is available via the link below. </description1>
+  <!--site>https://forms.gle/k9N5zGMRYH3rU3j38</site-->
+  <description1>The registration is closed. </description1>
   <description2>
     The registration fee will be collected on-site at the reception desk (cash only).  
     The zoom link will be shared only among the registered participants.
-    The registration with the conference dinner is closed.
-    The deadline for the registration without the conference dinner is November 16, 2026 (AoE).
   </description2>
   <fee type="Registration fee for in-person participation: " price="5,000 yen" />
   <fee type="Registration fee for online participation: " price="free of charge" />
