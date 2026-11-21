@@ -466,6 +466,33 @@
   </div>
 </xsl:template>
 
+<!-- Page range in the online proceedings, linked to that page of the PDF.
+     Shown only when <onlineproceedings url="..."> is present (not commented out) and the talk has pages="N".
+     Start page = sum of pages="N" of the preceding talks/invited talks + 1 (same order as build_proceedings.py).
+     frontpages="N" on <onlineproceedings> is the number of front-matter pages (cover + TOC) before paper page 1. -->
+<xsl:template name="proc-pages">
+  <xsl:variable name="proc" select="//onlineproceedings[@url!='']" />
+  <xsl:if test="$proc and @pages!='' and @pages&gt;0">
+    <xsl:variable name="from" select="sum(preceding::talk/@pages) + sum(preceding::invitedtalk/@pages) + 1" />
+    <xsl:variable name="to" select="$from + @pages - 1" />
+    <xsl:variable name="front">
+      <xsl:choose>
+        <xsl:when test="$proc/@frontpages!=''"><xsl:value-of select="$proc/@frontpages" /></xsl:when>
+        <xsl:otherwise>0</xsl:otherwise>
+      </xsl:choose>
+    </xsl:variable>
+    <span class="talk-pages">
+      <a target="_blank" rel="noopener">
+        <xsl:attribute name="href"><xsl:value-of select="$proc/@url" />#page=<xsl:value-of select="$from + $front" /></xsl:attribute>
+        <xsl:choose>
+          <xsl:when test="$from = $to">p.&#160;<xsl:value-of select="$from" /></xsl:when>
+          <xsl:otherwise>pp.&#160;<xsl:value-of select="$from" />&#x2013;<xsl:value-of select="$to" /></xsl:otherwise>
+        </xsl:choose>
+      </a>
+    </span>
+  </xsl:if>
+</xsl:template>
+
 <xsl:template match="talk">
   <li class="talk-item">
     <div class="talk-author">
@@ -477,7 +504,7 @@
       </xsl:if>
       <xsl:value-of select="@author" />
     </div>
-    <div class="talk-title">&#x201C;<xsl:value-of select="@title" />&#x201D;</div>
+    <div class="talk-title">&#x201C;<xsl:value-of select="@title" />&#x201D;<xsl:call-template name="proc-pages" /></div>
   </li>
 </xsl:template>
 
@@ -487,7 +514,7 @@
       <span class="talk-badge badge-invited">Invited</span>
       <xsl:value-of select="@author" />
     </div>
-    <div class="talk-title">&#x201C;<xsl:value-of select="@title" />&#x201D;</div>
+    <div class="talk-title">&#x201C;<xsl:value-of select="@title" />&#x201D;<xsl:call-template name="proc-pages" /></div>
   </li>
 </xsl:template>
 

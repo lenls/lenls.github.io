@@ -26,7 +26,7 @@ $(NAME).txt:	$(NAME).xml programText.xsl
 			$(XSLT) programText.xsl $(NAME).xml | sed 1d > $(NAME).txt
 
 $(NAME).tex:	$(NAME).xml programTeX.xsl
-			$(XSLT) programTeX.xsl $(NAME).xml | sed 1d | ./pagenumber.pl > $(NAME).tex
+			$(XSLT) programTeX.xsl $(NAME).xml | sed 1d | perl ./pagenumber.pl > $(NAME).tex
 
 $(NAME).pdf:	$(NAME).tex
 			$(TEX) $(NAME).tex

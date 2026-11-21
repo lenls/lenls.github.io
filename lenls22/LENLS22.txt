@@ -91,9 +91,8 @@ https://forms.gle/k9N5zGMRYH3rU3j38
   - Registration fee for online participation: free of charge
   - Conference dinner fee: 5,000 yen
 
-Program (tentative):
-====================
-The program is tentative and may be subject to change.
+Program:
+========
 
 Pre-conference Event: November 25 (Wed)
 --------------------------
@@ -127,7 +126,7 @@ Pre-conference Event: November 25 (Wed)
     * Timothée Bernard and Philippe de Groote
       "Two ways to be a singer: eventive and dispositional readings in perspective semantics"
     * Kohei Kishida
-      "Aristotle’s Substructural Sequent Calculus (Extended Abstract)"
+      "Aristotle's Substructural Sequent Calculus (Extended Abstract)"
 
 17:30-18:30: Invited Talk
     * Thomas Grano
@@ -192,7 +191,7 @@ Pre-conference Event: November 25 (Wed)
       "On the incremental use of again: a view from Mandarin"
     * Chungmin Lee and Dongsik Lim
       "Incrementality and even-like particles in Korean"
-    * Ruoying Zhao and Moreno Mitrovic
+    * Ruoying Zhao and Moreno Mitrović
       "Almost at-issue negative inference licenses expletive negation and more"
 
 17:30-18:30: Invited Talk
@@ -232,7 +231,7 @@ Program Committee:
 ==================
   - Daisuke Bekki (Ochanomizu University)
   - Alastair Butler (Hirosaki University)
-  - Patrick D. Elliott (Heinrich-Heine University of Dusseldorf)
+  - Patrick D. Elliott (Heinrich-Heine University of Düsseldorf)
   - Naoya Fujikawa (University of Tokyo)
   - Hayate Funakura (Keio University)
   - Robert Henderson (University of Arizona)
@@ -250,7 +249,7 @@ Program Committee:
   - Osamu Sawada (Kobe University)
   - Eri Tanaka (Osaka University)
   - Wataru Uegaki (University of Edinburgh)
-  - Gregoire Winterstein (Université du Québec à Montréal)
+  - Grégoire Winterstein (Université du Québec à Montréal)
   - Shunsuke Yatabe (Ochanomizu University)
   - Kei Yoshimoto (Tohoku University)
 

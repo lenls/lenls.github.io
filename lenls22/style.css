@@ -476,6 +476,9 @@ a:hover { color: var(--teal); text-decoration: underline; }
 .talk-item.invited-talk::before { display: none; }
 .talk-author { font-weight: 600; font-size: .88rem; color: var(--text); }
 .talk-title  { font-style: italic; color: var(--text-muted); font-size: .86rem; }
+.talk-pages  { font-style: normal; font-size: .78rem; margin-left: .5rem; white-space: nowrap; }
+.talk-pages a { color: var(--teal); text-decoration: none; }
+.talk-pages a:hover { text-decoration: underline; }
 
 .talk-badge {
   display: inline-block;
