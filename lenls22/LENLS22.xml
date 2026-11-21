@@ -93,6 +93,11 @@ series, in accordance with the contract between Springer Nature Switzerland AG a
   <fee type="Registration fee for online participation: " price="free of charge" />
   <fee type="Conference dinner fee: " price="5,000 yen" />
   </registration><onlineproceedings url="https://lenls.github.io/lenls22/LENLS22OnlineProceedings.pdf" frontpages="8" />
+<localinfo>
+  <doc url="LENLS22_Access_Map.pdf" name="Access map: how to get to the venue (Takigawa Memorial Hall, Rokkodai 2nd Campus)" />
+  <doc url="LENLS22_Lunch_Map.pdf" name="Lunch options on campus and around Rokko" />
+  <doc url="LENLS22_Conference_Dinner.pdf" name="Conference dinner (Nov. 27, 19:30): how to get to Meikensou, Sannomiya" />
+</localinfo>
 <program>
 <day date="Pre-conference Event: November 25 (Wed)">
 

@@ -47,6 +47,7 @@
     <xsl:if test="onlineproceedings">
       <xsl:if test="onlineproceedings/@url!=''"><a href="#onlineproceedings">Online Proceedings</a></xsl:if>
     </xsl:if>
+    <xsl:if test="localinfo"><a href="#localinfo">Local Information</a></xsl:if>
     <xsl:if test="importantdates!=''"><a href="#dates">Important Dates</a></xsl:if>
     <xsl:if test="registration!=''"><a href="#registration">Registration</a></xsl:if>
     <xsl:if test="program!=''"><a href="#program">Program</a></xsl:if>
@@ -87,6 +88,7 @@
       <xsl:if test="satelliteevent"><a href="#satelliteevent">Event</a></xsl:if>
       <xsl:if test="importantdates!=''"><a href="#dates">Dates</a></xsl:if>
       <xsl:if test="registration!=''"><a href="#registration">Registration</a></xsl:if>
+      <xsl:if test="localinfo"><a href="#localinfo">Local Info</a></xsl:if>
       <xsl:if test="program!=''"><a href="#program">Program</a></xsl:if>
       <a href="#committee">Committee</a>
       <a href="#contact">Contact</a>
@@ -320,6 +322,17 @@
         <img width="110" src="./LNCS-Logo.jpg" alt="LNCS" />
       </a>
     </div>
+  </section>
+</xsl:template>
+
+<xsl:template match="localinfo">
+  <section id="localinfo">
+    <h2 class="section-heading">Venue and Local Information</h2>
+    <ul class="localinfo-list">
+      <xsl:for-each select="doc">
+        <li><a target="_blank" rel="noopener"><xsl:attribute name="href"><xsl:value-of select="@url" /></xsl:attribute><xsl:value-of select="@name" /></a> (PDF)</li>
+      </xsl:for-each>
+    </ul>
   </section>
 </xsl:template>
 

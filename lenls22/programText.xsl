@@ -76,6 +76,8 @@ Submissions:
 Selected Papers:
 ================<xsl:value-of select="." /></xsl:template>
 
+<xsl:template match="localinfo" />
+
 <xsl:template match="registration"><xsl:text>&#10;&#10;Registration:&#10;=============&#10;</xsl:text>
 <xsl:value-of select="normalize-space(description1)" /><xsl:text>&#10;</xsl:text>
 <xsl:value-of select="site" />

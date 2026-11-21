@@ -826,3 +826,7 @@ a:hover { color: var(--teal); text-decoration: underline; }
   .kf-item { border-bottom: 1px solid var(--border); }
   .kf-item:last-child { border-bottom: none; }
 }
+
+.localinfo-list { font-size: .9rem; margin: .4rem 0 0 1.2rem; }
+.localinfo-list li { margin: .3rem 0; }
+.localinfo-list a { color: var(--teal); font-weight: 600; }
